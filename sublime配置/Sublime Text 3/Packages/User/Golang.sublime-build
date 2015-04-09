@@ -1,0 +1,6 @@
+{
+	"cmd": ["go", "run", "$file_name"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "working_dir": "$file_path",
+    "selector": "source.go"
+}

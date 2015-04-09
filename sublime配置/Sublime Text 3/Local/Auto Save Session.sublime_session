@@ -1,0 +1,1026 @@
+{
+	"folder_history":
+	[
+		"/E/sDebug_remote",
+		"/E/serving_remote",
+		"/E/sDebug_new",
+		"/E/serving_v20150319/backend/src",
+		"/E/serving_v20150319",
+		"/D/go/src",
+		"/D/go",
+		"/E/serving_new",
+		"/E/sDebug_new/Data",
+		"/E/sDebug",
+		"/E/serving/backend"
+	],
+	"last_version": 3065,
+	"last_window_id": 35,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 680.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"v",
+						"Ver	string ν"
+					],
+					[
+						"s",
+						"Site	*Request_Site ν"
+					],
+					[
+						"R",
+						"Response	struct ʈ"
+					],
+					[
+						"total",
+						"totalSidNum"
+					],
+					[
+						"SID",
+						"SidNum1"
+					],
+					[
+						"S",
+						"SidNum2"
+					],
+					[
+						"for",
+						"formatTime"
+					],
+					[
+						"time",
+						"timeArray"
+					],
+					[
+						"end",
+						"endTime"
+					],
+					[
+						"start",
+						"startTime"
+					],
+					[
+						"pr",
+						"Printf"
+					],
+					[
+						"sid",
+						"sidstatus"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 81.0,
+				"selected_items":
+				[
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/开发机",
+				"/E/serving_v20150319/backend/src/bench/proto/adx/adx.pb.go",
+				"/E/serving_v20150319/backend/src/wisdom/handler/adx/rtb.go",
+				"/E/serving_v20150319/backend/src/thrift-gen/schema/ttypes.go",
+				"/E/serving_v20150319/backend/src/wisdom/handler/baidu/rtb.go",
+				"/E/serving_v20150319/backend/src/bench/proto/baidu/baidu.pb.go",
+				"/E/serving_v20150319/backend/src/wisdom/handler/mega/rtb.go",
+				"/E/serving_remote/deploy/machine.conf",
+				"/C/Users/yalay/Downloads/commands.py",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/E/serving_remote/backend/src/wisdom/handler/sax/rtb_bak.go",
+				"/E/serving_remote/backend/src/wisdom/handler/sax/rtb.go",
+				"/E/serving_v20150319/backend/src/adserver/adserver.thrift",
+				"/E/serving_v20150319/backend/src/thrift-gen/adserver/ttypes.go",
+				"/E/serving_remote/sftp-config.json",
+				"/C/users/yalay/appdata/local/temp/sublime-sftp-browse-1428459866/开发机/sftp-config-alt2.json",
+				"/C/users/yalay/appdata/local/temp/sublime-sftp-browse-1428459866/开发机/sftp-config.json",
+				"/C/users/yalay/appdata/local/temp/sublime-sftp-browse-1428459866/开发机/sftp-config-alt.json",
+				"/E/serving_v20150319/backend/src/git.apache.org/thrift.git/lib/php/ClassLoader/ThriftClassLoader.php",
+				"/E/serving_v20150319/backend/src/github.com/golang/protobuf/proto/extensions.go",
+				"/E/sDebug_new/Data/runningS/2015-04-01/1427817014",
+				"/C/Users/yalay/Desktop/session.log",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/E/sDebug_new/py/schema.py",
+				"/D/go/.tags",
+				"/E/serving_v20150319/backend/src/wisdom/handler/gdt/rtb.go",
+				"/C/Users/yalay/Documents/index.html",
+				"/E/ctags/ctags.conf",
+				"/E/serving_v20150319/.tags_sorted_by_file",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/E/serving_v20150319/backend/src/wisdom/proto/gdt/gdt.pb.go",
+				"/E/serving_v20150319/backend/src/wisdom/handler/gdt/rtb_test.go",
+				"/E/serving_v20150319/backend/src/wisdom/handler/jrtt/rtb.go",
+				"/E/serving_v20150319/gotags.go",
+				"/E/ctags/ctags_build_serving.bat",
+				"/E/serving_v20150319/backend/src/tripod/zkutil/zkutil.go",
+				"/E/serving_v20150319/backend/src/adserver/server/adserver_handler.go",
+				"/E/serving_v20150319/backend/src/wisdom/handler/jrtt/rtb_test.go",
+				"/E/serving_v20150319/.tags",
+				"/E/serving_v20150319/backend/src/adserver/adserver.go",
+				"/E/serving_v20150319/backend/src/tripod/devkit/util.go",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/README.md",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"/E/gotags/gotags.go",
+				"/E/serving_v20150319/backend/gotags.go",
+				"/E/gotags/README.md",
+				"/E/gotags/LICENSE",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/E/serving/backend/src/adserver/selector/bid_selector.go",
+				"/E/serving/backend/src/util/conf.go",
+				"/E/serving/backend/src/adserver/test/buildCase.go",
+				"/E/serving/backend/src/adserver/running/statusHandler_test.go",
+				"/E/serving/backend/src/adserver/running/statusHandler_debug.go",
+				"/E/serving/backend/src/adserver/running/statusHandler.go",
+				"/E/serving/backend/src/adserver/common/ad_filter.go",
+				"/E/serving/backend/src/adserver/handler/base_handler.go",
+				"/E/sDebug/py/debugServer.py",
+				"/C/Users/yalay/.ssh/id_rsa.pub",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+				"/E/serving/backend/.tags",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-mousemap"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"E:\\serving_v20150319\\backend\\src\\wisdom",
+					"E:\\serving_v20150319\\backend\\src\\",
+					"E:\\serving_v20150319\\backend\\src\\wisdom",
+					"E:\\serving_v20150319\\backend\\src",
+					"E:\\serving_v20150319\\backend\\src\\wisdom",
+					"E:\\sDebug_new",
+					"E:\\serving_v20150319\\backend\\src\\wisdom",
+					"E:\\serving_v20150319\\backend\\src\\wisdom\\proto",
+					"E:\\serving_v20150319\\backend\\src\\github.com\\golang\\protobuf\\proto",
+					"E:\\serving\\backend\\src\\adserver",
+					"E:\\serving\\backend",
+					"E:\\serving\\backend\\src\\util",
+					"E:\\serving\\backend\\src\\adserver\\selector",
+					"E:\\serving\\backend"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"CreativeTypeSetting",
+					"GetImpType",
+					"pos",
+					"GetBidType",
+					"BidTypeSiteBannerWap",
+					"BidTypeSiteVideo",
+					"BidTypeSiteBannerPc",
+					"BidTypeWap",
+					"BidTypeSiteBannerWap",
+					"SlotType",
+					"GetBidFloor",
+					"Request_User_Data",
+					"Request_Device_Geo",
+					"Request_Content_Ext",
+					"Request_Direct_Deal",
+					"Request_Banner_Ext",
+					"Request_Impression_Pmp",
+					"Request_Impression_Native",
+					"Request_Impression_Video",
+					"Request_Impression_Banner",
+					"adtype",
+					"QihuHandler",
+					"Qihu",
+					"qihu",
+					"Response_SeatBid",
+					"MaxDuration uint32              `json:\"maxduration\"`",
+					"ServeHTTP",
+					"BuildAdserverRequest",
+					"ServeMux",
+					"handler",
+					"Handler",
+					"handler",
+					"pTanx",
+					"BuildAdserverRequest",
+					"connTypeMap",
+					"items",
+					"index",
+					"queryAdId",
+					"queryAdgId",
+					"Hour",
+					"hourStatus",
+					" =",
+					"status",
+					"insertStatusRecord",
+					"fileHour",
+					"insertStatusRecord",
+					"insertEcpm",
+					"insertCmsRecord",
+					"Prase",
+					"Parse",
+					"Prase",
+					"Parse",
+					"Prase",
+					"()",
+					"insertEcpm",
+					"monitor",
+					"GetDebugAdId",
+					"KcontentType",
+					"MaxBrowseClickInterval",
+					"deviceTypePc",
+					"SIXIANWAP_ANDROID",
+					"DSPNAME",
+					"TmpNormal",
+					"\",\n",
+					"replaceGdtOsType",
+					"replaceStrByFormat",
+					"replaceGdtOsType",
+					"env",
+					"getDevType",
+					"IOS",
+					"eplace",
+					"ReplaceGdtOsType",
+					"GetOs",
+					"BidRequest_OperatingSystem_name",
+					"go",
+					"os",
+					"BidRequest_Device",
+					"ReplaceGdtUaType",
+					"        \n",
+					"setPraseFunc",
+					"loadBiddingData",
+					"kWindowSize",
+					"pdb",
+					"Processer",
+					"loadBiddingEcpm",
+					"NewZServer",
+					"FilterInfo",
+					"xrange",
+					"xange",
+					"StatusDumpFile",
+					"int",
+					"AddCreativeStatus",
+					"AddCreativesStatus"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"BidTypeWap",
+					"BidTypeVideo",
+					"Request_UserData",
+					"Request_DeviceGeo",
+					"Request_ContentExt",
+					"Request_DirectDeal",
+					"Request_BannerExt",
+					"Request_ImpressionPmp",
+					"Request_ImpressionNative",
+					"Request_ImpressionVideo",
+					"Request_ImpressionBanner"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 139.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 269.0
+			},
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"backend\\src\\tripod\\define\\constants.go"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 209.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1277.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"v",
+						"Ver	string ν"
+					],
+					[
+						"s",
+						"Site	*Request_Site ν"
+					],
+					[
+						"R",
+						"Response	struct ʈ"
+					],
+					[
+						"total",
+						"totalSidNum"
+					],
+					[
+						"SID",
+						"SidNum1"
+					],
+					[
+						"S",
+						"SidNum2"
+					],
+					[
+						"for",
+						"formatTime"
+					],
+					[
+						"time",
+						"timeArray"
+					],
+					[
+						"end",
+						"endTime"
+					],
+					[
+						"start",
+						"startTime"
+					],
+					[
+						"pr",
+						"Printf"
+					],
+					[
+						"sid",
+						"sidstatus"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/serving_remote/backend/src/tripod/define/constants.go",
+					"settings":
+					{
+						"buffer_size": 3500,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/serving_remote/backend/src/wisdom/handler/sax/rtb.go",
+					"settings":
+					{
+						"buffer_size": 11596,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/serving_remote/backend/src/wisdom/json/sax/sax.json.go",
+					"settings":
+					{
+						"buffer_size": 11280,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/serving_remote/backend/src/thrift-gen/schema/ttypes.go",
+					"settings":
+					{
+						"buffer_size": 308774,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/serving_remote/backend/src/thrift-gen/adserver/ttypes.go",
+					"settings":
+					{
+						"buffer_size": 175678,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 81.0,
+				"selected_items":
+				[
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/serving_remote",
+				"/E/serving_remote/backend",
+				"/E/serving_remote/backend/src",
+				"/E/serving_remote/backend/src/tripod",
+				"/E/serving_remote/backend/src/tripod/define",
+				"/E/serving_remote/backend/src/wisdom",
+				"/E/serving_remote/backend/src/wisdom/handler",
+				"/E/serving_remote/backend/src/wisdom/handler/sax"
+			],
+			"file_history":
+			[
+				"/E/serving_v20150319/backend/src/bench/proto/adx/adx.pb.go",
+				"/E/serving_v20150319/backend/src/wisdom/handler/adx/rtb.go",
+				"/E/serving_v20150319/backend/src/thrift-gen/schema/ttypes.go",
+				"/E/serving_v20150319/backend/src/wisdom/handler/baidu/rtb.go",
+				"/E/serving_v20150319/backend/src/bench/proto/baidu/baidu.pb.go",
+				"/E/serving_v20150319/backend/src/wisdom/handler/mega/rtb.go",
+				"/E/serving_remote/deploy/machine.conf",
+				"/C/Users/yalay/Downloads/commands.py",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/E/serving_remote/backend/src/wisdom/handler/sax/rtb_bak.go",
+				"/E/serving_remote/backend/src/wisdom/handler/sax/rtb.go",
+				"/E/serving_v20150319/backend/src/adserver/adserver.thrift",
+				"/E/serving_v20150319/backend/src/thrift-gen/adserver/ttypes.go",
+				"/E/serving_remote/sftp-config.json",
+				"/C/users/yalay/appdata/local/temp/sublime-sftp-browse-1428459866/开发机/sftp-config-alt2.json",
+				"/C/users/yalay/appdata/local/temp/sublime-sftp-browse-1428459866/开发机/sftp-config.json",
+				"/C/users/yalay/appdata/local/temp/sublime-sftp-browse-1428459866/开发机/sftp-config-alt.json",
+				"/E/serving_v20150319/backend/src/git.apache.org/thrift.git/lib/php/ClassLoader/ThriftClassLoader.php",
+				"/E/serving_v20150319/backend/src/github.com/golang/protobuf/proto/extensions.go",
+				"/E/sDebug_new/Data/runningS/2015-04-01/1427817014",
+				"/C/Users/yalay/Desktop/session.log",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/E/sDebug_new/py/schema.py",
+				"/D/go/.tags",
+				"/E/serving_v20150319/backend/src/wisdom/handler/gdt/rtb.go",
+				"/C/Users/yalay/Documents/index.html",
+				"/E/ctags/ctags.conf",
+				"/E/serving_v20150319/.tags_sorted_by_file",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/E/serving_v20150319/backend/src/wisdom/proto/gdt/gdt.pb.go",
+				"/E/serving_v20150319/backend/src/wisdom/handler/gdt/rtb_test.go",
+				"/E/serving_v20150319/backend/src/wisdom/handler/jrtt/rtb.go",
+				"/E/serving_v20150319/gotags.go",
+				"/E/ctags/ctags_build_serving.bat",
+				"/E/serving_v20150319/backend/src/tripod/zkutil/zkutil.go",
+				"/E/serving_v20150319/backend/src/adserver/server/adserver_handler.go",
+				"/E/serving_v20150319/backend/src/wisdom/handler/jrtt/rtb_test.go",
+				"/E/serving_v20150319/.tags",
+				"/E/serving_v20150319/backend/src/adserver/adserver.go",
+				"/E/serving_v20150319/backend/src/tripod/devkit/util.go",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/README.md",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"/E/gotags/gotags.go",
+				"/E/serving_v20150319/backend/gotags.go",
+				"/E/gotags/README.md",
+				"/E/gotags/LICENSE",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/E/serving/backend/src/adserver/selector/bid_selector.go",
+				"/E/serving/backend/src/util/conf.go",
+				"/E/serving/backend/src/adserver/test/buildCase.go",
+				"/E/serving/backend/src/adserver/running/statusHandler_test.go",
+				"/E/serving/backend/src/adserver/running/statusHandler_debug.go",
+				"/E/serving/backend/src/adserver/running/statusHandler.go",
+				"/E/serving/backend/src/adserver/common/ad_filter.go",
+				"/E/serving/backend/src/adserver/handler/base_handler.go",
+				"/E/sDebug/py/debugServer.py",
+				"/C/Users/yalay/.ssh/id_rsa.pub",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+				"/E/serving/backend/.tags",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-mousemap"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"E:\\serving_v20150319\\backend\\src\\wisdom",
+					"E:\\serving_v20150319\\backend\\src\\",
+					"E:\\serving_v20150319\\backend\\src\\wisdom",
+					"E:\\serving_v20150319\\backend\\src",
+					"E:\\serving_v20150319\\backend\\src\\wisdom",
+					"E:\\sDebug_new",
+					"E:\\serving_v20150319\\backend\\src\\wisdom",
+					"E:\\serving_v20150319\\backend\\src\\wisdom\\proto",
+					"E:\\serving_v20150319\\backend\\src\\github.com\\golang\\protobuf\\proto",
+					"E:\\serving\\backend\\src\\adserver",
+					"E:\\serving\\backend",
+					"E:\\serving\\backend\\src\\util",
+					"E:\\serving\\backend\\src\\adserver\\selector",
+					"E:\\serving\\backend"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"GetBidType",
+					"define.PlatformPc",
+					"platform",
+					"CreativeTypeSetting",
+					"GetImpType",
+					"pos",
+					"GetBidType",
+					"BidTypeSiteBannerWap",
+					"BidTypeSiteVideo",
+					"BidTypeSiteBannerPc",
+					"BidTypeWap",
+					"BidTypeSiteBannerWap",
+					"SlotType",
+					"GetBidFloor",
+					"Request_User_Data",
+					"Request_Device_Geo",
+					"Request_Content_Ext",
+					"Request_Direct_Deal",
+					"Request_Banner_Ext",
+					"Request_Impression_Pmp",
+					"Request_Impression_Native",
+					"Request_Impression_Video",
+					"Request_Impression_Banner",
+					"adtype",
+					"QihuHandler",
+					"Qihu",
+					"qihu",
+					"Response_SeatBid",
+					"MaxDuration uint32              `json:\"maxduration\"`",
+					"ServeHTTP",
+					"BuildAdserverRequest",
+					"ServeMux",
+					"handler",
+					"Handler",
+					"handler",
+					"pTanx",
+					"BuildAdserverRequest",
+					"connTypeMap",
+					"items",
+					"index",
+					"queryAdId",
+					"queryAdgId",
+					"Hour",
+					"hourStatus",
+					" =",
+					"status",
+					"insertStatusRecord",
+					"fileHour",
+					"insertStatusRecord",
+					"insertEcpm",
+					"insertCmsRecord",
+					"Prase",
+					"Parse",
+					"Prase",
+					"Parse",
+					"Prase",
+					"()",
+					"insertEcpm",
+					"monitor",
+					"GetDebugAdId",
+					"KcontentType",
+					"MaxBrowseClickInterval",
+					"deviceTypePc",
+					"SIXIANWAP_ANDROID",
+					"DSPNAME",
+					"TmpNormal",
+					"\",\n",
+					"replaceGdtOsType",
+					"replaceStrByFormat",
+					"replaceGdtOsType",
+					"env",
+					"getDevType",
+					"IOS",
+					"eplace",
+					"ReplaceGdtOsType",
+					"GetOs",
+					"BidRequest_OperatingSystem_name",
+					"go",
+					"os",
+					"BidRequest_Device",
+					"ReplaceGdtUaType",
+					"        \n",
+					"setPraseFunc",
+					"loadBiddingData",
+					"kWindowSize",
+					"pdb",
+					"Processer",
+					"loadBiddingEcpm",
+					"NewZServer",
+					"FilterInfo",
+					"xrange",
+					"xange",
+					"StatusDumpFile",
+					"int",
+					"AddCreativeStatus",
+					"AddCreativesStatus"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"BidTypeWap",
+					"BidTypeVideo",
+					"Request_UserData",
+					"Request_DeviceGeo",
+					"Request_ContentExt",
+					"Request_DirectDeal",
+					"Request_BannerExt",
+					"Request_ImpressionPmp",
+					"Request_ImpressionNative",
+					"Request_ImpressionVideo",
+					"Request_ImpressionBanner"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "E:\\serving_remote"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/serving_remote/backend/src/tripod/define/constants.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3500,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3044,
+										3044
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2320.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/serving_remote/backend/src/wisdom/handler/sax/rtb.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11596,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10407,
+										10407
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 7355.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/serving_remote/backend/src/wisdom/json/sax/sax.json.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11280,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10032,
+										10032
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": -0.0,
+								"translation.y": 8489.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/serving_remote/backend/src/thrift-gen/schema/ttypes.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 308774,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11244,
+										11232
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 8869.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/E/serving_remote/backend/src/thrift-gen/adserver/ttypes.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 175678,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										38886,
+										38905
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 28669.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 139.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 269.0
+			},
+			"position": "0,2,3,-32000,-32000,-1,-1,852,188,113,1481",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"backend\\src\\tripod\\define\\constants.go"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 209.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 31,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
