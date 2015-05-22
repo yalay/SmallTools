@@ -1,0 +1,201 @@
+
+** 2015-04-15 16:57:22.330481 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+margo: 2015/05/13 16:04:42 broker.go:105: gocode_complete#mg9.autoken.6d1c60cc-7405-4fae-81f0-8a068e6a9fa7 PANIC: runtime error: slice bounds out of range
+goroutine 37 [running]:
+main.func·001()
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:104 +0xb2
+gosubli.me/something-borrowed/gocode.path_and_alias(0x12808d80, 0x1b3a58, 0x12808d80, 0x12808d80, 0x128096c0)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/declcache.go:191 +0x91
+gosubli.me/something-borrowed/gocode.collect_package_imports(0x126f7940, 0x3e, 0x1271a1c0, 0x2, 0x2, 0x1257dcc0, 0x0, 0x0, 0x0)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/declcache.go:55 +0x192
+gosubli.me/something-borrowed/gocode.(*auto_complete_file).process_data(0x12526900, 0x126d4700, 0x323, 0x380)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletefile.go:60 +0x1e1
+gosubli.me/something-borrowed/gocode.(*auto_complete_context).apropos(0x12598520, 0x126d4700, 0x323, 0x380, 0x126f7940, 0x3e, 0x28, 0x0, 0x0, 0x0, ...)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:241 +0x8b
+gosubli.me/something-borrowed/gocode.(*margoState).Complete(0x12598540, 0x0, 0x9f5afc, 0x0, 0x127dffc0, 0xb, 0x126bd2c8, 0x1, 0x1, 0x126d4700, ...)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/gosublime_gocode_bridge.go:52 +0xfb
+main.(*mGocode).completions(0x126f7680, 0x126d4700, 0x323, 0x380, 0x126f7940, 0x3e, 0x28, 0x0, 0x0, 0x0)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/m_gocode.go:95 +0xf4
+main.(*mGocode).Call(0x126f7680, 0x0, 0x0, 0x0, 0x0)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/m_gocode.go:76 +0x536
+main.(*Broker).call(0x125242d0, 0x127dff90, 0x1b3a10, 0x126f7680)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:113 +0x8a
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:188 +0xb0
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 1 [syscall, locked to thread]:
+syscall.ReadFile(0xac4, 0x125b2000, 0x1000, 0x1000, 0x12725b70, 0x0, 0x0, 0x0)
+	c:/go/src/syscall/zsyscall_windows.go:282 +0xa4
+syscall.Read(0xac4, 0x125b2000, 0x1000, 0x1000, 0x5, 0x0, 0x0)
+	c:/go/src/syscall/syscall_windows.go:284 +0x68
+os.(*File).read(0x1253e0b0, 0x125b2000, 0x1000, 0x1000, 0x0, 0x0, 0x0)
+	c:/go/src/os/file_windows.go:299 +0x10b
+os.(*File).Read(0x1253e0b0, 0x125b2000, 0x1000, 0x1000, 0x125445c4, 0x0, 0x0)
+	c:/go/src/os/file.go:95 +0x76
+bufio.(*Reader).fill(0x125228a0)
+	c:/go/src/bufio/bufio.go:97 +0x15c
+bufio.(*Reader).ReadSlice(0x125228a0, 0xa, 0x0, 0x0, 0x0, 0x0, 0x0)
+	c:/go/src/bufio/bufio.go:295 +0x1ce
+bufio.(*Reader).ReadBytes(0x125228a0, 0x12527c0a, 0x0, 0x0, 0x0, 0x0, 0x0)
+	c:/go/src/bufio/bufio.go:374 +0xb5
+main.(*Broker).accept(0x125242d0, 0x12527c80, 0x12527c00)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:128 +0x42
+main.(*Broker).Loop(0x125242d0, 0x12530001)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:213 +0x25c
+main.main()
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:140 +0x954
+
+goroutine 6 [chan receive]:
+gosubli.me/something-borrowed/gocode.func·021()
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/utils.go:112 +0x66
+created by gosubli.me/something-borrowed/gocode.new_file_reader
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/utils.go:116 +0xc8
+
+goroutine 7 [chan receive]:
+main.func·003()
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/g_autoinst.go:114 +0x61
+created by main.init·2
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/g_autoinst.go:117 +0x25
+
+goroutine 8 [sleep, locked to thread]:
+main.func·037()
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/oom.go:31 +0x30d
+created by main.startOomKiller
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/oom.go:33 +0x76
+
+goroutine 9 [sleep]:
+main.func·033()
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:122 +0x4d
+created by main.main
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:131 +0x8c7
+
+goroutine 10 [chan receive, 20 minutes]:
+main.func·034()
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:135 +0x54
+created by main.main
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:138 +0x910
+
+goroutine 18 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 19 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 20 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 21 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 22 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 23 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 24 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 25 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 26 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 27 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 28 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 29 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 30 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 31 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 32 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 33 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 34 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 35 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+goroutine 36 [chan receive]:
+main.(*Broker).worker(0x125242d0, 0x125991c0, 0x12527c80)
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x75
+created by main.(*Broker).Loop
+	C:/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x235
+
+
+
+** 2015-05-13 16:04:42.065723 **:
+GsComplete: broker: gocode_complete#mg9.autoken.6d1c60cc-7405-4fae-81f0-8a068e6a9fa7 PANIC
+--------------------------------

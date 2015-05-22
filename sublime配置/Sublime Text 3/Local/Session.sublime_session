@@ -1,23 +1,26 @@
 {
 	"folder_history":
 	[
-		"/E/serving_v20150319/backend/src",
+		"/E/sDebug_remote",
+		"/E/serving_master",
+		"/E/serving_pprof/backend/src",
+		"/E/serving_local/backend/src",
+		"/E/serving_local",
+		"/E/server_adserver_performance",
+		"/E/serving_master_remote",
+		"/D/Tools/go/src",
 		"/E/serving_remote",
-		"/E/serving_v20150319",
-		"/D/go/src",
-		"/E/sDebug_new",
-		"/D/go",
-		"/E/serving_new",
-		"/E/sDebug_new/Data",
-		"/E/sDebug",
-		"/E/serving/backend"
+		"/E/serving_new_remote",
+		"/E/SmallTools/2015-04-14/bak",
+		"/E/SmallTools/64bitdecrypter",
+		"/D/go/src"
 	],
-	"last_version": 3065,
-	"last_window_id": 32,
+	"last_version": 3083,
+	"last_window_id": 119,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 680.0,
+		"new_window_height": 761.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -25,12 +28,64 @@
 				"selected_items":
 				[
 					[
-						"v",
-						"Ver	string ν"
+						"adser",
+						"advertiser"
+					],
+					[
+						"ex",
+						"exchangeResult"
+					],
+					[
+						"d",
+						"dumpStop	bool ν"
 					],
 					[
 						"s",
-						"Site	*Request_Site ν"
+						"dumpStop	bool ν"
+					],
+					[
+						"set",
+						"set_trace"
+					],
+					[
+						"de",
+						"deviceType"
+					],
+					[
+						"p",
+						"platform"
+					],
+					[
+						"ad",
+						"adgDate"
+					],
+					[
+						"adg",
+						"adgId"
+					],
+					[
+						"index",
+						"indexSet"
+					],
+					[
+						"pr",
+						"Printf	n int, err error ƒ"
+					],
+					[
+						"cl",
+						"close"
+					],
+					[
+						"m",
+						"Mimes	[]string ν"
+					],
+					[
+						"t",
+						"TemplateId	int32 ν"
+					],
+					[
+						"v",
+						"Ver	string ν"
 					],
 					[
 						"R",
@@ -65,33 +120,68 @@
 						"startTime"
 					],
 					[
-						"pr",
-						"Printf"
-					],
-					[
 						"sid",
 						"sidstatus"
 					]
 				]
 			},
-			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
-				"height": 81.0,
+				"height": 127.0,
+				"last_filter": "Package Control: isn",
 				"selected_items":
 				[
+					[
+						"Package Control: isn",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remote",
+						"Package Control: Remove Repository"
+					],
+					[
+						"packet",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"About"
+					],
 					[
 						"Package Control: insta",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 400.0
+				"width": 416.0
 			},
 			"console":
 			{
-				"height": 126.0,
+				"height": 176.0,
 				"history":
 				[
+					"sftp",
+					"sublime SFTP",
+					"sftp --help",
 					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
 					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = "
 				]
@@ -107,55 +197,134 @@
 			},
 			"file_history":
 			[
-				"/C/users/yalay/appdata/local/temp/sublime-sftp-browse-1428459866/开发机/sftp-config-alt2.json",
-				"/C/users/yalay/appdata/local/temp/sublime-sftp-browse-1428459866/开发机/sftp-config.json",
-				"/C/users/yalay/appdata/local/temp/sublime-sftp-browse-1428459866/开发机/sftp-config-alt.json",
-				"/E/serving_v20150319/backend/src/git.apache.org/thrift.git/lib/php/ClassLoader/ThriftClassLoader.php",
-				"/E/serving_v20150319/backend/src/github.com/golang/protobuf/proto/extensions.go",
-				"/E/sDebug_new/Data/runningS/2015-04-01/1427817014",
-				"/C/Users/yalay/Desktop/session.log",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/E/sDebug_new/py/schema.py",
-				"/D/go/.tags",
-				"/E/serving_v20150319/backend/src/wisdom/handler/gdt/rtb.go",
-				"/C/Users/yalay/Documents/index.html",
-				"/E/ctags/ctags.conf",
-				"/E/serving_v20150319/.tags_sorted_by_file",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
-				"/E/serving_v20150319/backend/src/wisdom/proto/gdt/gdt.pb.go",
-				"/E/serving_v20150319/backend/src/wisdom/handler/gdt/rtb_test.go",
-				"/E/serving_v20150319/backend/src/wisdom/handler/jrtt/rtb.go",
-				"/E/serving_v20150319/gotags.go",
-				"/E/ctags/ctags_build_serving.bat",
-				"/E/serving_v20150319/backend/src/tripod/zkutil/zkutil.go",
-				"/E/serving_v20150319/backend/src/adserver/server/adserver_handler.go",
-				"/E/serving_v20150319/backend/src/wisdom/handler/jrtt/rtb_test.go",
-				"/E/serving_v20150319/.tags",
-				"/E/serving_v20150319/backend/src/adserver/adserver.go",
-				"/E/serving_v20150319/backend/src/tripod/devkit/util.go",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/README.md",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
-				"/E/gotags/gotags.go",
-				"/E/serving_v20150319/backend/gotags.go",
-				"/E/gotags/README.md",
-				"/E/gotags/LICENSE",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/Godef/Godef.sublime-settings",
+				"/E/serving_master/backend/src/util/web/cookie.go",
+				"/D/Tools/go/src/time/time.go",
+				"/E/serving_master/sftp-config.json",
+				"/D/Tools/go/src/net/url/url.go",
+				"/E/serving_master/backend/src/grandet/inc.go",
+				"/E/serving_master/backend/src/adserver/running/pprof.go",
+				"/D/Program Files (x86)/Git/doc/git/html/git-pull.html",
+				"/E/serving_local/sftp-config.json",
 				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/E/serving/backend/src/adserver/selector/bid_selector.go",
-				"/E/serving/backend/src/util/conf.go",
-				"/E/serving/backend/src/adserver/test/buildCase.go",
-				"/E/serving/backend/src/adserver/running/statusHandler_test.go",
-				"/E/serving/backend/src/adserver/running/statusHandler_debug.go",
-				"/E/serving/backend/src/adserver/running/statusHandler.go",
-				"/E/serving/backend/src/adserver/common/ad_filter.go",
-				"/E/serving/backend/src/adserver/handler/base_handler.go",
-				"/E/sDebug/py/debugServer.py",
-				"/C/Users/yalay/.ssh/id_rsa.pub",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
-				"/E/serving/backend/.tags",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-mousemap"
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/E/sDebug_remote/py/templates/color.js",
+				"/E/serving_master_remote/backend/src/adserver/bidserver/bidder.go",
+				"/D/Tools/go/src/net/rpc/debug.go",
+				"/E/serving_master_remote/backend/src/adserver/common/ad_filter_test.go",
+				"/E/serving_master_remote/backend/src/adserver/common/ad_filter.go",
+				"/C/Users/yalay/Desktop/### pprof工具修改说明及使用方法",
+				"/E/sDebug_remote/py/serverCount.py",
+				"/E/sDebug_remote/py/test.py",
+				"/E/serving_master_remote/backend/src/adserver/bidserver/conf.go",
+				"/D/Tools/shadowsocks-gui-0.4.1-win-ia32/gui-config.json",
+				"/E/serving_master_remote/backend/src/tripod/zkutil/zkutil.go",
+				"/E/serving_master_remote/backend/src/cost/py/thrift/transport/TTwisted.py",
+				"/E/serving_master_remote/backend/src/thrift-gen/adserver/ad_service.go",
+				"/E/serving_master_remote/backend/src/tracker/inc.go",
+				"/E/serving_master_remote/backend/src/cost/sh/updater.sh",
+				"/E/sDebug_remote/py/util.py",
+				"/D/Tools/go/bin/ctags.conf",
+				"/E/serving_master_remote/backend/src/.tags",
+				"/E/vimconf/vim/autoload/plug.vim",
+				"/E/vimconf/vim/colors/molokai.vim",
+				"/E/serving_master_remote/backend/src/wisdom/handler/xt/rtb_test.go",
+				"/E/serving_master_remote/backend/src/thrift-gen/schema/ttypes.go",
+				"/E/serving_master_remote/backend/src/adserver/common/common.go",
+				"/E/serving_master_remote/backend/src/adserver/handler/crowdhandler_test.go",
+				"/E/serving_master_remote/backend/src/adserver/storage/ad_store.go",
+				"/E/serving_master_remote/backend/src/adserver/handler/base_handler.go",
+				"/E/serving_master_remote/backend/src/adserver/handler/crowdhandler.go",
+				"/E/serving_master_remote/backend/src/thrift-gen/adserver/ttypes.go",
+				"/E/serving_master_remote/backend/src/code.google.com/p/log4go/log4go.go",
+				"/D/Tools/go/src/os/doc.go",
+				"/E/serving_master_remote/backend/src/util/util.go",
+				"/E/serving_master_remote/backend/src/tripod/zkutil/zserver.go",
+				"/E/serving_master_remote/backend/src/wisdom/handler/xt/rtb.go",
+				"/E/serving_master_remote/backend/src/adserver/adserver.thrift",
+				"/E/serving_master_remote/backend/src/adserver/server/adserver_handler.go",
+				"/E/serving_master_remote/backend/src/tripod/define/constants.go",
+				"/E/serving_master_remote/backend/src/adserver/adserver.go",
+				"/E/serving_master_remote/backend/src/tripod/devkit/util.go",
+				"/D/Program Files (x86)/NetSarang/solarized-dark.xcs",
+				"/E/serving_master_remote/backend/src/wisdom/common/conf.go",
+				"/E/vimconf/vim/autoload/plug - 副本.vim",
+				"/E/serving_master_remote/backend/src/adserver/common/spec.go",
+				"/E/serving_master_remote/backend/src/adserver/taxonomy/taxonomy.go",
+				"/E/serving_master_remote/backend/src/wisdom/json/xt/xt.json.go",
+				"/E/serving_master_remote/backend/src/util/set.go",
+				"/D/Tools/go/src/builtin/builtin.go",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/E/serving_master_remote/backend/tags",
+				"/E/serving_master_remote/backend/src/tripod/define/set.go",
+				"/E/serving_master_remote/backend/src/adserver/common/privacyControl.go",
+				"/E/serving_master_remote/backend/src/fetch_update/util/dbfetcher.go",
+				"/E/serving_master_remote/backend/src/wisdom/handler/base.go",
+				"/E/serving_master_remote/backend/src/adserver/test/testClient.py",
+				"/E/sDebug_remote/py/dbHelper.py",
+				"/E/sDebug_remote/py/debugServer.py",
+				"/E/sDebug_remote/py/schema.py",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/Default (Windows).sublime-keymap",
+				"/E/serving_master_remote/backend/src/wisdom/handler/jrtt/rtb.go",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+				"/D/Tools/XX-Net-1.8.8/php_proxy/1.0.0/server/relay.php",
+				"/D/Tools/XX-Net-1.8.8/php_proxy/1.0.0/server/index.py",
+				"/E/sDebug_remote/script/traffic.sh",
+				"/E/sDebug_remote/script/start.sh",
+				"/E/sDebug_remote/py/templates/view.html",
+				"/C/Users/yalay/Desktop/Develop Server SSH_2015-04-29_17-01-16.log",
+				"/E/sDebug_remote/py/constant.py",
+				"/E/sDebug_remote/py/parseData.py",
+				"/D/Tools/XX-Net-1.8.8/php_proxy/1.0.0/server/index.php",
+				"/E/serving_remote/backend/src/github.com/golang/protobuf/proto/text_test.go",
+				"/E/serving_remote/backend/src/github.com/golang/protobuf/proto/text_parser_test.go",
+				"/E/serving_remote/backend/src/wisdom/handler/tanx/rtb.go",
+				"/E/serving_remote/backend/src/fetch_update/fetch_update",
+				"/E/serving_remote/backend/src/cmserver/cmserver",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/E/serving_remote/backend/src/cmserver/cmserver.go",
+				"/D/Tools/go/src/net/http/server.go",
+				"/E/serving_remote/backend/src/cmserver/handler.go",
+				"/E/serving_remote/backend/src/cmserver/conf.go",
+				"/E/serving_remote/backend/src/cmserver/base.go",
+				"/E/serving_remote/backend/src/util/codec/decrypt.go",
+				"/E/serving_remote/backend/src/wisdom/wisdom",
+				"/E/serving_remote/sftp-config.json",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/C/Users/yalay/AppData/Local/Google/Chrome/User Data/Default/Preferences",
+				"/C/Users/yalay/Desktop/新建文本文档.html",
+				"/E/serving_remote/backend/src/util/web/http.go",
+				"/E/serving_remote/backend/src/fetch_update/util/dbfetcher.go",
+				"/E/serving_remote/backend/src/grandet/im.go",
+				"/D/Tools/go/src/encoding/hex/hex.go",
+				"/E/serving_remote/backend/src/wisdom/handler/sax/rtb_test.go",
+				"/C/Users/yalay/Desktop/1.html",
+				"/E/serving_remote/backend/src/grandet/grandet.go",
+				"/E/serving_remote/backend/src/util/conf/conf.go",
+				"/E/serving_remote/backend/src/util/cookiemapping/init.go",
+				"/E/serving_remote/backend/src/tripod/devkit/zredis.go",
+				"/E/serving_remote/backend/src/util/conf_test.go",
+				"/C/Users/yalay/Desktop/2.html",
+				"/D/Tools/go/src/encoding/gob/doc.go",
+				"/E/serving_remote/backend/src/tripod/devkit/util.go",
+				"/E/serving_remote/backend/src/wisdom/handler/sax/rtb.go",
+				"/E/serving_remote/backend/src/util/codec/conf.go",
+				"/E/serving_remote/backend/src/wisdom/json/sax/sax.json.go",
+				"/E/serving_remote/backend/src/thrift-gen/adserver/ttypes.go",
+				"/E/serving_remote/backend/src/wisdom/handler/qihu/rtb.go",
+				"/E/serving_remote/backend/src/wisdom/common/util.go",
+				"/E/serving_remote/backend/src/nctrserver/nctrclient.go",
+				"/E/serving_remote/backend/src/fetch_update/fetch_update.go",
+				"/E/serving_remote/backend/src/adserver/handler/default_handler.go",
+				"/E/serving_remote/backend/src/dproxy/helper/dataManager.go",
+				"/E/serving_remote/backend/src/adserver/common/privacyControl.go",
+				"/E/serving_remote/backend/src/util/conf.go",
+				"/E/serving_remote/backend/src/adserver/handler/crowdhandler.go",
+				"/E/serving_remote/backend/src/adserver/running/statusHandler.go",
+				"/D/Tools/XX-Net-1.8.8/data/goagent/proxy.pac",
+				"/E/serving_remote/backend/src/dproxy/helper/dataRpcClient.go",
+				"/E/serving_remote/backend/src/adserver/adserver.go"
 			],
 			"find":
 			{
@@ -163,9 +332,46 @@
 			},
 			"find_in_files":
 			{
-				"height": 93.0,
+				"height": 96.0,
 				"where_history":
 				[
+					"E:\\serving_master\\backend\\src",
+					"E:\\serving_master_remote\\backend\\src\\adserver\\bidserver",
+					"E:\\serving_master_remote\\backend\\src",
+					"E:\\serving_master_remote\\backend\\src\\adserver",
+					"E:\\sDebug_remote",
+					"E:\\serving_master_remote\\backend\\src\\",
+					"E:\\serving_master_remote\\backend\\src\\wisdom",
+					"E:\\sDebug_remote",
+					"E:\\serving_master_remote\\backend\\src\\",
+					"E:\\serving_master_remote\\backend\\src\\wisdom",
+					"E:\\sDebug_remote\\py",
+					"E:\\serving_remote\\backend\\",
+					"E:\\serving_remote\\backend\\src\\cmserver",
+					"E:\\serving_remote\\",
+					"E:\\serving_remote\\backend\\src\\",
+					"E:\\serving_remote\\backend\\src\\wisdom",
+					"E:\\serving_remote\\backend\\src\\util",
+					"E:\\serving_remote\\backend\\",
+					"E:\\serving_remote\\backend\\src\\util",
+					"E:\\serving_remote\\backend\\src\\",
+					"E:\\serving_remote\\backend\\src\\tripod\\define",
+					"E:\\serving_remote\\backend\\src\\",
+					"E:\\serving_remote\\backend\\src\\wisdom",
+					"E:\\serving_remote\\backend\\src",
+					"E:\\sDebug_remote",
+					"E:\\SmallTools\\2015-04-14\\bak",
+					"E:\\sDebug_remote",
+					"E:\\serving_remote\\backend\\src\\",
+					"E:\\serving_remote\\backend\\src\\util\\web",
+					"E:\\serving_remote\\backend\\src\\",
+					"E:\\serving_remote\\backend\\src\\util\\web",
+					"E:\\serving_remote\\backend\\src",
+					"E:\\serving_remote\\backend\\src\\wisdom",
+					"E:\\sDebug_remote",
+					"E:\\serving_remote\\backend\\src\\wisdom",
+					"E:\\serving_v20150319\\backend\\src\\wisdom",
+					"E:\\serving_v20150319\\backend\\src\\",
 					"E:\\serving_v20150319\\backend\\src\\wisdom",
 					"E:\\serving_v20150319\\backend\\src",
 					"E:\\serving_v20150319\\backend\\src\\wisdom",
@@ -185,89 +391,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"GetBidFloor",
-					"Request_User_Data",
-					"Request_Device_Geo",
-					"Request_Content_Ext",
-					"Request_Direct_Deal",
-					"Request_Banner_Ext",
-					"Request_Impression_Pmp",
-					"Request_Impression_Native",
-					"Request_Impression_Video",
-					"Request_Impression_Banner",
-					"adtype",
-					"QihuHandler",
-					"Qihu",
-					"qihu",
-					"Response_SeatBid",
-					"MaxDuration uint32              `json:\"maxduration\"`",
-					"ServeHTTP",
-					"BuildAdserverRequest",
-					"ServeMux",
-					"handler",
-					"Handler",
-					"handler",
-					"pTanx",
-					"BuildAdserverRequest",
-					"connTypeMap",
-					"items",
-					"index",
-					"queryAdId",
-					"queryAdgId",
-					"Hour",
-					"hourStatus",
-					" =",
-					"status",
-					"insertStatusRecord",
-					"fileHour",
-					"insertStatusRecord",
-					"insertEcpm",
-					"insertCmsRecord",
-					"Prase",
-					"Parse",
-					"Prase",
-					"Parse",
-					"Prase",
-					"()",
-					"insertEcpm",
-					"monitor",
-					"GetDebugAdId",
-					"KcontentType",
-					"MaxBrowseClickInterval",
-					"deviceTypePc",
-					"SIXIANWAP_ANDROID",
-					"DSPNAME",
-					"TmpNormal",
-					"\",\n",
-					"replaceGdtOsType",
-					"replaceStrByFormat",
-					"replaceGdtOsType",
-					"env",
-					"getDevType",
-					"IOS",
-					"eplace",
-					"ReplaceGdtOsType",
-					"GetOs",
-					"BidRequest_OperatingSystem_name",
-					"go",
-					"os",
-					"BidRequest_Device",
-					"ReplaceGdtUaType",
-					"        \n",
-					"setPraseFunc",
-					"loadBiddingData",
-					"kWindowSize",
-					"pdb",
-					"Processer",
-					"loadBiddingEcpm",
-					"NewZServer",
-					"FilterInfo",
-					"xrange",
-					"xange",
-					"StatusDumpFile",
-					"int",
+					"ckHandler",
+					"cookieExpireDuration",
+					"AdService",
+					"check",
+					"datetime",
+					"debug",
+					"fmt",
+					"DEF_CPM_M",
+					"debug",
+					"debugLog",
+					"DEBUG",
+					"DoFilter",
+					"mediaFilter",
+					"CStatus_Media",
 					"AddCreativeStatus",
-					"AddCreativesStatus"
+					"CStatus_Media",
+					"out",
+					"CfgPprofCmd",
+					"*\n",
+					"CfgProfCmd",
+					"GetTaxonomy",
+					"getTagData",
+					"Failed to open transport",
+					"caseId",
+					"userCategory",
+					"ServingVersion",
+					"File",
+					"runtime",
+					"AddCreativeStatus",
+					"fmt",
+					"exchangeResult",
+					"bidAvgEcpm",
+					"pdb",
+					"exchangeResult",
+					"codeFormat",
+					"deviceType",
+					")\n",
+					"201",
+					"-201",
+					"191",
+					"191-",
+					"191-1",
+					"GoAgent",
+					"dumpStatus",
+					"clear",
+					"running",
+					"NewStatusHandler",
+					"running.init",
+					"init",
+					"dumpStatus",
+					"RunningLogOff",
+					"debug",
+					"addRunningStatus",
+					"pdb",
+					"insertStatusRecord",
+					"if",
+					"adverSpecialFilter",
+					"CStatus_AdverSpecial",
+					"vim-go",
+					"ServingVersion",
+					"NewZServer",
+					"Create Server",
+					"Create Server adserver",
+					"decryptLabels",
+					"attr.Gender",
+					"UdsAttr",
+					"Population",
+					"Gender_kFemale",
+					"Population",
+					"CrowdMaleID",
+					"MappingXtGender",
+					"CrowdMaleID",
+					"CrowdLess18",
+					"CrowdMaleID",
+					"CrowdFemaleID",
+					"gender",
+					"dimensionid",
+					"privacyControlMap",
+					"userCategory",
+					"UserCategory",
+					"dim_ma",
+					"user——c",
+					"dim_cadidate",
+					"UpdateThridLabel",
+					"ThridLabels",
+					"labels",
+					"fetchone",
+					"queryAdId",
+					"pdb",
+					"GetAllAdIds",
+					"execute",
+					"adgIdNameMapping",
+					"decryptLabels",
+					"UpdateThridLabel",
+					"ThridLabels",
+					"UpdateThridLabel",
+					"ThridLabels",
+					"Labels",
+					"errorCodeStatus",
+					"datetime",
+					"getAbnormalReason",
+					"esle if",
+					"errorCodeStatus",
+					"campaignStatus",
+					"date",
+					"i++",
+					"Index",
+					"GetDimSlotIdByAdg",
+					"getDayByFileName",
+					"kDataName",
+					"getDayByFileName",
+					"Filter_Channel",
+					"minimap",
+					"sohu",
+					"公司代理",
+					"del",
+					"insertEcpm",
+					"callParseFunc",
+					"globalDataParseFunc",
+					"string",
+					"switch",
+					"project",
+					"MaterialType_kFeeds",
+					"GetImpType",
+					"Test",
+					"At",
+					"Request_Impression",
+					"Pmp"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -275,6 +526,12 @@
 				"regex": false,
 				"replace_history":
 				[
+					"公司代理",
+					"i+=1",
+					"GoAgent",
+					"",
+					"BidTypeWap",
+					"BidTypeVideo",
 					"Request_UserData",
 					"Request_DeviceGeo",
 					"Request_ContentExt",
@@ -300,9 +557,13 @@
 				"height": 36.0
 			},
 			"menu_visible": true,
-			"output.exec":
+			"output.GsDoc-output-output":
 			{
 				"height": 30.0
+			},
+			"output.exec":
+			{
+				"height": 139.0
 			},
 			"output.find_results":
 			{
@@ -310,24 +571,35 @@
 			},
 			"output.sftp":
 			{
-				"height": 118.0
+				"height": 101.0
 			},
+			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 66.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"schema",
+						"backend\\src\\thrift-gen\\schema\\ttypes.go"
+					],
+					[
+						"",
+						"backend\\src\\tripod\\define\\constants.go"
+					]
 				],
 				"width": 0.0
 			},
 			"select_project":
 			{
 				"height": 500.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -336,22 +608,23 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
 				"width": 0.0
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 209.0,
+			"side_bar_width": 280.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1058.0
+		"new_window_width": 1582.0
 	},
 	"windows":
 	[
@@ -361,12 +634,64 @@
 				"selected_items":
 				[
 					[
-						"v",
-						"Ver	string ν"
+						"adser",
+						"advertiser"
+					],
+					[
+						"ex",
+						"exchangeResult"
+					],
+					[
+						"d",
+						"dumpStop	bool ν"
 					],
 					[
 						"s",
-						"Site	*Request_Site ν"
+						"dumpStop	bool ν"
+					],
+					[
+						"set",
+						"set_trace"
+					],
+					[
+						"de",
+						"deviceType"
+					],
+					[
+						"p",
+						"platform"
+					],
+					[
+						"ad",
+						"adgDate"
+					],
+					[
+						"adg",
+						"adgId"
+					],
+					[
+						"index",
+						"indexSet"
+					],
+					[
+						"pr",
+						"Printf	n int, err error ƒ"
+					],
+					[
+						"cl",
+						"close"
+					],
+					[
+						"m",
+						"Mimes	[]string ν"
+					],
+					[
+						"t",
+						"TemplateId	int32 ν"
+					],
+					[
+						"v",
+						"Ver	string ν"
 					],
 					[
 						"R",
@@ -401,10 +726,6 @@
 						"startTime"
 					],
 					[
-						"pr",
-						"Printf"
-					],
-					[
 						"sid",
 						"sidstatus"
 					]
@@ -413,90 +734,124 @@
 			"buffers":
 			[
 				{
-					"file": "/E/serving_remote/backend/src/tripod/define/constants.go",
+					"file": "/E/serving_master/backend/src/adserver/bidserver/bidder.go",
 					"settings":
 					{
-						"buffer_size": 3526,
+						"buffer_size": 12091,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/E/serving_remote/backend/src/wisdom/handler/sax/rtb.go",
+					"file": "/E/serving_master/backend/src/grandet/ck.go",
 					"settings":
 					{
-						"buffer_size": 9558,
+						"buffer_size": 10473,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/C/Users/yalay/Downloads/commands.py",
+					"file": "/E/serving_master/backend/src/adserver/adserver.go",
 					"settings":
 					{
-						"buffer_size": 121326,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/serving_remote/backend/src/thrift-gen/adserver/ttypes.go",
-					"settings":
-					{
-						"buffer_size": 175678,
+						"buffer_size": 777,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "Searching 70 files for \"SlotType\"\n\nE:\\serving_v20150319\\backend\\src\\wisdom\\handler\\baidu\\rtb.go:\n  142  						return strconv.Itoa(int(adz.GetWidth())) + \"x\" + strconv.Itoa(int(adz.GetHeight())) + \"_\" + slotid\n  143  					}(),\n  144: 					SlotType:   adserver.SlotType(adz.GetAdslotType()),\n  145  					AdSize: func() []*schema.Size {\n  146  						adSize := &schema.Size{adz.GetWidth(), adz.GetHeight()}\n\nE:\\serving_v20150319\\backend\\src\\wisdom\\handler\\mega\\rtb.go:\n  153  					Idx:        strconv.Itoa(int(adz.GetId())),\n  154  					SlotId:     slotId,\n  155: 					SlotType:   adserver.SlotType(adz.GetViewType() - 1),\n  156  					AdSize: func() []*schema.Size {\n  157  						adSize := &schema.Size{adz.GetAdsWidth(), adz.GetAdsHeight()}\n\nE:\\serving_v20150319\\backend\\src\\wisdom\\handler\\tanx\\rtb.go:\n  256  				}()\n  257  				adslots[i] = &adserver.AdSlot{\n  258: 					//SlotType\n  259  					//CreativeAttrSetting\n  260  					Idx:    idx,\n\nE:\\serving_v20150319\\backend\\src\\wisdom\\proto\\baidu\\baidu.pb.go:\n  837  	SequenceId *int32 `protobuf:\"varint,2,opt,name=sequence_id\" json:\"sequence_id,omitempty\"`\n  838  	// 展示类型\n  839: 	AdslotType *int32 `protobuf:\"varint,3,opt,name=adslot_type\" json:\"adslot_type,omitempty\"`\n  840  	// 宽\n  841  	Width *int32 `protobuf:\"varint,4,opt,name=width\" json:\"width,omitempty\"`\n  ...\n  877  }\n  878  \n  879: func (m *BidRequest_AdSlot) GetAdslotType() int32 {\n  880: 	if m != nil && m.AdslotType != nil {\n  881: 		return *m.AdslotType\n  882  	}\n  883  	return 0\n\n10 matches across 4 files\n\n\nSearching 634 files for \"SlotType\"\n\nE:\\serving_v20150319\\backend\\src\\adserver\\adserver.thrift:\n   80  }\n   81  \n   82: enum SlotType {\n   83      FIXED = 0,      // 固定\n   84      SUSPEND = 1,    // 悬浮\n   ..\n  130      1: string idx,\n  131      2: string slotId,\n  132:     3: SlotType slotType,\n  133      4: list<schema.Size> adSize,\n  134      5: SlotScreen slotScreen,\n  ...\n  238      1: string idx,\n  239      2: string slotId,\n  240:     3: SlotType slotType,\n  241      4: i64 advertiserId,\n  242      5: i64 campaignId,\n\nE:\\serving_v20150319\\backend\\src\\adserver\\test\\testClient.py:\n   63  slots.idx = \"122223\"\n   64  slots.slotId = \"\"\n   65: slots.slotType = 0\n   66  slots.slotScreen = 1\n   67  slots.bidFloor = 0\n   ..\n   82  slots.idx = \"122223\"\n   83  slots.slotId = \"\"\n   84: slots.slotType = 0\n   85  slots.slotScreen = 1\n   86  slots.bidFloor = 0\n   ..\n  101  slots.idx = \"122223\"\n  102  slots.slotId = \"\"\n  103: slots.slotType = 0\n  104  slots.slotScreen = 1\n  105  slots.bidFloor = 0\n  ...\n  120  slots.idx = \"122223\"\n  121  slots.slotId = \"\"\n  122: slots.slotType = 0\n  123  slots.slotScreen = 1\n  124  slots.bidFloor = 0\n  ...\n  140  slots.idx = \"122223\"\n  141  slots.slotId = \"\"\n  142: slots.slotType = 0\n  143  slots.slotScreen = 1\n  144  slots.bidFloor = 0\n  ...\n  160  slots.idx = \"122223\"\n  161  slots.slotId = \"tanx_test_slot1\"\n  162: slots.slotType = 0\n  163  slots.slotScreen = 1\n  164  slots.bidFloor = 0\n  ...\n  181  slots.idx = \"122223\"\n  182  slots.slotId = \"tanx_test_slot2\"\n  183: slots.slotType = 0\n  184  slots.slotScreen = 1\n  185  slots.bidFloor = 0\n  ...\n  202  #slot not exist\n  203  slots.slotId = \"tanx_test\"\n  204: slots.slotType = 0\n  205  slots.slotScreen = 1\n  206  slots.bidFloor = 0\n  ...\n  224  slots.idx = \"122223\"\n  225  slots.slotId = \"tanx_test_slot2\"\n  226: slots.slotType = 0\n  227  slots.slotScreen = 1\n  228  slots.bidFloor = 0\n\nE:\\serving_v20150319\\backend\\src\\bench\\proto\\baidu\\baidu.pb.go:\n  246  	// 当前页面广告位顺序id，同一页面从1开始\n  247  	SequenceId     *int32 `protobuf:\"varint,2,opt,name=sequence_id\" json:\"sequence_id,omitempty\"`\n  248: 	AdslotType     *int32 `protobuf:\"varint,3,opt,name=adslot_type\" json:\"adslot_type,omitempty\"`\n  249  	Width          *int32 `protobuf:\"varint,4,opt,name=width\" json:\"width,omitempty\"`\n  250  	Height         *int32 `protobuf:\"varint,5,opt,name=height\" json:\"height,omitempty\"`\n  ...\n  276  }\n  277  \n  278: func (m *Request_AdSlot) GetAdslotType() int32 {\n  279: 	if m != nil && m.AdslotType != nil {\n  280: 		return *m.AdslotType\n  281  	}\n  282  	return 0\n\nE:\\serving_v20150319\\backend\\src\\bench\\x.go:\n   41  					AdBlockKey:     proto.Int64(rand.Int63()),\n   42  					SequenceId:     proto.Int32(1),\n   43: 					AdslotType:     proto.Int32(rand.Int31n(3)),\n   44  					Width:          proto.Int32(w),\n   45  					Height:         proto.Int32(h),\n\nE:\\serving_v20150319\\backend\\src\\thrift-gen\\adserver\\.tags:\n   64  IsSetSiteQuality	.\\ttypes.go	/^func (p *BidRequest) IsSetSiteQuality() bool {$/;\"	d\n   65  IsSetSlotScreen	.\\ttypes.go	/^func (p *AdSlot) IsSetSlotScreen() bool {$/;\"	d\n   66: IsSetSlotType	.\\ttypes.go	/^func (p *AdSlot) IsSetSlotType() bool {$/;\"	d\n   67: IsSetSlotType	.\\ttypes.go	/^func (p *BidAd) IsSetSlotType() bool {$/;\"	d\n   68  Location	.\\ttypes.go	/^type Location struct {$/;\"	d\n   69  NewAdItem	.\\ttypes.go	/^func NewAdItem() *AdItem {$/;\"	d\n   ..\n  133  SlotScreen	.\\ttypes.go	/^type SlotScreen int64$/;\"	d\n  134  SlotScreenFromString	.\\ttypes.go	/^func SlotScreenFromString(s string) (SlotScreen, error) {$/;\"	d\n  135: SlotType	.\\ttypes.go	/^type SlotType int64$/;\"	d\n  136: SlotTypeFromString	.\\ttypes.go	/^func SlotTypeFromString(s string) (SlotType, error) {$/;\"	d\n  137  String	.\\ad_service.go	/^func (p *DebugArgs) String() string {$/;\"	d\n  138  String	.\\ad_service.go	/^func (p *DebugResult) String() string {$/;\"	d\n  ...\n  168  String	.\\ttypes.go	/^func (p SiteQuality) String() string {$/;\"	d\n  169  String	.\\ttypes.go	/^func (p SlotScreen) String() string {$/;\"	d\n  170: String	.\\ttypes.go	/^func (p SlotType) String() string {$/;\"	d\n  171  Write	.\\ad_service.go	/^func (p *DebugArgs) Write(oprot thrift.TProtocol) error {$/;\"	d\n  172  Write	.\\ad_service.go	/^func (p *DebugResult) Write(oprot thrift.TProtocol) error {$/;\"	d\n\nE:\\serving_v20150319\\backend\\src\\thrift-gen\\adserver\\.tags_sorted_by_file:\n  132  IsSetSiteQuality	ttypes.go	/^func (p *BidRequest) IsSetSiteQuality() bool {$/;\"	d\n  133  IsSetSlotScreen	ttypes.go	/^func (p *AdSlot) IsSetSlotScreen() bool {$/;\"	d\n  134: IsSetSlotType	ttypes.go	/^func (p *AdSlot) IsSetSlotType() bool {$/;\"	d\n  135: IsSetSlotType	ttypes.go	/^func (p *BidAd) IsSetSlotType() bool {$/;\"	d\n  136  Location	ttypes.go	/^type Location struct {$/;\"	d\n  137  NewAdItem	ttypes.go	/^func NewAdItem() *AdItem {$/;\"	d\n  ...\n  176  SlotScreen	ttypes.go	/^type SlotScreen int64$/;\"	d\n  177  SlotScreenFromString	ttypes.go	/^func SlotScreenFromString(s string) (SlotScreen, error) {$/;\"	d\n  178: SlotType	ttypes.go	/^type SlotType int64$/;\"	d\n  179: SlotTypeFromString	ttypes.go	/^func SlotTypeFromString(s string) (SlotType, error) {$/;\"	d\n  180  String	ttypes.go	/^func (p *AdItem) String() string {$/;\"	d\n  181  String	ttypes.go	/^func (p *AdSlot) String() string {$/;\"	d\n  ...\n  203  String	ttypes.go	/^func (p SiteQuality) String() string {$/;\"	d\n  204  String	ttypes.go	/^func (p SlotScreen) String() string {$/;\"	d\n  205: String	ttypes.go	/^func (p SlotType) String() string {$/;\"	d\n  206  Write	ttypes.go	/^func (p *AdItem) Write(oprot thrift.TProtocol) error {$/;\"	d\n  207  Write	ttypes.go	/^func (p *AdSlot) Write(oprot thrift.TProtocol) error {$/;\"	d\n\nE:\\serving_v20150319\\backend\\src\\thrift-gen\\adserver\\ttypes.go:\n  296  }\n  297  \n  298: type SlotType int64\n  299  \n  300  const (\n  301: 	SlotType_FIXED   SlotType = 0\n  302: 	SlotType_SUSPEND SlotType = 1\n  303: 	SlotType_PASTE   SlotType = 2\n  304  )\n  305  \n  306: func (p SlotType) String() string {\n  307  	switch p {\n  308: 	case SlotType_FIXED:\n  309: 		return \"SlotType_FIXED\"\n  310: 	case SlotType_SUSPEND:\n  311: 		return \"SlotType_SUSPEND\"\n  312: 	case SlotType_PASTE:\n  313: 		return \"SlotType_PASTE\"\n  314  	}\n  315  	return \"<UNSET>\"\n  316  }\n  317  \n  318: func SlotTypeFromString(s string) (SlotType, error) {\n  319  	switch s {\n  320: 	case \"SlotType_FIXED\":\n  321: 		return SlotType_FIXED, nil\n  322: 	case \"SlotType_SUSPEND\":\n  323: 		return SlotType_SUSPEND, nil\n  324: 	case \"SlotType_PASTE\":\n  325: 		return SlotType_PASTE, nil\n  326  	}\n  327: 	return SlotType(math.MinInt32 - 1), fmt.Errorf(\"not a valid SlotType string\")\n  328  }\n  329  \n  ...\n 1451  	Idx                      string               `thrift:\"idx,1\"`\n 1452  	SlotId                   string               `thrift:\"slotId,2\"`\n 1453: 	SlotType                 SlotType             `thrift:\"slotType,3\"`\n 1454  	AdSize                   []*schema.Size       `thrift:\"adSize,4\"`\n 1455  	SlotScreen               SlotScreen           `thrift:\"slotScreen,5\"`\n ....\n 1470  func NewAdSlot() *AdSlot {\n 1471  	return &AdSlot{\n 1472: 		SlotType: math.MinInt32 - 1, // unset sentinal value\n 1473  \n 1474  		SlotScreen: math.MinInt32 - 1, // unset sentinal value\n ....\n 1476  }\n 1477  \n 1478: func (p *AdSlot) IsSetSlotType() bool {\n 1479: 	return int64(p.SlotType) != math.MinInt32-1\n 1480  }\n 1481  \n ....\n 1602  		return fmt.Errorf(\"error reading field 3: %s\")\n 1603  	} else {\n 1604: 		p.SlotType = SlotType(v)\n 1605  	}\n 1606  	return nil\n ....\n 1841  \n 1842  func (p *AdSlot) writeField3(oprot thrift.TProtocol) (err error) {\n 1843: 	if p.IsSetSlotType() {\n 1844: 		if err := oprot.WriteFieldBegin(\"slotType\", thrift.I32, 3); err != nil {\n 1845: 			return fmt.Errorf(\"%T write field begin error 3:slotType: %s\", p, err)\n 1846  		}\n 1847: 		if err := oprot.WriteI32(int32(p.SlotType)); err != nil {\n 1848: 			return fmt.Errorf(\"%T.slotType (3) field write error: %s\", p)\n 1849  		}\n 1850  		if err := oprot.WriteFieldEnd(); err != nil {\n 1851: 			return fmt.Errorf(\"%T write field end error 3:slotType: %s\", p, err)\n 1852  		}\n 1853  	}\n ....\n 4115  	Idx            string                    `thrift:\"idx,1\"`\n 4116  	SlotId         string                    `thrift:\"slotId,2\"`\n 4117: 	SlotType       SlotType                  `thrift:\"slotType,3\"`\n 4118  	AdvertiserId   int64                     `thrift:\"advertiserId,4\"`\n 4119  	CampaignId     int64                     `thrift:\"campaignId,5\"`\n ....\n 4157  func NewBidAd() *BidAd {\n 4158  	return &BidAd{\n 4159: 		SlotType: math.MinInt32 - 1, // unset sentinal value\n 4160  \n 4161  		BidType: math.MinInt32 - 1, // unset sentinal value\n ....\n 4167  }\n 4168  \n 4169: func (p *BidAd) IsSetSlotType() bool {\n 4170: 	return int64(p.SlotType) != math.MinInt32-1\n 4171  }\n 4172  \n ....\n 4389  		return fmt.Errorf(\"error reading field 3: %s\")\n 4390  	} else {\n 4391: 		p.SlotType = SlotType(v)\n 4392  	}\n 4393  	return nil\n ....\n 4905  \n 4906  func (p *BidAd) writeField3(oprot thrift.TProtocol) (err error) {\n 4907: 	if p.IsSetSlotType() {\n 4908: 		if err := oprot.WriteFieldBegin(\"slotType\", thrift.I32, 3); err != nil {\n 4909: 			return fmt.Errorf(\"%T write field begin error 3:slotType: %s\", p, err)\n 4910  		}\n 4911: 		if err := oprot.WriteI32(int32(p.SlotType)); err != nil {\n 4912: 			return fmt.Errorf(\"%T.slotType (3) field write error: %s\", p)\n 4913  		}\n 4914  		if err := oprot.WriteFieldEnd(); err != nil {\n 4915: 			return fmt.Errorf(\"%T write field end error 3:slotType: %s\", p, err)\n 4916  		}\n 4917  	}\n\nE:\\serving_v20150319\\backend\\src\\wisdom\\handler\\baidu\\rtb.go:\n  142  						return strconv.Itoa(int(adz.GetWidth())) + \"x\" + strconv.Itoa(int(adz.GetHeight())) + \"_\" + slotid\n  143  					}(),\n  144: 					SlotType:   adserver.SlotType(adz.GetAdslotType()),\n  145  					AdSize: func() []*schema.Size {\n  146  						adSize := &schema.Size{adz.GetWidth(), adz.GetHeight()}\n\nE:\\serving_v20150319\\backend\\src\\wisdom\\handler\\mega\\rtb.go:\n  153  					Idx:        strconv.Itoa(int(adz.GetId())),\n  154  					SlotId:     slotId,\n  155: 					SlotType:   adserver.SlotType(adz.GetViewType() - 1),\n  156  					AdSize: func() []*schema.Size {\n  157  						adSize := &schema.Size{adz.GetAdsWidth(), adz.GetAdsHeight()}\n\nE:\\serving_v20150319\\backend\\src\\wisdom\\handler\\tanx\\rtb.go:\n  256  				}()\n  257  				adslots[i] = &adserver.AdSlot{\n  258: 					//SlotType\n  259  					//CreativeAttrSetting\n  260  					Idx:    idx,\n\nE:\\serving_v20150319\\backend\\src\\wisdom\\proto\\baidu\\baidu.pb.go:\n  837  	SequenceId *int32 `protobuf:\"varint,2,opt,name=sequence_id\" json:\"sequence_id,omitempty\"`\n  838  	// 展示类型\n  839: 	AdslotType *int32 `protobuf:\"varint,3,opt,name=adslot_type\" json:\"adslot_type,omitempty\"`\n  840  	// 宽\n  841  	Width *int32 `protobuf:\"varint,4,opt,name=width\" json:\"width,omitempty\"`\n  ...\n  877  }\n  878  \n  879: func (m *BidRequest_AdSlot) GetAdslotType() int32 {\n  880: 	if m != nil && m.AdslotType != nil {\n  881: 		return *m.AdslotType\n  882  	}\n  883  	return 0\n\n101 matches across 11 files\n",
+					"contents": "Package Control Messages\n========================\n\nGodef:\n-----\n\n  # Godef\n  \n  This Sublime Text 2/3 [golang](http://golang.org/) plugin adds a `godef` command which\n  uses [godef](http://godoc.org/code.google.com/p/rog-go/exp/cmd/godef) to find\n  the definition under the cursor.\n  \n  #### Compatible with GoSublime\n  \n  You can use this plugin working with [GoSublime](https://github.com/DisposaBoy/GoSublime) because GoSublime is not support `godef`.\n  \n  ## Installation\n  \n  The plugin assumes `godef` is present at `$GOPATH/bin/godef`. You need install `godef` first:\n  \n  ```\n  go get -v github.com/rogpeppe/godef\n  ```\n      \n  #### Sublime Package Control\n  \n  If you are using [Sublime Package Control](http://wbond.net/sublime_packages/package_control) you can simply install Sublime Godef by searching for `Godef` in the package listing.\n  \n  #### Manual Install\n  \n  Git clone this repository and place the entire `Godef` directory into your `Packages` directory.\n  \n  OSX:\n  \n  ```\n  # Install the plugin\n  git clone git@github.com:buaazp/Godef.git ~/Library/Application\\ Support/Sublime\\ Text\\ 3/Packages/Godef\n  ```\n  \n  Linux:\n  \n  ```\n  # Install the plugin\n  git clone git@github.com:buaazp/Godef.git ~/.config/sublime-text-3/Packages/Godef\n  ```\n      \n  Windows:\n  \n  ```\n  Currently not supported.\n  ```\n  \n  \n  ## Settings\n  \n  ### Configuring `GOPATH`\n  \n  You need to add gopath to the setting file before using this plugin. Here's an example `Godef.sublime-settings`:\n  \n  ```\n  {\n      \"gopath\": \"/Users/zippo/develop/GO\"\n  }\n  ```\n  \n  NOTE: The value of `gopath` should be a absolute path. Multiple path like env `GOPATH` are supported but relative path are not:\n  \n  ```\n  GOOD:\n  \"gopath\": \"/opt/golang:/Users/zippo/develop/GO\"\n  \n  BAD:\n  \"gopath\": \"~/develop/GO\"\n  \"gopath\": \"$HOME/develop/GO\"\n  ```\n  \n   This plugin will determine `GOPATH` from either:\n  \n  1. The `gopath` value from `Godef.sublime-settings`\n  2. The `GOPATH` environment variable\n  \n  \n  ### Key Bindings\n  \n  The default key of Godef is `super/ctrl+d`. You CAN of course change it by yourself. Here's an example key binding:\n  \n  ```\n  { \"keys\": [\"super+d\"], \"command\": \"godef\" }\n  ```\n  \n  You can also add these two key-binding into your keymap file to jump between the postions. Using j/k is because I use vim mode. Change them by yourself:\n  \n  ```\n  { \"keys\": [\"super+j\"], \"command\": \"jump_forward\"},\n  { \"keys\": [\"super+k\"], \"command\": \"jump_back\"},\n  ```\n  \n  Enjoy it!\n  \n  ## License\n  \n  Godef is under BSD license which is in the license file.\n  \n  \n  \n  ",
 					"settings":
 					{
-						"buffer_size": 12484,
+						"buffer_size": 2572,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "Searching 559 files for \"ckHandler\"\n\nE:\\serving_master\\backend\\src\\cmserver\\cmserver.go:\n   42  \n   43  	port := strconv.Itoa(cmserverPort)\n   44: 	web.AddHealthCheckHandler(\"/opt/zyz/cmserver.stop.\" + port)\n   45  \n   46  	for p, h := range handlerMap {\n\nE:\\serving_master\\backend\\src\\grandet\\ck.go:\n   25  )\n   26  \n   27: func ckCallBackHandler(w http.ResponseWriter, r *http.Request) {\n   28  	uid := web.MustGetUid(w, r)\n   29  \n   ..\n   79  }\n   80  \n   81: func ckHandler(w http.ResponseWriter, r *http.Request) {\n   82  	var sid, target string\n   83  	defer cleanup(sid, web.Click)\n\nE:\\serving_master\\backend\\src\\grandet\\grandet.go:\n   12  	\"/im\":      imHandler,\n   13  	\"/cksohu\":  ckSohuHandler,\n   14: 	\"/ck\":      ckHandler,\n   15: 	\"/ckb\":     ckCallBackHandler,\n   16  	\"/imshare\": imShareHandler,\n   17  	\"/ckshare\": ckShareHandler,\n   ..\n   22  \n   23  	port := strconv.Itoa(grandetPort)\n   24: 	web.AddHealthCheckHandler(\"/opt/zyz/grandet.stop.\" + port)\n   25  \n   26  	for p, h := range handlerMap {\n\nE:\\serving_master\\backend\\src\\tracker\\tracker.go:\n   19  \n   20  	port := strconv.Itoa(common.TrackerPort)\n   21: 	web.AddHealthCheckHandler(\"/opt/zyz/tracker.stop.\" + port)\n   22  \n   23  	for p, h := range handlerMap {\n\nE:\\serving_master\\backend\\src\\util\\web\\http.go:\n   16  )\n   17  \n   18: func AddHealthCheckHandler(file string) {\n   19  	http.HandleFunc(\"/\", func(w http.ResponseWriter, r *http.Request) {\n   20  		if _, err := os.Stat(file); err != nil {\n\n8 matches across 5 files\n",
+					"settings":
+					{
+						"buffer_size": 1508,
 						"line_ending": "Unix",
 						"name": "Find Results",
 						"scratch": true
 					}
 				},
 				{
-					"file": "/E/serving_v20150319/backend/src/wisdom/handler/baidu/rtb.go",
+					"file": "/E/serving_master/backend/src/util/web/http.go",
 					"settings":
 					{
-						"buffer_size": 10872,
+						"buffer_size": 3850,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/E/serving_v20150319/backend/src/bench/proto/baidu/baidu.pb.go",
+					"file": "/E/serving_master/conf/beijing/grandet.yaml",
 					"settings":
 					{
-						"buffer_size": 14594,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/serving_v20150319/backend/src/wisdom/handler/mega/rtb.go",
-					"settings":
-					{
-						"buffer_size": 9579,
+						"buffer_size": 859,
 						"line_ending": "Unix"
 					}
 				}
 			],
 			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
-				"height": 81.0,
+				"height": 127.0,
+				"last_filter": "Package Control: isn",
 				"selected_items":
 				[
+					[
+						"Package Control: isn",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remote",
+						"Package Control: Remove Repository"
+					],
+					[
+						"packet",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"About"
+					],
 					[
 						"Package Control: insta",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 400.0
+				"width": 416.0
 			},
 			"console":
 			{
-				"height": 126.0,
+				"height": 176.0,
 				"history":
 				[
+					"sftp",
+					"sublime SFTP",
+					"sftp --help",
 					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
 					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = "
 				]
@@ -512,72 +867,147 @@
 			},
 			"expanded_folders":
 			[
-				"/E/serving_remote",
-				"/E/serving_remote/backend",
-				"/E/serving_remote/backend/src",
-				"/E/serving_remote/backend/src/tripod",
-				"/E/serving_remote/backend/src/tripod/define",
-				"/E/serving_remote/backend/src/wisdom",
-				"/E/serving_remote/backend/src/wisdom/handler",
-				"/E/serving_remote/backend/src/wisdom/handler/sax"
+				"/E/serving_master",
+				"/E/serving_master/backend",
+				"/E/serving_master/backend/src",
+				"/E/serving_master/backend/src/adserver",
+				"/E/serving_master/backend/src/adserver/bidserver",
+				"/E/serving_master/backend/src/grandet",
+				"/E/serving_master/backend/src/util",
+				"/E/serving_master/backend/src/util/web",
+				"/E/serving_master/conf",
+				"/E/serving_master/conf/beijing"
 			],
 			"file_history":
 			[
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
-				"/E/serving_remote/backend/src/wisdom/handler/sax/rtb_bak.go",
-				"/E/serving_remote/backend/src/wisdom/handler/sax/rtb.go",
-				"/E/serving_v20150319/backend/src/adserver/adserver.thrift",
-				"/E/serving_v20150319/backend/src/thrift-gen/adserver/ttypes.go",
-				"/E/serving_remote/sftp-config.json",
-				"/C/users/yalay/appdata/local/temp/sublime-sftp-browse-1428459866/开发机/sftp-config-alt2.json",
-				"/C/users/yalay/appdata/local/temp/sublime-sftp-browse-1428459866/开发机/sftp-config.json",
-				"/C/users/yalay/appdata/local/temp/sublime-sftp-browse-1428459866/开发机/sftp-config-alt.json",
-				"/E/serving_v20150319/backend/src/git.apache.org/thrift.git/lib/php/ClassLoader/ThriftClassLoader.php",
-				"/E/serving_v20150319/backend/src/github.com/golang/protobuf/proto/extensions.go",
-				"/E/sDebug_new/Data/runningS/2015-04-01/1427817014",
-				"/C/Users/yalay/Desktop/session.log",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/E/sDebug_new/py/schema.py",
-				"/D/go/.tags",
-				"/E/serving_v20150319/backend/src/wisdom/handler/gdt/rtb.go",
-				"/C/Users/yalay/Documents/index.html",
-				"/E/ctags/ctags.conf",
-				"/E/serving_v20150319/.tags_sorted_by_file",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
-				"/E/serving_v20150319/backend/src/wisdom/proto/gdt/gdt.pb.go",
-				"/E/serving_v20150319/backend/src/wisdom/handler/gdt/rtb_test.go",
-				"/E/serving_v20150319/backend/src/wisdom/handler/jrtt/rtb.go",
-				"/E/serving_v20150319/gotags.go",
-				"/E/ctags/ctags_build_serving.bat",
-				"/E/serving_v20150319/backend/src/tripod/zkutil/zkutil.go",
-				"/E/serving_v20150319/backend/src/adserver/server/adserver_handler.go",
-				"/E/serving_v20150319/backend/src/wisdom/handler/jrtt/rtb_test.go",
-				"/E/serving_v20150319/.tags",
-				"/E/serving_v20150319/backend/src/adserver/adserver.go",
-				"/E/serving_v20150319/backend/src/tripod/devkit/util.go",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/README.md",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
-				"/E/gotags/gotags.go",
-				"/E/serving_v20150319/backend/gotags.go",
-				"/E/gotags/README.md",
-				"/E/gotags/LICENSE",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/Godef/Godef.sublime-settings",
+				"/E/serving_master/backend/src/util/web/cookie.go",
+				"/D/Tools/go/src/time/time.go",
+				"/E/serving_master/sftp-config.json",
+				"/D/Tools/go/src/net/url/url.go",
+				"/E/serving_master/backend/src/grandet/inc.go",
+				"/E/serving_master/backend/src/adserver/running/pprof.go",
+				"/D/Program Files (x86)/Git/doc/git/html/git-pull.html",
+				"/E/serving_local/sftp-config.json",
 				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/E/serving/backend/src/adserver/selector/bid_selector.go",
-				"/E/serving/backend/src/util/conf.go",
-				"/E/serving/backend/src/adserver/test/buildCase.go",
-				"/E/serving/backend/src/adserver/running/statusHandler_test.go",
-				"/E/serving/backend/src/adserver/running/statusHandler_debug.go",
-				"/E/serving/backend/src/adserver/running/statusHandler.go",
-				"/E/serving/backend/src/adserver/common/ad_filter.go",
-				"/E/serving/backend/src/adserver/handler/base_handler.go",
-				"/E/sDebug/py/debugServer.py",
-				"/C/Users/yalay/.ssh/id_rsa.pub",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
-				"/E/serving/backend/.tags",
-				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-mousemap"
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/E/sDebug_remote/py/templates/color.js",
+				"/E/serving_master_remote/backend/src/adserver/bidserver/bidder.go",
+				"/D/Tools/go/src/net/rpc/debug.go",
+				"/E/serving_master_remote/backend/src/adserver/common/ad_filter_test.go",
+				"/E/serving_master_remote/backend/src/adserver/common/ad_filter.go",
+				"/C/Users/yalay/Desktop/### pprof工具修改说明及使用方法",
+				"/E/sDebug_remote/py/serverCount.py",
+				"/E/sDebug_remote/py/test.py",
+				"/E/serving_master_remote/backend/src/adserver/bidserver/conf.go",
+				"/D/Tools/shadowsocks-gui-0.4.1-win-ia32/gui-config.json",
+				"/E/serving_master_remote/backend/src/tripod/zkutil/zkutil.go",
+				"/E/serving_master_remote/backend/src/cost/py/thrift/transport/TTwisted.py",
+				"/E/serving_master_remote/backend/src/thrift-gen/adserver/ad_service.go",
+				"/E/serving_master_remote/backend/src/tracker/inc.go",
+				"/E/serving_master_remote/backend/src/cost/sh/updater.sh",
+				"/E/sDebug_remote/py/util.py",
+				"/D/Tools/go/bin/ctags.conf",
+				"/E/serving_master_remote/backend/src/.tags",
+				"/E/vimconf/vim/autoload/plug.vim",
+				"/E/vimconf/vim/colors/molokai.vim",
+				"/E/serving_master_remote/backend/src/wisdom/handler/xt/rtb_test.go",
+				"/E/serving_master_remote/backend/src/thrift-gen/schema/ttypes.go",
+				"/E/serving_master_remote/backend/src/adserver/common/common.go",
+				"/E/serving_master_remote/backend/src/adserver/handler/crowdhandler_test.go",
+				"/E/serving_master_remote/backend/src/adserver/storage/ad_store.go",
+				"/E/serving_master_remote/backend/src/adserver/handler/base_handler.go",
+				"/E/serving_master_remote/backend/src/adserver/handler/crowdhandler.go",
+				"/E/serving_master_remote/backend/src/thrift-gen/adserver/ttypes.go",
+				"/E/serving_master_remote/backend/src/code.google.com/p/log4go/log4go.go",
+				"/D/Tools/go/src/os/doc.go",
+				"/E/serving_master_remote/backend/src/util/util.go",
+				"/E/serving_master_remote/backend/src/tripod/zkutil/zserver.go",
+				"/E/serving_master_remote/backend/src/wisdom/handler/xt/rtb.go",
+				"/E/serving_master_remote/backend/src/adserver/adserver.thrift",
+				"/E/serving_master_remote/backend/src/adserver/server/adserver_handler.go",
+				"/E/serving_master_remote/backend/src/tripod/define/constants.go",
+				"/E/serving_master_remote/backend/src/adserver/adserver.go",
+				"/E/serving_master_remote/backend/src/tripod/devkit/util.go",
+				"/D/Program Files (x86)/NetSarang/solarized-dark.xcs",
+				"/E/serving_master_remote/backend/src/wisdom/common/conf.go",
+				"/E/vimconf/vim/autoload/plug - 副本.vim",
+				"/E/serving_master_remote/backend/src/adserver/common/spec.go",
+				"/E/serving_master_remote/backend/src/adserver/taxonomy/taxonomy.go",
+				"/E/serving_master_remote/backend/src/wisdom/json/xt/xt.json.go",
+				"/E/serving_master_remote/backend/src/util/set.go",
+				"/D/Tools/go/src/builtin/builtin.go",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/E/serving_master_remote/backend/tags",
+				"/E/serving_master_remote/backend/src/tripod/define/set.go",
+				"/E/serving_master_remote/backend/src/adserver/common/privacyControl.go",
+				"/E/serving_master_remote/backend/src/fetch_update/util/dbfetcher.go",
+				"/E/serving_master_remote/backend/src/wisdom/handler/base.go",
+				"/E/serving_master_remote/backend/src/adserver/test/testClient.py",
+				"/E/sDebug_remote/py/dbHelper.py",
+				"/E/sDebug_remote/py/debugServer.py",
+				"/E/sDebug_remote/py/schema.py",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/Default (Windows).sublime-keymap",
+				"/E/serving_master_remote/backend/src/wisdom/handler/jrtt/rtb.go",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+				"/D/Tools/XX-Net-1.8.8/php_proxy/1.0.0/server/relay.php",
+				"/D/Tools/XX-Net-1.8.8/php_proxy/1.0.0/server/index.py",
+				"/E/sDebug_remote/script/traffic.sh",
+				"/E/sDebug_remote/script/start.sh",
+				"/E/sDebug_remote/py/templates/view.html",
+				"/C/Users/yalay/Desktop/Develop Server SSH_2015-04-29_17-01-16.log",
+				"/E/sDebug_remote/py/constant.py",
+				"/E/sDebug_remote/py/parseData.py",
+				"/D/Tools/XX-Net-1.8.8/php_proxy/1.0.0/server/index.php",
+				"/E/serving_remote/backend/src/github.com/golang/protobuf/proto/text_test.go",
+				"/E/serving_remote/backend/src/github.com/golang/protobuf/proto/text_parser_test.go",
+				"/E/serving_remote/backend/src/wisdom/handler/tanx/rtb.go",
+				"/E/serving_remote/backend/src/fetch_update/fetch_update",
+				"/E/serving_remote/backend/src/cmserver/cmserver",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/E/serving_remote/backend/src/cmserver/cmserver.go",
+				"/D/Tools/go/src/net/http/server.go",
+				"/E/serving_remote/backend/src/cmserver/handler.go",
+				"/E/serving_remote/backend/src/cmserver/conf.go",
+				"/E/serving_remote/backend/src/cmserver/base.go",
+				"/E/serving_remote/backend/src/util/codec/decrypt.go",
+				"/E/serving_remote/backend/src/wisdom/wisdom",
+				"/E/serving_remote/sftp-config.json",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/C/Users/yalay/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/C/Users/yalay/AppData/Local/Google/Chrome/User Data/Default/Preferences",
+				"/C/Users/yalay/Desktop/新建文本文档.html",
+				"/E/serving_remote/backend/src/util/web/http.go",
+				"/E/serving_remote/backend/src/fetch_update/util/dbfetcher.go",
+				"/E/serving_remote/backend/src/grandet/im.go",
+				"/D/Tools/go/src/encoding/hex/hex.go",
+				"/E/serving_remote/backend/src/wisdom/handler/sax/rtb_test.go",
+				"/C/Users/yalay/Desktop/1.html",
+				"/E/serving_remote/backend/src/grandet/grandet.go",
+				"/E/serving_remote/backend/src/util/conf/conf.go",
+				"/E/serving_remote/backend/src/util/cookiemapping/init.go",
+				"/E/serving_remote/backend/src/tripod/devkit/zredis.go",
+				"/E/serving_remote/backend/src/util/conf_test.go",
+				"/C/Users/yalay/Desktop/2.html",
+				"/D/Tools/go/src/encoding/gob/doc.go",
+				"/E/serving_remote/backend/src/tripod/devkit/util.go",
+				"/E/serving_remote/backend/src/wisdom/handler/sax/rtb.go",
+				"/E/serving_remote/backend/src/util/codec/conf.go",
+				"/E/serving_remote/backend/src/wisdom/json/sax/sax.json.go",
+				"/E/serving_remote/backend/src/thrift-gen/adserver/ttypes.go",
+				"/E/serving_remote/backend/src/wisdom/handler/qihu/rtb.go",
+				"/E/serving_remote/backend/src/wisdom/common/util.go",
+				"/E/serving_remote/backend/src/nctrserver/nctrclient.go",
+				"/E/serving_remote/backend/src/fetch_update/fetch_update.go",
+				"/E/serving_remote/backend/src/adserver/handler/default_handler.go",
+				"/E/serving_remote/backend/src/dproxy/helper/dataManager.go",
+				"/E/serving_remote/backend/src/adserver/common/privacyControl.go",
+				"/E/serving_remote/backend/src/util/conf.go",
+				"/E/serving_remote/backend/src/adserver/handler/crowdhandler.go",
+				"/E/serving_remote/backend/src/adserver/running/statusHandler.go",
+				"/D/Tools/XX-Net-1.8.8/data/goagent/proxy.pac",
+				"/E/serving_remote/backend/src/dproxy/helper/dataRpcClient.go",
+				"/E/serving_remote/backend/src/adserver/adserver.go"
 			],
 			"find":
 			{
@@ -585,9 +1015,45 @@
 			},
 			"find_in_files":
 			{
-				"height": 93.0,
+				"height": 96.0,
 				"where_history":
 				[
+					"E:\\serving_master\\backend\\src",
+					"E:\\serving_master_remote\\backend\\src\\adserver\\bidserver",
+					"E:\\serving_master_remote\\backend\\src",
+					"E:\\serving_master_remote\\backend\\src\\adserver",
+					"E:\\sDebug_remote",
+					"E:\\serving_master_remote\\backend\\src\\",
+					"E:\\serving_master_remote\\backend\\src\\wisdom",
+					"E:\\sDebug_remote",
+					"E:\\serving_master_remote\\backend\\src\\",
+					"E:\\serving_master_remote\\backend\\src\\wisdom",
+					"E:\\sDebug_remote\\py",
+					"E:\\serving_remote\\backend\\",
+					"E:\\serving_remote\\backend\\src\\cmserver",
+					"E:\\serving_remote\\",
+					"E:\\serving_remote\\backend\\src\\",
+					"E:\\serving_remote\\backend\\src\\wisdom",
+					"E:\\serving_remote\\backend\\src\\util",
+					"E:\\serving_remote\\backend\\",
+					"E:\\serving_remote\\backend\\src\\util",
+					"E:\\serving_remote\\backend\\src\\",
+					"E:\\serving_remote\\backend\\src\\tripod\\define",
+					"E:\\serving_remote\\backend\\src\\",
+					"E:\\serving_remote\\backend\\src\\wisdom",
+					"E:\\serving_remote\\backend\\src",
+					"E:\\sDebug_remote",
+					"E:\\SmallTools\\2015-04-14\\bak",
+					"E:\\sDebug_remote",
+					"E:\\serving_remote\\backend\\src\\",
+					"E:\\serving_remote\\backend\\src\\util\\web",
+					"E:\\serving_remote\\backend\\src\\",
+					"E:\\serving_remote\\backend\\src\\util\\web",
+					"E:\\serving_remote\\backend\\src",
+					"E:\\serving_remote\\backend\\src\\wisdom",
+					"E:\\sDebug_remote",
+					"E:\\serving_remote\\backend\\src\\wisdom",
+					"E:\\serving_v20150319\\backend\\src\\wisdom",
 					"E:\\serving_v20150319\\backend\\src\\",
 					"E:\\serving_v20150319\\backend\\src\\wisdom",
 					"E:\\serving_v20150319\\backend\\src",
@@ -608,90 +1074,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"SlotType",
-					"GetBidFloor",
-					"Request_User_Data",
-					"Request_Device_Geo",
-					"Request_Content_Ext",
-					"Request_Direct_Deal",
-					"Request_Banner_Ext",
-					"Request_Impression_Pmp",
-					"Request_Impression_Native",
-					"Request_Impression_Video",
-					"Request_Impression_Banner",
-					"adtype",
-					"QihuHandler",
-					"Qihu",
-					"qihu",
-					"Response_SeatBid",
-					"MaxDuration uint32              `json:\"maxduration\"`",
-					"ServeHTTP",
-					"BuildAdserverRequest",
-					"ServeMux",
-					"handler",
-					"Handler",
-					"handler",
-					"pTanx",
-					"BuildAdserverRequest",
-					"connTypeMap",
-					"items",
-					"index",
-					"queryAdId",
-					"queryAdgId",
-					"Hour",
-					"hourStatus",
-					" =",
-					"status",
-					"insertStatusRecord",
-					"fileHour",
-					"insertStatusRecord",
-					"insertEcpm",
-					"insertCmsRecord",
-					"Prase",
-					"Parse",
-					"Prase",
-					"Parse",
-					"Prase",
-					"()",
-					"insertEcpm",
-					"monitor",
-					"GetDebugAdId",
-					"KcontentType",
-					"MaxBrowseClickInterval",
-					"deviceTypePc",
-					"SIXIANWAP_ANDROID",
-					"DSPNAME",
-					"TmpNormal",
-					"\",\n",
-					"replaceGdtOsType",
-					"replaceStrByFormat",
-					"replaceGdtOsType",
-					"env",
-					"getDevType",
-					"IOS",
-					"eplace",
-					"ReplaceGdtOsType",
-					"GetOs",
-					"BidRequest_OperatingSystem_name",
-					"go",
-					"os",
-					"BidRequest_Device",
-					"ReplaceGdtUaType",
-					"        \n",
-					"setPraseFunc",
-					"loadBiddingData",
-					"kWindowSize",
-					"pdb",
-					"Processer",
-					"loadBiddingEcpm",
-					"NewZServer",
-					"FilterInfo",
-					"xrange",
-					"xange",
-					"StatusDumpFile",
-					"int",
+					"ckHandler",
+					"cookieExpireDuration",
+					"AdService",
+					"check",
+					"datetime",
+					"debug",
+					"fmt",
+					"DEF_CPM_M",
+					"debug",
+					"debugLog",
+					"DEBUG",
+					"DoFilter",
+					"mediaFilter",
+					"CStatus_Media",
 					"AddCreativeStatus",
-					"AddCreativesStatus"
+					"CStatus_Media",
+					"out",
+					"CfgPprofCmd",
+					"*\n",
+					"CfgProfCmd",
+					"GetTaxonomy",
+					"getTagData",
+					"Failed to open transport",
+					"caseId",
+					"userCategory",
+					"ServingVersion",
+					"File",
+					"runtime",
+					"AddCreativeStatus",
+					"fmt",
+					"exchangeResult",
+					"bidAvgEcpm",
+					"pdb",
+					"exchangeResult",
+					"codeFormat",
+					"deviceType",
+					")\n",
+					"201",
+					"-201",
+					"191",
+					"191-",
+					"191-1",
+					"GoAgent",
+					"dumpStatus",
+					"clear",
+					"running",
+					"NewStatusHandler",
+					"running.init",
+					"init",
+					"dumpStatus",
+					"RunningLogOff",
+					"debug",
+					"addRunningStatus",
+					"pdb",
+					"insertStatusRecord",
+					"if",
+					"adverSpecialFilter",
+					"CStatus_AdverSpecial",
+					"vim-go",
+					"ServingVersion",
+					"NewZServer",
+					"Create Server",
+					"Create Server adserver",
+					"decryptLabels",
+					"attr.Gender",
+					"UdsAttr",
+					"Population",
+					"Gender_kFemale",
+					"Population",
+					"CrowdMaleID",
+					"MappingXtGender",
+					"CrowdMaleID",
+					"CrowdLess18",
+					"CrowdMaleID",
+					"CrowdFemaleID",
+					"gender",
+					"dimensionid",
+					"privacyControlMap",
+					"userCategory",
+					"UserCategory",
+					"dim_ma",
+					"user——c",
+					"dim_cadidate",
+					"UpdateThridLabel",
+					"ThridLabels",
+					"labels",
+					"fetchone",
+					"queryAdId",
+					"pdb",
+					"GetAllAdIds",
+					"execute",
+					"adgIdNameMapping",
+					"decryptLabels",
+					"UpdateThridLabel",
+					"ThridLabels",
+					"UpdateThridLabel",
+					"ThridLabels",
+					"Labels",
+					"errorCodeStatus",
+					"datetime",
+					"getAbnormalReason",
+					"esle if",
+					"errorCodeStatus",
+					"campaignStatus",
+					"date",
+					"i++",
+					"Index",
+					"GetDimSlotIdByAdg",
+					"getDayByFileName",
+					"kDataName",
+					"getDayByFileName",
+					"Filter_Channel",
+					"minimap",
+					"sohu",
+					"公司代理",
+					"del",
+					"insertEcpm",
+					"callParseFunc",
+					"globalDataParseFunc",
+					"string",
+					"switch",
+					"project",
+					"MaterialType_kFeeds",
+					"GetImpType",
+					"Test",
+					"At",
+					"Request_Impression",
+					"Pmp"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -699,6 +1209,12 @@
 				"regex": false,
 				"replace_history":
 				[
+					"公司代理",
+					"i+=1",
+					"GoAgent",
+					"",
+					"BidTypeWap",
+					"BidTypeVideo",
 					"Request_UserData",
 					"Request_DeviceGeo",
 					"Request_ContentExt",
@@ -718,31 +1234,30 @@
 			"folders":
 			[
 				{
-					"follow_symlinks": true,
-					"path": "E:\\serving_remote"
+					"path": "E:\\serving_master"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/serving_remote/backend/src/tripod/define/constants.go",
+							"file": "/E/serving_master/backend/src/adserver/bidserver/bidder.go",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3526,
+								"buffer_size": 12091,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3016,
-										3030
+										3147,
+										3147
 									]
 								],
 								"settings":
@@ -754,7 +1269,7 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 2200.0,
+								"translation.y": 2295.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
@@ -762,19 +1277,19 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/E/serving_remote/backend/src/wisdom/handler/sax/rtb.go",
+							"file": "/E/serving_master/backend/src/grandet/ck.go",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 9558,
+								"buffer_size": 10473,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2702,
-										2702
+										9337,
+										9337
 									]
 								],
 								"settings":
@@ -786,60 +1301,27 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 1980.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/C/Users/yalay/Downloads/commands.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 121326,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										8976,
-										8976
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 4440.0,
+								"translation.y": 6395.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
 							"type": "text"
 						},
 						{
-							"buffer": 3,
-							"file": "/E/serving_remote/backend/src/thrift-gen/adserver/ttypes.go",
+							"buffer": 2,
+							"file": "/E/serving_master/backend/src/adserver/adserver.go",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 175678,
+								"buffer_size": 777,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										82849,
-										82839
+										436,
+										436
 									]
 								],
 								"settings":
@@ -851,10 +1333,40 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 59949.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2572,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										475,
+										475
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"incomplete_sync": null,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 180.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
@@ -862,7 +1374,7 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 12484,
+								"buffer_size": 1508,
 								"regions":
 								{
 									"match":
@@ -871,448 +1383,36 @@
 										"regions":
 										[
 											[
-												238,
-												246
+												164,
+												173
 											],
 											[
-												259,
-												267
+												338,
+												347
 											],
 											[
-												277,
-												285
+												469,
+												478
 											],
 											[
-												565,
-												573
+												727,
+												736
 											],
 											[
-												586,
-												594
+												766,
+												775
 											],
 											[
-												871,
-												879
+												929,
+												938
 											],
 											[
-												1129,
-												1137
+												1151,
+												1160
 											],
 											[
-												1374,
-												1382
-											],
-											[
-												1420,
-												1428
-											],
-											[
-												1459,
-												1467
-											],
-											[
-												1648,
-												1656
-											],
-											[
-												1800,
-												1808
-											],
-											[
-												1809,
-												1817
-											],
-											[
-												1971,
-												1979
-											],
-											[
-												1980,
-												1988
-											],
-											[
-												2181,
-												2189
-											],
-											[
-												2320,
-												2328
-											],
-											[
-												2459,
-												2467
-											],
-											[
-												2598,
-												2606
-											],
-											[
-												2737,
-												2745
-											],
-											[
-												2891,
-												2899
-											],
-											[
-												3045,
-												3053
-											],
-											[
-												3188,
-												3196
-											],
-											[
-												3342,
-												3350
-											],
-											[
-												3618,
-												3626
-											],
-											[
-												3952,
-												3960
-											],
-											[
-												3998,
-												4006
-											],
-											[
-												4037,
-												4045
-											],
-											[
-												4232,
-												4240
-											],
-											[
-												4612,
-												4620
-											],
-											[
-												4657,
-												4665
-											],
-											[
-												4693,
-												4701
-											],
-											[
-												4737,
-												4745
-											],
-											[
-												5063,
-												5071
-											],
-											[
-												5091,
-												5099
-											],
-											[
-												5119,
-												5127
-											],
-											[
-												5157,
-												5165
-											],
-											[
-												5187,
-												5195
-											],
-											[
-												5553,
-												5561
-											],
-											[
-												6039,
-												6047
-											],
-											[
-												6082,
-												6090
-											],
-											[
-												6118,
-												6126
-											],
-											[
-												6160,
-												6168
-											],
-											[
-												6478,
-												6486
-											],
-											[
-												6504,
-												6512
-											],
-											[
-												6532,
-												6540
-											],
-											[
-												6568,
-												6576
-											],
-											[
-												6598,
-												6606
-											],
-											[
-												6938,
-												6946
-											],
-											[
-												7238,
-												7246
-											],
-											[
-												7284,
-												7292
-											],
-											[
-												7301,
-												7309
-											],
-											[
-												7322,
-												7330
-											],
-											[
-												7339,
-												7347
-											],
-											[
-												7360,
-												7368
-											],
-											[
-												7377,
-												7385
-											],
-											[
-												7422,
-												7430
-											],
-											[
-												7482,
-												7490
-											],
-											[
-												7515,
-												7523
-											],
-											[
-												7544,
-												7552
-											],
-											[
-												7579,
-												7587
-											],
-											[
-												7610,
-												7618
-											],
-											[
-												7643,
-												7651
-											],
-											[
-												7723,
-												7731
-											],
-											[
-												7753,
-												7761
-											],
-											[
-												7805,
-												7813
-											],
-											[
-												7838,
-												7846
-											],
-											[
-												7872,
-												7880
-											],
-											[
-												7907,
-												7915
-											],
-											[
-												7943,
-												7951
-											],
-											[
-												7976,
-												7984
-											],
-											[
-												8021,
-												8029
-											],
-											[
-												8074,
-												8082
-											],
-											[
-												8268,
-												8276
-											],
-											[
-												8293,
-												8301
-											],
-											[
-												8323,
-												8331
-											],
-											[
-												8561,
-												8569
-											],
-											[
-												8738,
-												8746
-											],
-											[
-												8779,
-												8787
-											],
-											[
-												8915,
-												8923
-											],
-											[
-												8926,
-												8934
-											],
-											[
-												9073,
-												9081
-											],
-											[
-												9128,
-												9136
-											],
-											[
-												9226,
-												9234
-											],
-											[
-												9302,
-												9310
-											],
-											[
-												9359,
-												9367
-											],
-											[
-												9521,
-												9529
-											],
-											[
-												9714,
-												9722
-											],
-											[
-												9729,
-												9737
-											],
-											[
-												9764,
-												9772
-											],
-											[
-												9995,
-												10003
-											],
-											[
-												10168,
-												10176
-											],
-											[
-												10209,
-												10217
-											],
-											[
-												10345,
-												10353
-											],
-											[
-												10356,
-												10364
-											],
-											[
-												10502,
-												10510
-											],
-											[
-												10557,
-												10565
-											],
-											[
-												10655,
-												10663
-											],
-											[
-												10731,
-												10739
-											],
-											[
-												10788,
-												10796
-											],
-											[
-												10950,
-												10958
-											],
-											[
-												11198,
-												11206
-											],
-											[
-												11219,
-												11227
-											],
-											[
-												11237,
-												11245
-											],
-											[
-												11525,
-												11533
-											],
-											[
-												11546,
-												11554
-											],
-											[
-												11831,
-												11839
-											],
-											[
-												12089,
-												12097
-											],
-											[
-												12334,
-												12342
-											],
-											[
-												12380,
-												12388
-											],
-											[
-												12419,
-												12427
+												1331,
+												1340
 											]
 										],
 										"scope": ""
@@ -1321,8 +1421,8 @@
 								"selection":
 								[
 									[
-										1653,
-										1653
+										472,
+										472
 									]
 								],
 								"settings":
@@ -1330,7 +1430,7 @@
 									"detect_indentation": false,
 									"incomplete_sync": null,
 									"line_numbers": false,
-									"output_tag": 2,
+									"output_tag": 1,
 									"result_base_dir": "",
 									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
 									"result_line_regex": "^ +([0-9]+):",
@@ -1338,59 +1438,27 @@
 									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 3620.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/E/serving_v20150319/backend/src/wisdom/handler/baidu/rtb.go",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 10872,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3930,
-										3930
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 2557.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 5,
 							"type": "text"
 						},
 						{
-							"buffer": 6,
-							"file": "/E/serving_v20150319/backend/src/bench/proto/baidu/baidu.pb.go",
+							"buffer": 5,
+							"file": "/E/serving_master/backend/src/util/web/http.go",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 14594,
+								"buffer_size": 3850,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										7745,
-										7732
+										2334,
+										2325
 									]
 								],
 								"settings":
@@ -1401,28 +1469,34 @@
 									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
-								"translation.x": 0.0,
-								"translation.y": 5540.0,
+								"translation.x": -0.0,
+								"translation.y": 1807.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 6,
 							"type": "text"
-						},
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
 						{
-							"buffer": 7,
-							"file": "/E/serving_v20150319/backend/src/wisdom/handler/mega/rtb.go",
+							"buffer": 6,
+							"file": "/E/serving_master/conf/beijing/grandet.yaml",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 9579,
+								"buffer_size": 859,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3728,
-										3728
+										570,
+										572
 									]
 								],
 								"settings":
@@ -1430,14 +1504,15 @@
 									"incomplete_sync": null,
 									"remote_loading": false,
 									"synced": false,
-									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/YAML/YAML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 2717.0,
+								"translation.y": 120.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -1460,11 +1535,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.552928722653,
 					1.0
 				],
 				"rows":
@@ -1474,9 +1556,13 @@
 				]
 			},
 			"menu_visible": true,
-			"output.exec":
+			"output.GsDoc-output-output":
 			{
 				"height": 30.0
+			},
+			"output.exec":
+			{
+				"height": 139.0
 			},
 			"output.find_results":
 			{
@@ -1484,9 +1570,10 @@
 			},
 			"output.sftp":
 			{
-				"height": 269.0
+				"height": 101.0
 			},
-			"position": "0,2,3,-32000,-32000,-1,-1,843,325,104,1399",
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,883,498,63,2096",
 			"project": "",
 			"replace":
 			{
@@ -1496,14 +1583,24 @@
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"schema",
+						"backend\\src\\thrift-gen\\schema\\ttypes.go"
+					],
+					[
+						"",
+						"backend\\src\\tripod\\define\\constants.go"
+					]
 				],
 				"width": 0.0
 			},
 			"select_project":
 			{
 				"height": 500.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -1512,6 +1609,7 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -1521,16 +1619,16 @@
 			"settings":
 			{
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 209.0,
+			"side_bar_width": 183.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 31,
+			"window_id": 117,
 			"workspace_name": ""
 		}
 	],
@@ -1538,6 +1636,7 @@
 	{
 		"recent_workspaces":
 		[
+			"/E/Project/sublime/GoSrc.sublime-workspace"
 		]
 	}
 }

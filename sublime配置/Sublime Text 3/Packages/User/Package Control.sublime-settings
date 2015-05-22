@@ -4,10 +4,11 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"CTags",
+		"Godef",
 		"GoSublime",
 		"Package Control",
-		"SFTP",
-		"Theme - Soda"
+		"SFTP"
 	]
 }

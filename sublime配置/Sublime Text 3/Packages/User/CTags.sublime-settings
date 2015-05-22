@@ -14,7 +14,7 @@
     // built automatically using the values below. For example:
     //   GOOD: "command": "/usr/bin/ctags"
     //   BAD:  "command": "ctags -R -f .tags --exclude=some/path"
-    "command": "E:/ctags/ctags.exe",
+    "command": "D:\\Tools\\go\\bin\\ctags.exe",
 
     // Set to false to disable recursive search for ctag generation. This
     // translates the `-R` parameter
@@ -26,7 +26,7 @@
 
     // Additional options to pass to ctags, i.e.
     // ["--exclude=some/path", "--exclude=some/other/path", ...]
-    "opts" : ["--options=E:/ctags/ctags.conf"],
+    "opts" : ["--options=D:\\Tools\\go\\bin\\ctags.conf"],
 
     //
     "filters": {
@@ -46,7 +46,7 @@
 
     // Paths to additional tag files to include in tag search. This is a list
     // of items in the form [["language", "platform"], "path"]
-    "extra_tag_paths": [[["source.python", "windows"], "C:\\Python27\\Lib\\tags"], [["source.go", "windows"], "D:\\go\\src"]],
+    "extra_tag_paths": [[["source.python", "windows"], "C:\\Python27\\Lib\\tags"], [["source.go", "windows"], "D:\\Tools\\go\\src"]],
 
     // Additional tag files to search
     "extra_tag_files": [".gemtags", "tags"],

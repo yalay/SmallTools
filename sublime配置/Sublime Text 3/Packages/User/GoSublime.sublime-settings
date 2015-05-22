@@ -6,7 +6,7 @@
 	// e.g "env": { "PATH": "$HOME/go/bin:$PATH" }
 	// in values, $PATH and ${PATH} are replaced with
 	// the corresponding environment(PATH) variable, if it exists.
-	"env": {"path": "D:\\go\\bin"},
+	"env": {"GOPATH": "$PWD/backend"},
 
 	// if set, whenever possible `GOPATH` will be set to `GS_GOPATH`.
 	// please see `Usage & Tips` `ctrl+dot,ctrl+2`

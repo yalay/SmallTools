@@ -1,10 +1,45 @@
 {
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"default_line_ending": "unix",
 	"detect_slow_plugins": false,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.tags*",
+		"*.sublime-workspace"
+	],
 	"font_size": 13,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"show_full_path": true,
+	"trim_trailing_white_space_on_save": true
 }
