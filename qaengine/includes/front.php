@@ -280,6 +280,7 @@ class QA_Front extends QA_Engine{
 
 		$this->add_style( 'bootstrap'		, TEMPLATEURL.'/css/libs/bootstrap.min.css' );
 		$this->add_style( 'font-awesome'	, TEMPLATEURL.'/css/libs/font-awesome.min.css' );
+		$this->add_style( 'dp-highlighter'	, TEMPLATEURL.'/css/highlight.css' );
 
 		if(et_load_mobile()){
 			return;
