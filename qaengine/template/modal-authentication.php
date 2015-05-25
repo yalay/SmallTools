@@ -9,6 +9,8 @@
 	        <h4 class="modal-title modal-title-sign-in" id="myModalLabel"><?php _e("Sign In", ET_DOMAIN) ?></h4>
 	      </div>
 	      <div class="modal-body">
+	      <!-- 社交化登录，需要安装WordPress连接微博 -->
+	      <?php wp_connect();?>
 	        <form id="signin_form" class="form_modal_style">
 	        	<label for="username">
 	        		<?php _e("Username or Email", ET_DOMAIN) ?>
@@ -26,34 +28,7 @@
 
 	            <?php if($disabled_register == 1 || $disabled_register == "user" || $disabled_register == "all" || $disabled_register == "blog" ){ ?>
 	            <a href="javascript:void(0)" class="link_sign_up"><?php _e("Sign up", ET_DOMAIN) ?></a>
-
-	            <ul class="social-icon clearfix"> 
-				<!-- google plus login -->
-				<?php if(ae_get_option('gplus_login', false)){?>
-					<li class="gp">
-						<a id="signinButton" href="#" class="sc-icon color-google">
-							<i class="fa fa-google-plus-square"></i>
-						</a>
-					</li>
-				<?php } ?>
-				<!-- twitter plus login -->
-				<?php if(ae_get_option('twitter_login', false)){?>
-					<li class="tw">
-						<a href="<?php echo add_query_arg('action', 'twitterauth', home_url()) ?>" class="sc-icon color-twitter">
-							<i class="fa fa-twitter-square"></i>
-						</a>
-					</li>
-				<?php } ?>
-				<!-- facebook plus login -->
-				<?php if(ae_get_option('facebook_login', false)){?>
-					<li class="fb">
-						<a href="#" id="facebook_auth_btn" class="sc-icon color-facebook">
-							<i class="fa fa-facebook-square"></i>
-						</a>
-					</li>
-				<?php } ?>
-				</ul>   
-				<?php } ?> 
+	            <?php } ?> 
 	        </form>
 
 	        <?php if($disabled_register == 1 || $disabled_register == "user" || $disabled_register == "all" || $disabled_register == "blog" ){ ?>

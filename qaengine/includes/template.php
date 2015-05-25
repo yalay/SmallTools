@@ -134,11 +134,11 @@ function qa_template_filter_questions(){
 							if( isset($keyword) && $keyword != "" ){
 						?>
 						<span class="q-f-title">
-							<?php _e("Search Questions", ET_DOMAIN) ?>
+							<?php _e("搜索问题", ET_DOMAIN) ?>
 						</span>
 						<?php } else { ?>
 						<span class="q-f-title">
-							<?php _e("All Questions", ET_DOMAIN) ?>
+							<?php _e("所有问题", ET_DOMAIN) ?>
 						</span>
 						<?php } ?>
 					</div><!-- END TITLE -->
@@ -221,7 +221,7 @@ function qa_template_filter_questions(){
             </div>
             <div class="col-md-6 col-xs-6">
                 <div class="number-of-questions-wrapper">
-                	<span class="number-of-questions-text"><?php _e("Questions Per Page: ", ET_DOMAIN ); ?></span>
+                	<span class="number-of-questions-text"><?php _e("每页问题个数: ", ET_DOMAIN ); ?></span>
                  	<div class="number-of-questions">
                         <select id="filter-numbers" class="select-grey-bg">
 							<?php
