@@ -123,7 +123,7 @@ function qa_template_filter_questions(){
 		<div class="row q-filter-waypoints collapse" id="q_filter_waypoints">
 			<div class="col-md-2 col-xs-2">
 				<button type="button" data-toggle="modal" class="action ask-question">
-	                <i class="fa fa-plus"></i> <?php _e("ASK A QUESTION", ET_DOMAIN) ?>
+	                <i class="fa fa-plus"></i> <?php _e("问问题", ET_DOMAIN) ?>
 	            </button>
 			</div>
 			<div class="col-md-8 col-sm-10 col-xs-10">
@@ -146,17 +146,17 @@ function qa_template_filter_questions(){
 						<ul class="q-f-sort">
 		                    <li>
 		                        <a class="<?php echo !isset($_GET['sort']) && !is_page_template( 'page-pending.php' ) ? 'active' : ''; ?>" href="<?php echo !is_page_template( 'page-pending.php' ) ? remove_query_arg( 'sort' ,$current) : home_url(); ?>">
-		                        	<?php _e("Latest",ET_DOMAIN) ?>
+		                        	<?php _e("最新",ET_DOMAIN) ?>
 		                        </a>
 		                    </li>
 		                    <li>
 		                        <a class="<?php echo isset($_GET['sort']) && $_GET['sort'] == 'vote' ? 'active' : ''; ?>" href="<?php echo add_query_arg(array('sort' => 'vote')); ?>">
-		                        	<?php _e("Votes",ET_DOMAIN) ?>
+		                        	<?php _e("人气",ET_DOMAIN) ?>
 		                        </a>
 		                    </li>
 		                    <li>
 		                        <a class="<?php echo isset($_GET['sort']) && $_GET['sort'] == 'unanswer' ? 'active' : ''; ?>" href="<?php echo add_query_arg(array('sort' => 'unanswer')); ?>">
-		                        	<?php _e("Unanswered",ET_DOMAIN) ?>
+		                        	<?php _e("零回答",ET_DOMAIN) ?>
 		                        </a>
 		                    </li>
 		                    <?php
@@ -164,7 +164,7 @@ function qa_template_filter_questions(){
 		                    	if( current_user_can( 'manage_options' ) && et_count_posts("pending") > 0 ){
 		                    ?>
 		                    <li>
-		                        <a class="<?php echo is_page_template( 'page-pending.php' ) ? 'active' : ''; ?>" href="<?php echo et_get_page_link('pending'); ?>"><?php _e("Pending",ET_DOMAIN) ?></a>
+		                        <a class="<?php echo is_page_template( 'page-pending.php' ) ? 'active' : ''; ?>" href="<?php echo et_get_page_link('pending'); ?>"><?php _e("等待",ET_DOMAIN) ?></a>
 		                    </li>
 		                    <?php } ?>
 		                </ul><!-- END FILTER -->
@@ -173,7 +173,7 @@ function qa_template_filter_questions(){
 						<div class="select-categories-wrapper">
 		                    <div class="select-categories">
 		                        <select class="select-grey-bg" id="move_to_category">
-		                            <option><?php _e("Filter by category",ET_DOMAIN) ?></option>
+		                            <option><?php _e("选择分类",ET_DOMAIN) ?></option>
                             		<?php qa_option_categories_redirect() ?>
 			                    </select>
 		                    </div>
@@ -200,21 +200,21 @@ function qa_template_filter_questions(){
                 <ul>
                     <li>
                         <a class="<?php echo !isset($_GET['sort']) && !is_page_template( 'page-pending.php' ) ? 'active' : ''; ?>" href="<?php echo !is_page_template( 'page-pending.php' ) ? remove_query_arg( 'sort' ,$current) : home_url(); ?>">
-                        	<?php _e("Latest",ET_DOMAIN) ?>
+                        	<?php _e("最新",ET_DOMAIN) ?>
                         </a>
                     </li>
                     <li>
-                        <a class="<?php echo isset($_GET['sort']) && $_GET['sort'] == 'vote' ? 'active' : ''; ?>" href="<?php echo add_query_arg(array('sort' => 'vote'), is_page_template( 'page-pending.php' ) ? home_url() : $current); ?>"><?php _e("Votes",ET_DOMAIN) ?></a>
+                        <a class="<?php echo isset($_GET['sort']) && $_GET['sort'] == 'vote' ? 'active' : ''; ?>" href="<?php echo add_query_arg(array('sort' => 'vote'), is_page_template( 'page-pending.php' ) ? home_url() : $current); ?>"><?php _e("人气",ET_DOMAIN) ?></a>
                     </li>
                     <li>
-                        <a class="<?php echo isset($_GET['sort']) && $_GET['sort'] == 'unanswer' ? 'active' : ''; ?>" href="<?php echo add_query_arg(array('sort' => 'unanswer'), is_page_template( 'page-pending.php' ) ? home_url() : $current); ?>"><?php _e("Unanswered",ET_DOMAIN) ?></a>
+                        <a class="<?php echo isset($_GET['sort']) && $_GET['sort'] == 'unanswer' ? 'active' : ''; ?>" href="<?php echo add_query_arg(array('sort' => 'unanswer'), is_page_template( 'page-pending.php' ) ? home_url() : $current); ?>"><?php _e("零回答",ET_DOMAIN) ?></a>
                     </li>
                     <?php
                     	global $current_user;
                     	if( current_user_can( 'manage_options' ) && et_count_posts("pending") > 0 ){
                     ?>
                     <li>
-                        <a class="<?php echo is_page_template( 'page-pending.php' ) ? 'active' : ''; ?>" href="<?php echo et_get_page_link('pending'); ?>"><?php _e("Pending",ET_DOMAIN) ?></a>
+                        <a class="<?php echo is_page_template( 'page-pending.php' ) ? 'active' : ''; ?>" href="<?php echo et_get_page_link('pending'); ?>"><?php _e("等待",ET_DOMAIN) ?></a>
                     </li>
                     <?php } ?>
                 </ul>
@@ -335,7 +335,7 @@ function qa_select_categories($args = array()){
 	?>
 	<div class="select-categories">
 		<select id="question_category" name="question_category" class="categories-select">
-			<option value=""><?php _e("Select Category",ET_DOMAIN) ?></option>
+			<option value=""><?php _e("选择分类",ET_DOMAIN) ?></option>
 			<?php
 				$terms = get_terms( 'question_category', $args );
 				foreach ($terms as $term) {
@@ -792,7 +792,7 @@ function qa_comment_form ( $post, $type = 'question' ) {
         $comment_prover =   'data-container="body" data-toggle="popover" data-content="'. $content .'"';
     }
 ?>
-	<a <?php echo $comment_prover; ?> class="add-comment" data-id="<?php echo $post->ID ?>" href="javascript:void(0)"><?php _e("Add Comment",ET_DOMAIN) ?></a>
+	<a <?php echo $comment_prover; ?> class="add-comment" data-id="<?php echo $post->ID ?>" href="javascript:void(0)"><?php _e("评论",ET_DOMAIN) ?></a>
     <div class="clearfix"></div>
     <form class="child-reply" method="POST">
         <input type="hidden" name="qa_nonce"        value="<?php echo wp_create_nonce( 'insert_comment' );?>" />
@@ -806,11 +806,11 @@ function qa_comment_form ( $post, $type = 'question' ) {
             <div class="row submit-wrapper">
                 <div class="col-md-3 col-xs-3">
                     <button id="submit_reply" class="btn-submit">
-                        <?php _e("Add comment",ET_DOMAIN) ?>
+                        <?php _e("评论",ET_DOMAIN) ?>
                     </button>
                 </div>
                 <div class="col-md-9 col-xs-9">
-                    <a href="javascript:void(0)" class="hide-comment"><?php _e("Cancel",ET_DOMAIN) ?></a>
+                    <a href="javascript:void(0)" class="hide-comment"><?php _e("取消",ET_DOMAIN) ?></a>
                 </div>
             </div>
         </div>
