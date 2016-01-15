@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
 	"default_line_ending": "unix",
 	"detect_slow_plugins": false,
 	"file_exclude_patterns":
@@ -27,12 +27,14 @@
 		"*.tags*",
 		"*.sublime-workspace"
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage"
 	],
+	"overlay_scroll_bars": "disable",
 	"rulers":
 	[
 		80
@@ -41,5 +43,6 @@
 	"scroll_past_end": true,
 	"show_encoding": true,
 	"show_full_path": true,
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }

@@ -1,4 +1,0 @@
-[
-	{ "keys": ["alt+,"], "command": "jump_back" },
-	{ "keys": ["alt+."], "command": "jump_forward" },
-]

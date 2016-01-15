@@ -1,14 +1,16 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
-		"1337 Color Scheme",
+		"AutoPEP8",
 		"CTags",
-		"Godef",
 		"GoSublime",
+		"IMESupport",
 		"Package Control",
-		"SFTP"
+		"SFTP",
+		"Theme - Brogrammer"
 	]
 }
