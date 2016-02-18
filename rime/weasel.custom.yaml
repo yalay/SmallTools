@@ -1,0 +1,11 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.9.30
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Thu Feb 18 10:33:18 2016"
+  rime_version: 1.1.2
+patch:
+  "style/color_scheme": google
+  "style/horizontal": true
+  "style/font_point": 16
+  "style/font_face": "Microsoft YaHei UI" #微软雅黑
