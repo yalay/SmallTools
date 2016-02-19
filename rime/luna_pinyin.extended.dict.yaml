@@ -23,20 +23,12 @@ import_tables:
   - luna_pinyin
   - luna_pinyin.extra_hanzi
   - luna_pinyin.sgmain
-  - luna_pinyin.sgplus
-  #- luna_pinyin.sgplus2
   - luna_pinyin.poetry
-  #- luna_pinyin.cn_en
-  #- luna_pinyin.net
-  #- luna_pinyin.game
-  #- luna_pinyin.moba
-  - luna_pinyin.computer
-  #- luna_pinyin.history
-  #- luna_pinyin.name
-  #- luna_pinyin.anime
+  - luna_pinyin.cn_en
+  - luna_pinyin.net #网络流行语
+  - luna_pinyin.city #北京城市地名
+  - luna_pinyin.idiom #成语俗语
+  - luna_pinyin.computer #计算机
   - luna_pinyin.chat
-  #- luna_pinyin.movie
-  #- luna_pinyin.music
-  #- luna_pinyin.biaoqing
-  #- luna_pinyin.website
+  - luna_pinyin.biaoqing
 ...

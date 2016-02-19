@@ -1,8 +1,8 @@
 app_options:
   cmd.exe:
     ascii_mode: true
-config_version: 0.19.custom.3047328219
-customization: 3047328219
+config_version: 0.19.custom.773119797
+customization: 773119797
 preset_color_schemes:
   android:
     author: "Patricivs <ipatrickmac@me.com>"
@@ -431,7 +431,7 @@ preset_color_schemes:
 style:
   color_scheme: google
   display_tray_icon: false
-  font_face: "Microsoft YaHei UI"
+  font_face: "微软雅黑"
   font_point: 16
   fullscreen: false
   horizontal: true

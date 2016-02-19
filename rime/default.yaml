@@ -7,8 +7,8 @@ ascii_composer:
     Eisu_toggle: clear
     Shift_L: inline_ascii
     Shift_R: commit_text
-config_version: 0.34.custom.2444050952
-customization: 2444050952
+config_version: 0.34.custom.2588758490
+customization: 2588758490
 key_binder:
   bindings:
     - {accept: "Control+p", send: Up, when: composing}
