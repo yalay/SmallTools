@@ -1,0 +1,4907 @@
+安静点	1	an jing dian
+安静一点	1	an jing yi dian
+拜拜	1	bai bai
+拜拜了	1	bai bai le
+拜拜了	1	bai bai liao
+拜托	1	bai tuo
+半斤八两	1	ban jin ba liang
+搬弄是非	1	ban nong shi fei
+帮帮大家吧	1	bang bang da jia ba
+帮帮忙吧	1	bang bang mang ba
+帮帮我	1	bang bang wo
+帮个忙好吗	1	bang ge mang hao ma
+帮我踩空间	1	bang wo cai kong jian
+保持联络	1	bao chi lian luo
+悲哀啊	1	bei ai a
+闭嘴	1	bi zui
+变态	1	bian tai
+表里不一	1	biao li bu yi
+别啊	1	bie a
+别摆架子	1	bie bai jia zi
+别逼我	1	bie bi wo
+别痴心了	1	bie chi xin le
+别催我	1	bie cui wo
+别担心	1	bie dan xin
+别挡路	1	bie dang lu
+别挡我路好不	1	bie dang wo lu hao bu
+别多嘴	1	bie duo zui
+别发了	1	bie fa le
+别发了	1	bie fa liao
+别烦我	1	bie fan wo
+别放不下心了	1	bie fang bu xia xin le
+别管他	1	bie guan ta
+别害羞了	1	bie hai xiu le
+别喝醉了	1	bie he zui le
+别回家了	1	bie hui jia le
+别看了	1	bie kan le
+别看了	1	bie kan liao
+别客气	1	bie ke qi
+别浪费我一番心意	1	bie lang fei wo yi fan xin yi
+别理他	1	bie li ta
+别理我	1	bie li wo
+别闹了	1	bie nao le
+别谦虚了	1	bie qian xu le
+别让他失望	1	bie rang ta shi wang
+别让我失望	1	bie rang wo shi wang
+别惹麻烦	1	bie re ma fan
+别惹我	1	bie re wo
+别傻了	1	bie sha le
+别上当	1	bie shang dang
+别生气啊	1	bie sheng qi a
+别生气了	1	bie sheng qi le
+别生气了	1	bie sheng qi liao
+别生我气	1	bie sheng wo qi
+别耍花样	1	bie shua hua yang
+别说了	1	bie shuo le
+别说了	1	bie shuo liao
+别说傻话了	1	bie shuo sha hua le
+别太耽误了	1	bie tai dan wu le
+别太多话	1	bie tai duo hua
+别太过份了	1	bie tai guo fen le
+别提心	1	bie ti xin
+别玩了	1	bie wan le
+别妄想了	1	bie wang xiang le
+别问了	1	bie wen le
+别误会我	1	bie wu hui wo
+别想离开	1	bie xiang li kai
+别想溜	1	bie xiang liu
+别想骗我	1	bie xiang pian wo
+别想偷跑	1	bie xiang tou pao
+别呀	1	bie ya
+别有企图	1	bie you qi tu
+别再这样子了	1	bie zai zhe yang zi le
+别这么孩子气	1	bie zhe me hai zi qi
+别这么说	1	bie zhe me shuo
+别这样子好不好	1	bie zhe yang zi hao bu hao
+别这样子行不行	1	bie zhe yang zi xing bu xing
+别指望我	1	bie zhi wang wo
+别装蒜了	1	bie zhuang suan le
+别自相残杀	1	bie zi xiang can sha
+并不想这样	1	bing bu xiang zhe yang
+不啊	1	bu a
+不吃了	1	bu chi le
+不错	1	bu cuo
+不错啊	1	bu cuo a
+不错吧	1	bu cuo ba
+不错了	1	bu cuo le
+不错了	1	bu cuo liao
+不错吗	1	bu cuo ma
+不错哦	1	bu cuo o
+不打了	1	bu da le
+不打了	1	bu da liao
+不打扰了	1	bu da rao le
+不打扰你了	1	bu da rao ni le
+不打扰你了	1	bu da rao ni liao
+不打以后别找我啦	1	bu da yi hou bie zhao wo la
+不打以后不理你啦	1	bu da yi hou bu li ni la
+不懂啊	1	bu dong a
+不读了	1	bu du le
+不对啊	1	bu dui a
+不对吗	1	bu dui ma
+不多啊	1	bu duo a
+不发了	1	bu fa le
+不发了	1	bu fa liao
+不敢啊	1	bu gan a
+不干吗	1	bu gan ma
+不干什么	1	bu gan shen me
+不告诉你	1	bu gao su ni
+不给看	1	bu gei kan
+不跟你聊了	1	bu gen ni liao le
+不跟你说了	1	bu gen ni shuo le
+不跟你说了	1	bu gen ni shuo liao
+不够意思	1	bu gou yi si
+不管了	1	bu guan le
+不管呢	1	bu guan ne
+不关我事	1	bu guan wo shi
+不管用	1	bu guan yong
+不行	1	bu hang
+不好啊	1	bu hao a
+不好吧	1	bu hao ba
+不好吃	1	bu hao chi
+不好看啊	1	bu hao kan a
+不好了	1	bu hao le
+不好了	1	bu hao liao
+不好哦	1	bu hao o
+不好耍	1	bu hao shua
+不好玩啊	1	bu hao wan a
+不好呀	1	bu hao ya
+不好意思啊	1	bu hao yi si a
+不好意思啦	1	bu hao yi si la
+不好意思了	1	bu hao yi si le
+不好意思了	1	bu hao yi si liao
+不好意思哦	1	bu hao yi si o
+不好意思呀	1	bu hao yi si ya
+不和你聊了	1	bu he ni liao le
+不和你说了	1	bu he ni shuo le
+不和你说了	1	bu he ni shuo liao
+不会啊	1	bu hui a
+不回啊	1	bu hui a
+不会吧	1	bu hui ba
+不回吧	1	bu hui ba
+不会的啊	1	bu hui de a
+不会的啦	1	bu hui de la
+不会啦	1	bu hui la
+不会了	1	bu hui le
+不回了	1	bu hui le
+不会了	1	bu hui liao
+不会吗	1	bu hui ma
+不会哦	1	bu hui o
+不回去了	1	bu hui qu le
+不回去了	1	bu hui qu liao
+不会是真的吧	1	bu hui shi zhen de ba
+不会呀	1	bu hui ya
+不记得了	1	bu ji de le
+不记得了吗	1	bu ji de le ma
+不记得了	1	bu ji de liao
+不记得了吗	1	bu ji de liao ma
+不记前嫌	1	bu ji qian xian
+不见不散	1	bu jian bu san
+不见得	1	bu jian de
+不见得呢	1	bu jian de ne
+不接啊	1	bu jie a
+不接了	1	bu jie le
+不接了	1	bu jie liao
+不看了	1	bu kan le
+不看了	1	bu kan liao
+不可能	1	bu ke neng
+不可能啊	1	bu ke neng a
+不可能吧	1	bu ke neng ba
+不客气	1	bu ke qi
+不可以啊	1	bu ke yi a
+不可以的	1	bu ke yi de
+不可以吗	1	bu ke yi ma
+不可以呀	1	bu ke yi ya
+不啦	1	bu la
+不来了	1	bu lai le
+不来了	1	bu lai liao
+不赖喔	1	bu lai wo
+不劳无获	1	bu lao wu huo
+不了啊	1	bu le a
+不累啊	1	bu lei a
+不冷了	1	bu leng le
+不理你	1	bu li ni
+不理你了	1	bu li ni le
+不理你了	1	bu li ni liao
+不理我啊	1	bu li wo a
+不理我了	1	bu li wo le
+不了啊	1	bu liao a
+不忙啊	1	bu mang a
+不忙了	1	bu mang le
+不忙呀	1	bu mang ya
+不明白	1	bu ming bai
+不明白啊	1	bu ming bai a
+不难吃	1	bu nan chi
+不能啊	1	bu neng a
+不能吧	1	bu neng ba
+不哦	1	bu o
+不怕啊	1	bu pa a
+不怕不怕	1	bu pa bu pa
+不骗你	1	bu pian ni
+不气	1	bu qi
+不清楚	1	bu qing chu
+不清楚啊	1	bu qing chu a
+不去啊	1	bu qu a
+不去了	1	bu qu le
+不去了	1	bu qu liao
+不确定	1	bu que ding
+不让看	1	bu rang kan
+不惹你	1	bu re ni
+不认识啊	1	bu ren shi a
+不认识吧	1	bu ren shi ba
+不认识了	1	bu ren shi le
+不认识了吗	1	bu ren shi le ma
+不认识吗	1	bu ren shi ma
+不认识你	1	bu ren shi ni
+不认识我了	1	bu ren shi wo le
+不认识我了吗	1	bu ren shi wo le ma
+不认识呀	1	bu ren shi ya
+不容易啊	1	bu rong yi a
+不上啊	1	bu shang a
+不上班	1	bu shang ban
+不上班啊	1	bu shang ban a
+不上班吗	1	bu shang ban ma
+不上道	1	bu shang dao
+不上了	1	bu shang le
+不上了	1	bu shang liao
+不生气	1	bu sheng qi
+不是吧你	1	bu shi ba ni
+不是本人啊	1	bu shi ben ren a
+不是的啊	1	bu shi de a
+不是的吧	1	bu shi de ba
+不是的呀	1	bu shi de ya
+不是哈	1	bu shi ha
+不是很好	1	bu shi hen hao
+不是很忙	1	bu shi hen mang
+不是很清楚	1	bu shi hen qing chu
+不是啦	1	bu shi la
+布什立即声明	1	bu shi li ji sheng ming
+不是么	1	bu shi me
+不是哦	1	bu shi o
+不是什么啊	1	bu shi shen me a
+不是说了吗	1	bu shi shuo le ma
+不是说了吗	1	bu shi shuo liao ma
+不识抬举	1	bu shi tai ju
+不是我啊	1	bu shi wo a
+不是我的	1	bu shi wo de
+不是呀	1	bu shi ya
+不是这个	1	bu shi zhe ge
+不是这个意思	1	bu shi zhe ge yi si
+不是这个	1	bu shi zhei ge
+不说啊	1	bu shuo a
+不说话啊	1	bu shuo hua a
+不说话了	1	bu shuo hua le
+不说话了	1	bu shuo hua liao
+不说就算了	1	bu shuo jiu suan le
+不说就算了	1	bu shuo jiu suan liao
+不说啦	1	bu shuo la
+不说拉倒	1	bu shuo la dao
+不说了啊	1	bu shuo le a
+不说了啊	1	bu shuo liao a
+不说这个了	1	bu shuo zhe ge le
+不说这些了	1	bu shuo zhe xie le
+不说这些了	1	bu shuo zhe xie liao
+不说这个了	1	bu shuo zhei ge le
+不太清楚	1	bu tai qing chu
+不提了	1	bu ti le
+不退了	1	bu tui le
+不为什么	1	bu wei shen me
+不为什么啊	1	bu wei shen me a
+不想吃	1	bu xiang chi
+不想出去	1	bu xiang chu qu
+不想回家	1	bu xiang hui jia
+不想接	1	bu xiang jie
+不想去	1	bu xiang qu
+不想去啊	1	bu xiang qu a
+不想上	1	bu xiang shang
+不想说	1	bu xiang shuo
+不想说话	1	bu xiang shuo hua
+不想说了	1	bu xiang shuo le
+不想说了	1	bu xiang shuo liao
+不想玩	1	bu xiang wan
+不想玩了	1	bu xiang wan le
+不相信啊	1	bu xiang xin a
+不相信吗	1	bu xiang xin ma
+不想再错过	1	bu xiang zai cuo guo
+不想再说了	1	bu xiang zai shuo le
+不想再这样子	1	bu xiang zai zhe yang zi
+不晓得啊	1	bu xiao de a
+不小了	1	bu xiao le
+不信啊	1	bu xin a
+不信拉倒	1	bu xin la dao
+不信吗	1	bu xin ma
+不信算了	1	bu xin suan le
+不信算了	1	bu xin suan liao
+不行	1	bu xing
+不行啊	1	bu xing a
+不行吗	1	bu xing ma
+不行哦	1	bu xing o
+不行呀	1	bu xing ya
+不许动	1	bu xu dong
+不许碰	1	bu xu peng
+不呀	1	bu ya
+不要啊	1	bu yao a
+不要吧	1	bu yao ba
+不要变了	1	bu yao bian le
+不要发了	1	bu yao fa le
+不要发了	1	bu yao fa liao
+不要后悔我说真的	1	bu yao hou hui wo shuo zhen de
+不要紧	1	bu yao jin
+不要惊慌失措	1	bu yao jing huang shi cuo
+不要看了	1	bu yao kan le
+不要看了	1	bu yao kan liao
+不要啦	1	bu yao la
+不要脸的人	1	bu yao lian de ren
+不要吗	1	bu yao ma
+不要捏造事实	1	bu yao nie zao shi shi
+不要碰运气	1	bu yao peng yun qi
+不要生气啊	1	bu yao sheng qi a
+不要说了	1	bu yao shuo le
+不要说了	1	bu yao shuo liao
+不要退了	1	bu yao tui le
+不要退了	1	bu yao tui liao
+不要呀	1	bu yao ya
+不要这样	1	bu yao zhe yang
+不要这样啊	1	bu yao zhe yang a
+不要这样嘛	1	bu yao zhe yang ma
+不要这样说	1	bu yao zhe yang shuo
+不要这样行吗	1	bu yao zhe yang xing ma
+不要这样子好不好	1	bu yao zhe yang zi hao bu hao
+不一定	1	bu yi ding
+不一定啊	1	bu yi ding a
+不一定的	1	bu yi ding de
+不一定这样子啊	1	bu yi ding zhe yang zi a
+不一样啊	1	bu yi yang a
+不用啊	1	bu yong a
+不用吧	1	bu yong ba
+不用客气	1	bu yong ke qi
+不用啦	1	bu yong la
+不用了吧	1	bu yong le ba
+不用上班啊	1	bu yong shang ban a
+不用上班吗	1	bu yong shang ban ma
+不用提收	1	bu yong ti shou
+不远啊	1	bu yuan a
+不在吗	1	bu zai ma
+不再想了	1	bu zai xiang le
+不在呀	1	bu zai ya
+不早说	1	bu zao shuo
+不怎么啊	1	bu zen me a
+不怎么好	1	bu zen me hao
+不怎么样啊	1	bu zen me yang a
+不知啊	1	bu zhi a
+不知道啊	1	bu zhi dao a
+不知道了	1	bu zhi dao le
+不知道呢	1	bu zhi dao ne
+不知道哦	1	bu zhi dao o
+不知道说什么	1	bu zhi dao shuo shen me
+不知道算了	1	bu zhi dao suan le
+不知道算了	1	bu zhi dao suan liao
+不知道为什么	1	bu zhi dao wei shen me
+不知道呀	1	bu zhi dao ya
+不知道耶	1	bu zhi dao ye
+不知道怎么回事	1	bu zhi dao zen me hui shi
+不知道怎么了	1	bu zhi dao zen me le
+不知道怎么了	1	bu zhi dao zen me liao
+不知道怎么说	1	bu zhi dao zen me shuo
+不至于吧	1	bu zhi yu ba
+不准偷看	1	bu zhun tou kan
+不做了	1	bu zuo le
+不做了	1	bu zuo liao
+才不呢	1	cai bu ne
+才不是呢	1	cai bu shi ne
+猜猜看	1	cai cai kan
+才怪	1	cai guai
+才怪呢	1	cai guai ne
+才来啊	1	cai lai a
+彩色的画面	1	cai se de hua mian
+才知道啊	1	cai zhi dao a
+参加的活动	1	can jia de huo dong
+差不多啊	1	cha bu duo a
+差不多吧	1	cha bu duo ba
+差不多啦	1	cha bu duo la
+差不多了	1	cha bu duo le
+差不多了	1	cha bu duo liao
+查查看	1	cha cha kan
+长话短说	1	chang hua duan shuo
+常有的事	1	chang you de shi
+吵死了	1	chao si le
+超小气的	1	chao xiao qi de
+成交	1	cheng jiao
+吃啊	1	chi a
+吃饱了	1	chi bao le
+吃饱了	1	chi bao liao
+吃的什么	1	chi de shen me
+迟点吧	1	chi dian ba
+吃饭啊	1	chi fan a
+吃饭了吧	1	chi fan le ba
+吃饭了吗	1	chi fan le ma
+吃饭了么	1	chi fan le me
+吃饭了没	1	chi fan le mei
+吃饭了没有	1	chi fan le mei you
+吃饭了没有啊	1	chi fan le mei you a
+吃饭没	1	chi fan mei
+吃饭没啊	1	chi fan mei a
+吃饭没有	1	chi fan mei you
+吃饭没有啊	1	chi fan mei you a
+吃饭呢	1	chi fan ne
+吃饭去	1	chi fan qu
+吃饭去了	1	chi fan qu le
+吃饭去了	1	chi fan qu liao
+吃过饭了吗	1	chi guo fan le ma
+吃过了吗	1	chi guo le ma
+吃过了吗	1	chi guo liao ma
+吃好了	1	chi hao le
+吃好了	1	chi hao liao
+吃啦	1	chi la
+吃了啊	1	chi le a
+吃了吗	1	chi le ma
+吃了没	1	chi le mei
+吃了没有	1	chi le mei you
+吃了你呢	1	chi le ni ne
+吃了吗	1	chi liao ma
+吃了你呢	1	chi liao ni ne
+吃晚饭了吗	1	chi wan fan le ma
+丑死了	1	chou si le
+丑死了	1	chou si liao
+愁死我了	1	chou si wo le
+出来啊	1	chu lai a
+出来不	1	chu lai bu
+出来呀	1	chu lai ya
+出去玩了	1	chu qu wan le
+吹牛	1	chui niu
+纯属见鬼	1	chun shu jian gui
+此人已死	1	ci ren yi si
+错过了	1	cuo guo le
+错过了就算了	1	cuo guo le jiu suan le
+错过了	1	cuo guo liao
+打啊	1	da a
+答案是这样子的	1	da an shi zhe yang zi de
+打吧	1	da ba
+打包袋	1	da bao dai
+大便还是小便	1	da bian hai shi xiao bian
+打不开啊	1	da bu kai a
+打错字了	1	da cuo zi le
+达到目的	1	da dao mu di
+打工啊	1	da gong a
+打工的	1	da gong de
+大话精	1	da hua jing
+打开了吗	1	da kai le ma
+打开了吗	1	da kai liao ma
+打吗	1	da ma
+打牌啊	1	da pai a
+打扰了	1	da rao le
+打死你	1	da si ni
+打完了	1	da wan le
+打完了	1	da wan liao
+打字啊	1	da zi a
+打字吧	1	da zi ba
+带耳机	1	dai er ji
+呆会再看	1	dai hui zai kan
+呆会再聊	1	dai hui zai liao
+呆会再试	1	dai hui zai shi
+呆会再试一下	1	dai hui zai shi yi xia
+呆会再说	1	dai hui zai shuo
+呆着呢	1	dai zhe ne
+胆小鬼	1	dan xiao gui
+但愿吧	1	dan yuan ba
+当然啊	1	dang ran a
+当然了	1	dang ran le
+当然咯	1	dang ran lo
+到时再说吧	1	dao shi zai shuo ba
+得很高兴	1	de hen gao xing
+得了吧	1	de le ba
+等等啊	1	deng deng a
+等会啊	1	deng hui a
+等会吧	1	deng hui ba
+等会聊	1	deng hui liao
+等会再和你聊好吗	1	deng hui zai he ni liao hao ma
+等会再聊	1	deng hui zai liao
+等你啊	1	deng ni a
+等你开启	1	deng ni kai qi
+等你呢	1	deng ni ne
+等我啊	1	deng wo a
+等我一会	1	deng wo yi hui
+等下啊	1	deng xia a
+等下聊	1	deng xia liao
+等下哦	1	deng xia o
+等下再聊	1	deng xia zai liao
+邓欣	1	deng xin
+等一下啊	1	deng yi xia a
+等一下哦	1	deng yi xia o
+等着吧	1	deng zhe ba
+等着瞧	1	deng zhe qiao
+点错了	1	dian cuo le
+点错了	1	dian cuo liao
+电话啊	1	dian hua a
+电话联系	1	dian hua lian xi
+点解啊	1	dian jie a
+掉线了	1	diao xian le
+掉线了	1	diao xian liao
+懂不	1	dong bu
+东莞啊	1	dong guan a
+都不理我	1	dou bu li wo
+斗地主啊	1	dou di zhu a
+兜风去	1	dou feng qu
+都过去了	1	dou guo qu le
+都过去了	1	dou guo qu liao
+都是我的错	1	dou shi wo de cuo
+都一样啊	1	dou yi yang a
+读啊	1	du a
+读书啊	1	du shu a
+对不起	1	dui bu qi
+对不起啊	1	dui bu qi a
+对不起啦	1	dui bu qi la
+对不起了	1	dui bu qi le
+对不起了	1	dui bu qi liao
+对不起哦	1	dui bu qi o
+对不起呀	1	dui bu qi ya
+对你的想念	1	dui ni de xiang nian
+对你有好处吗	1	dui ni you hao chu ma
+对你有用吗	1	dui ni you yong ma
+对哦	1	dui o
+对身体不好	1	dui shen ti bu hao
+对天发誓	1	dui tian fa shi
+多此一举的	1	duo ci yi ju de
+多大啊	1	duo da a
+多打了	1	duo da le
+多打了	1	duo da liao
+多好啊	1	duo hao a
+多少啊	1	duo shao a
+多少级了	1	duo shao ji le
+多少钱	1	duo shao qian
+多少钱啊	1	duo shao qian a
+多嘴驴	1	duo zui lv
+发吧	1	fa ba
+发错了	1	fa cuo le
+发错了	1	fa cuo liao
+罚点啥	1	fa dian sha
+发过来啊	1	fa guo lai a
+发来看看	1	fa lai kan kan
+发起攻击	1	fa qi gong ji
+发什么	1	fa shen me
+发什么啊	1	fa shen me a
+发送失败	1	fa song shi bai
+发现	1	fa xian
+发呀	1	fa ya
+烦啊	1	fan a
+反反复复	1	fan fan fu fu
+烦什么	1	fan shen me
+烦什么啊	1	fan shen me a
+方便吗	1	fang bian ma
+方斌	1	fang bin
+放好啊	1	fang hao a
+放假了	1	fang jia le
+放开吧	1	fang kai ba
+放开点	1	fang kai dian
+放弃吧	1	fang qi ba
+放手吧	1	fang shou ba
+放心	1	fang xin
+放心吧	1	fang xin ba
+放心啦	1	fang xin la
+非常寂静	1	fei chang ji jing
+废话	1	fei hua
+非做不可吗	1	fei zuo bu ke ma
+分手吧	1	fen shou ba
+分手了	1	fen shou le
+分手了	1	fen shou liao
+分摊吧	1	fen tan ba
+负面太多了	1	fu mian tai duo le
+服务器超时	1	fu wu qi chao shi
+浮云	1	fu yun
+该死的	1	gai si de
+改天吧	1	gai tian ba
+改天聊	1	gai tian liao
+改天再聊	1	gai tian zai liao
+干啊	1	gan a
+干杯	1	gan bei
+干脆点	1	gan cui dian
+干得好	1	gan de hao
+感觉怎么样	1	gan jue zen me yang
+赶快	1	gan kuai
+干嘛	1	gan ma
+干吗啊	1	gan ma a
+干嘛啊	1	gan ma a
+干吗了	1	gan ma le
+干嘛了	1	gan ma le
+干嘛了	1	gan ma liao
+干吗那	1	gan ma na
+干吗呢	1	gan ma ne
+干嘛呢	1	gan ma ne
+干吗去了	1	gan ma qu le
+干吗去了	1	gan ma qu liao
+干吗呀	1	gan ma ya
+感冒了	1	gan mao le
+干啥呢	1	gan sha ne
+赶什么啊	1	gan shen me a
+干什么了	1	gan shen me le
+干什么了	1	gan shen me liao
+干什么那	1	gan shen me na
+干什么呢	1	gan shen me ne
+干什么去啊	1	gan shen me qu a
+干什么去了	1	gan shen me qu le
+干什么去了	1	gan shen me qu liao
+干什么呀	1	gan shen me ya
+赶时间吗	1	gan shi jian ma
+甘又系	1	gan you xi
+刚才掉线了	1	gang cai diao xian le
+刚才掉线了	1	gang cai diao xian liao
+刚才死机了	1	gang cai si ji le
+刚吃过	1	gang chi guo
+刚吃了	1	gang chi le
+刚吃完	1	gang chi wan
+刚吃完饭	1	gang chi wan fan
+刚到家	1	gang dao jia
+刚掉线了	1	gang diao xian le
+刚掉线了	1	gang diao xian liao
+刚刚啊	1	gang gang a
+刚刚回来	1	gang gang hui lai
+刚刚来	1	gang gang lai
+刚回家	1	gang hui jia
+刚来啊	1	gang lai a
+刚来吗	1	gang lai ma
+刚来呀	1	gang lai ya
+刚上啊	1	gang shang a
+刚上来	1	gang shang lai
+刚洗完澡	1	gang xi wan zao
+刚下班	1	gang xia ban
+搞错了	1	gao cuo le
+搞错了	1	gao cuo liao
+搞什么啊	1	gao shen me a
+告诉我啊	1	gao su wo a
+告诉我吧	1	gao su wo ba
+告诉我好吗	1	gao su wo hao ma
+高兴啊	1	gao xing a
+哥哥好	1	ge ge hao
+给你姐玩吖	1	gei ni jie wan a
+给你看	1	gei ni kan
+给你看看	1	gei ni kan kan
+给我啊	1	gei wo a
+给我打电话	1	gei wo da dian hua
+给我看看	1	gei wo kan kan
+给我看一下啊	1	gei wo kan yi xia a
+给我留言	1	gei wo liu yan
+跟你一样	1	gen ni yi yang
+跟谁啊	1	gen shei a
+跟谁啊	1	gen shui a
+跟我来	1	gen wo lai
+跟我一样	1	gen wo yi yang
+更不要透露密码	1	geng bu yao tou lu mi ma
+恭喜啊	1	gong xi a
+恭喜恭喜	1	gong xi gong xi
+工作啊	1	gong zuo a
+工作了	1	gong zuo le
+工作了吗	1	gong zuo le ma
+工作忙吗	1	gong zuo mang ma
+工作怎么样	1	gong zuo zen me yang
+够了	1	gou le
+够了	1	gou liao
+狗屎运	1	gou shi yun
+挂啊	1	gua a
+挂机中	1	gua ji zhong
+挂吗	1	gua ma
+怪吧	1	guai ba
+乖啦	1	guai la
+乖哦	1	guai o
+拐弯抹角	1	guai wan mo jiao
+关了啊	1	guan le a
+关了吧	1	guan le ba
+关了哦	1	guan le o
+管他呢	1	guan ta ne
+广东啊	1	guang dong a
+广州啊	1	guang zhou a
+滚出去	1	gun chu qu
+过的好吗	1	guo de hao ma
+过得好吗	1	guo de hao ma
+过来啊	1	guo lai a
+过去再说吧	1	guo qu zai shuo ba
+哈哈哈哈哈	1	ha ha ha ha ha
+哈哈哈哈哈哈哈	1	ha ha ha ha ha ha ha
+还不错啊	1	hai bu cuo a
+还不是一样	1	hai bu shi yi yang
+还不知道啊	1	hai bu zhi dao a
+还不知道呢	1	hai bu zhi dao ne
+还好啊	1	hai hao a
+还好吧	1	hai hao ba
+还好不	1	hai hao bu
+还好的	1	hai hao de
+还好啦	1	hai hao la
+还好呀	1	hai hao ya
+还记得吗	1	hai ji de ma
+还记得我不	1	hai ji de wo bu
+还记得我吗	1	hai ji de wo ma
+还可以啊	1	hai ke yi a
+还可以吧	1	hai ke yi ba
+还可以啦	1	hai ke yi la
+还可以了	1	hai ke yi le
+还可以吗	1	hai ke yi ma
+还可以呀	1	hai ke yi ya
+还没	1	hai mei
+还没啊	1	hai mei a
+还没吃饭	1	hai mei chi fan
+还没吃饭呢	1	hai mei chi fan ne
+还没好	1	hai mei hao
+还没好啊	1	hai mei hao a
+还没回来	1	hai mei hui lai
+还没呢	1	hai mei ne
+还没有啊	1	hai mei you a
+还没走啊	1	hai mei zou a
+还没做好	1	hai mei zuo hao
+害怕做某事	1	hai pa zuo mou shi
+还认识我吗	1	hai ren shi wo ma
+还上学吗	1	hai shang xue ma
+还是不行	1	hai shi bu xing
+还是老样子	1	hai shi lao yang zi
+还是没有	1	hai shi mei you
+还是那样	1	hai shi na yang
+还说没有	1	hai shuo mei you
+还说呢	1	hai shuo ne
+还说我	1	hai shuo wo
+还行啊	1	hai xing a
+还行吧	1	hai xing ba
+还要别的吗	1	hai yao bie de ma
+还要吗	1	hai yao ma
+还有啊	1	hai you a
+还有没有王法了	1	hai you mei you wang fa le
+还有呢	1	hai you ne
+还有谁	1	hai you shei
+还有谁啊	1	hai you shei a
+还有什么	1	hai you shen me
+还有谁	1	hai you shui
+还有谁啊	1	hai you shui a
+还有一个	1	hai you yi ge
+还在啊	1	hai zai a
+还在不在啊	1	hai zai bu zai a
+还在么	1	hai zai me
+还在呢	1	hai zai ne
+还在上班吗	1	hai zai shang ban ma
+还在呀	1	hai zai ya
+还早啊	1	hai zao a
+还早呢	1	hai zao ne
+孩子呢	1	hai zi ne
+汗死	1	han si
+好吖	1	hao a
+好吧	1	hao ba
+好吧走吧	1	hao ba zou ba
+好饱	1	hao bao
+好不啊	1	hao bu a
+好不好啊	1	hao bu hao a
+好不好嘛	1	hao bu hao ma
+好不好呀	1	hao bu hao ya
+好吃吗	1	hao chi ma
+好的啊	1	hao de a
+好的拜拜	1	hao de bai bai
+好得很	1	hao de hen
+好的哦	1	hao de o
+好的呀	1	hao de ya
+好点了	1	hao dian le
+好点了吗	1	hao dian le ma
+好多啊	1	hao duo a
+好饿	1	hao e
+好恶心	1	hao e xin
+好烦啊	1	hao fan a
+好烦恼	1	hao fan nao
+好烦哦	1	hao fan o
+好狗不挡路	1	hao gou bu dang lu
+好汉不挡路	1	hao han bu dang lu
+好好啊	1	hao hao a
+好好的	1	hao hao de
+好好做吧	1	hao hao zuo ba
+好黑啊	1	hao hei a
+好伙伴	1	hao huo ban
+好家伙	1	hao jia huo
+好姐姐	1	hao jie jie
+好久不见	1	hao jiu bu jian
+好久不见啊	1	hao jiu bu jian a
+好久不见了啊	1	hao jiu bu jian le a
+好久不见了哦	1	hao jiu bu jian le o
+好久不见了啊	1	hao jiu bu jian liao a
+好久不见了哦	1	hao jiu bu jian liao o
+好久不见你了	1	hao jiu bu jian ni le
+好久不见你了	1	hao jiu bu jian ni liao
+好久不见哦	1	hao jiu bu jian o
+好久了	1	hao jiu le
+好久了	1	hao jiu liao
+好久没见了	1	hao jiu mei jian le
+好久没见了	1	hao jiu mei jian liao
+好久没见你了	1	hao jiu mei jian ni le
+好久没见你了	1	hao jiu mei jian ni liao
+好久没看到你了	1	hao jiu mei kan dao ni le
+好久没看到你了	1	hao jiu mei kan dao ni liao
+好久没联系了	1	hao jiu mei lian xi le
+好久没聊了	1	hao jiu mei liao le
+好卡	1	hao ka
+好卡啊	1	hao ka a
+好看啊	1	hao kan a
+好看吧	1	hao kan ba
+好看不	1	hao kan bu
+好看么	1	hao kan me
+好可爱啊	1	hao ke ai a
+好可爱哦	1	hao ke ai o
+好可怜	1	hao ke lian
+好可怜啊	1	hao ke lian a
+好可怜哦	1	hao ke lian o
+好快啊	1	hao kuai a
+好烂	1	hao lan
+好懒啊	1	hao lan a
+好老婆	1	hao lao po
+好了吧	1	hao le ba
+好了不说了	1	hao le bu shuo le
+好了不说了	1	hao le bu shuo liao
+好了么	1	hao le me
+好了没啊	1	hao le mei a
+好了没有	1	hao le mei you
+好了没有啊	1	hao le mei you a
+好累啊	1	hao lei a
+好累了	1	hao lei le
+好累哦	1	hao lei o
+好冷啊	1	hao leng a
+好了吧	1	hao liao ba
+好咯	1	hao lo
+号码是	1	hao ma shi
+好慢啊	1	hao man a
+好忙啊	1	hao mang a
+好噢	1	hao o
+好哦	1	hao o
+好漂亮	1	hao piao liang
+好漂亮啊	1	hao piao liang a
+好漂亮哦	1	hao piao liang o
+好奇怪	1	hao qi guai
+好热啊	1	hao re a
+好热哦	1	hao re o
+好什么	1	hao shen me
+好什么啊	1	hao shen me a
+好什么呀	1	hao shen me ya
+好事当然成双了	1	hao shi dang ran cheng shuang le
+好帅啊	1	hao shuai a
+好爽啊	1	hao shuang a
+好听啊	1	hao ting a
+好听吧	1	hao ting ba
+好听不	1	hao ting bu
+好听吗	1	hao ting ma
+好玩啊	1	hao wan a
+好玩吧	1	hao wan ba
+好玩不	1	hao wan bu
+好玩吗	1	hao wan ma
+好无聊	1	hao wu liao
+好无聊啊	1	hao wu liao a
+好无聊哦	1	hao wu liao o
+好险	1	hao xian
+好想放弃	1	hao xiang fang qi
+好想回家	1	hao xiang hui jia
+好想看海	1	hao xiang kan hai
+好想快点做完	1	hao xiang kuai dian zuo wan
+好想离开	1	hao xiang li kai
+好想旅游	1	hao xiang lv you
+好想你啊	1	hao xiang ni a
+好想你哦	1	hao xiang ni o
+好想你呀	1	hao xiang ni ya
+好像是吧	1	hao xiang shi ba
+好想运动	1	hao xiang yun dong
+好想找人	1	hao xiang zhao ren
+好想走	1	hao xiang zou
+好想走路	1	hao xiang zou lu
+好笑吗	1	hao xiao ma
+薅羊毛	1	hao yang mao
+好郁闷	1	hao yu men
+好远啊	1	hao yuan a
+好着呢	1	hao zhe ne
+何必呢	1	he bi ne
+何必这样子呢	1	he bi zhe yang zi ne
+喝多了	1	he duo le
+喝多了	1	he duo liao
+呵呵是吗	1	he he shi ma
+河南的	1	he nan de
+和你啊	1	he ni a
+和你聊天	1	he ni liao tian
+和你聊天啊	1	he ni liao tian a
+和你一样	1	he ni yi yang
+和你一样啊	1	he ni yi yang a
+和谁啊	1	he shei a
+和谁聊呢	1	he shei liao ne
+和谁呀	1	he shei ya
+和谁啊	1	he shui a
+和谁聊呢	1	he shui liao ne
+和谁呀	1	he shui ya
+和我一样	1	he wo yi yang
+和我一样啊	1	he wo yi yang a
+黑白之间	1	hei bai zhi jian
+嘿嘿嘿	1	hei hei hei
+很不错吧	1	hen bu cuo ba
+很多啊	1	hen duo a
+很恶心	1	hen e xin
+很风情哦	1	hen feng qing o
+很高兴认识你	1	hen gao xing ren shi ni
+很好啊	1	hen hao a
+很好吧	1	hen hao ba
+很好看的	1	hen hao kan de
+很好听的	1	hen hao ting de
+很好玩	1	hen hao wan
+很好玩的	1	hen hao wan de
+很好呀	1	hen hao ya
+很吉利的号码哦	1	hen ji li de hao ma o
+很久了	1	hen jiu le
+很开心能认识你	1	hen kai xin neng ren shi ni
+很累吧	1	hen lei ba
+很累的	1	hen lei de
+很难伺候	1	hen nan ci hou
+很难说	1	hen nan shuo
+很漂亮啊	1	hen piao liang a
+很讨厌吧	1	hen tao yan ba
+很无聊	1	hen wu liao
+很想见你	1	hen xiang jian ni
+很想你	1	hen xiang ni
+很性感	1	hen xing gan
+后天吧	1	hou tian ba
+湖北的	1	hu bei de
+胡扯	1	hu che
+湖南的	1	hu nan de
+胡闹	1	hu nao
+呼吸的天空	1	hu xi de tian kong
+话不可乱说	1	hua bu ke luan shuo
+花痴	1	hua chi
+画蛇添足	1	hua she tian zu
+坏了啊	1	huai le a
+还没	1	huan mei
+黄昏恋	1	huang hun lian
+会啊	1	hui a
+回啊	1	hui a
+回答啊	1	hui da a
+回答我	1	hui da wo
+回答我啊	1	hui da wo a
+会好的	1	hui hao de
+回话啊	1	hui hua a
+回家啊	1	hui jia a
+回家吧	1	hui jia ba
+回家干嘛	1	hui jia gan ma
+回家了啊	1	hui jia le a
+回家了吗	1	hui jia le ma
+回家去吧	1	hui jia qu ba
+回来啊	1	hui lai a
+回来啦	1	hui lai la
+回来了啊	1	hui lai le a
+回来了吗	1	hui lai le ma
+回来了啊	1	hui lai liao a
+回来了吗	1	hui lai liao ma
+回来再聊	1	hui lai zai liao
+回来再说	1	hui lai zai shuo
+会吗	1	hui ma
+回去啊	1	hui qu a
+回去吧	1	hui qu ba
+回去了	1	hui qu le
+回去了	1	hui qu liao
+回头再看	1	hui tou zai kan
+回微博	1	hui wei bo
+会呀	1	hui ya
+回呀	1	hui ya
+或重新登录	1	huo chong xin deng lu
+获得成功	1	huo de cheng gong
+活该	1	huo gai
+或许吧	1	huo xu ba
+机不可失喔	1	ji bu ke shi wo
+记得啊	1	ji de a
+记得了	1	ji de le
+记得了	1	ji de liao
+记得吗	1	ji de ma
+记得哦	1	ji de o
+记得我吗	1	ji de wo ma
+寄点儿	1	ji dian er
+几点了	1	ji dian le
+几点了	1	ji dian liao
+几号啊	1	ji hao a
+寄奶粉	1	ji nai fen
+几时啊	1	ji shi a
+急死我了	1	ji si wo le
+几岁了	1	ji sui le
+继续	1	ji xu
+记住了	1	ji zhu le
+家里啊	1	jia li a
+加我的人	1	jia wo de ren
+加油啊	1	jia you a
+加油吧	1	jia you ba
+加油哦	1	jia you o
+坚持下去	1	jian chi xia qu
+见笑了	1	jian xiao le
+见笑了	1	jian xiao liao
+简直太棒了	1	jian zhi tai bang le
+讲啊	1	jiang a
+讲话啊	1	jiang hua a
+讲话吧	1	jiang hua ba
+讲啦	1	jiang la
+叫啊	1	jiao a
+交个朋友	1	jiao ge peng you
+交个朋友好吗	1	jiao ge peng you hao ma
+教坏小孩	1	jiao huai xiao hai
+叫姐姐	1	jiao jie jie
+叫什么啊	1	jiao shen me a
+叫什么名字啊	1	jiao shen me ming zi a
+叫什么呀	1	jiao shen me ya
+接啊	1	jie a
+接吧	1	jie ba
+接不接	1	jie bu jie
+接不了	1	jie bu le
+接不了	1	jie bu liao
+结婚了吗	1	jie hun le ma
+姐姐啊	1	jie jie a
+姐姐好	1	jie jie hao
+接啦	1	jie la
+接了啊	1	jie le a
+接了吗	1	jie le ma
+接了啊	1	jie liao a
+接咯	1	jie lo
+接哦	1	jie o
+节日快乐	1	jie ri kuai le
+接什么	1	jie shen me
+接什么啊	1	jie shen me a
+节食	1	jie shi
+接视频啊	1	jie shi pin a
+接受啊	1	jie shou a
+解脱了	1	jie tuo le
+街舞曲	1	jie wu qu
+接呀	1	jie ya
+截一个图	1	jie yi ge tu
+接一下	1	jie yi xia
+进啊	1	jin a
+进不去啊	1	jin bu qu a
+进来了	1	jin lai le
+进来了	1	jin lai liao
+进了吗	1	jin le ma
+尽力而为	1	jin li er wei
+今天啊	1	jin tian a
+今天不上班	1	jin tian bu shang ban
+今天不上班吗	1	jin tian bu shang ban ma
+今天放假	1	jin tian fang jia
+今天忙吗	1	jin tian mang ma
+今天没上班	1	jin tian mei shang ban
+今天没上班啊	1	jin tian mei shang ban a
+今天没上班吗	1	jin tian mei shang ban ma
+今天没有上班吗	1	jin tian mei you shang ban ma
+今天上班了吗	1	jin tian shang ban le ma
+今天是星期天	1	jin tian shi xing qi tian
+今天星期天	1	jin tian xing qi tian
+今天休息	1	jin tian xiu xi
+今天休息啊	1	jin tian xiu xi a
+今天休息吗	1	jin tian xiu xi ma
+劲舞啊	1	jin wu a
+劲舞吗	1	jin wu ma
+劲舞呢	1	jin wu ne
+劲舞中	1	jin wu zhong
+精彩	1	jing cai
+劲舞啊	1	jing wu a
+劲舞吗	1	jing wu ma
+劲舞呢	1	jing wu ne
+劲舞团	1	jing wu tuan
+劲舞中	1	jing wu zhong
+就可以单向收费了	1	jiu ke yi dan xiang shou fei le
+就可以单向收费了	1	jiu ke yi dan xiang shou fei liao
+就来了	1	jiu lai le
+就来了	1	jiu lai liao
+救命啊	1	jiu ming a
+就那样啊	1	jiu na yang a
+就那样吧	1	jiu na yang ba
+就你一个人吗	1	jiu ni yi ge ren ma
+就是啊	1	jiu shi a
+就是的啊	1	jiu shi de a
+就是哈	1	jiu shi ha
+就是咯	1	jiu shi lo
+就是吗	1	jiu shi ma
+就是哦	1	jiu shi o
+就是呀	1	jiu shi ya
+就是这个	1	jiu shi zhe ge
+就是这样的	1	jiu shi zhe yang de
+就是这个	1	jiu shi zhei ge
+就下了	1	jiu xia le
+就下了	1	jiu xia liao
+就一个	1	jiu yi ge
+就这个	1	jiu zhe ge
+就这样啊	1	jiu zhe yang a
+就这样吧	1	jiu zhe yang ba
+就这样了	1	jiu zhe yang le
+就这样了	1	jiu zhe yang liao
+就这样子	1	jiu zhe yang zi
+就这个	1	jiu zhei ge
+就走了	1	jiu zou le
+就走了	1	jiu zou liao
+具体点	1	ju ti dian
+卡啊	1	ka a
+卡了	1	ka le
+卡死了	1	ka si le
+卡死了	1	ka si liao
+卡住了	1	ka zhu le
+卡住了	1	ka zhu liao
+开啊	1	kai a
+开车离开了	1	kai che li kai le
+开个玩笑	1	kai ge wan xiao
+开视频	1	kai shi pin
+开玩笑啊	1	kai wan xiao a
+开玩笑的啦	1	kai wan xiao de la
+开玩笑了	1	kai wan xiao le
+开玩笑了	1	kai wan xiao liao
+开玩笑呢	1	kai wan xiao ne
+开心啊	1	kai xin a
+开心点	1	kai xin dian
+开心吗	1	kai xin ma
+开呀	1	kai ya
+看不	1	kan bu
+看不到啊	1	kan bu dao a
+看不到吗	1	kan bu dao ma
+看不到你	1	kan bu dao ni
+看不到你啊	1	kan bu dao ni a
+看不到你呀	1	kan bu dao ni ya
+看不到呀	1	kan bu dao ya
+看不懂啊	1	kan bu dong a
+看不见啊	1	kan bu jian a
+看不见你	1	kan bu jian ni
+看不见你啊	1	kan bu jian ni a
+看不见你呀	1	kan bu jian ni ya
+看不见呀	1	kan bu jian ya
+看不清啊	1	kan bu qing a
+看不清楚啊	1	kan bu qing chu a
+看厕所的大婶喊	1	kan ce suo de da shen han
+看错了	1	kan cuo le
+看错了	1	kan cuo liao
+看到啦	1	kan dao la
+看到了啊	1	kan dao le a
+看到了吧	1	kan dao le ba
+看到了吗	1	kan dao le ma
+看到了么	1	kan dao le me
+看到了没	1	kan dao le mei
+看到了没有	1	kan dao le mei you
+看到了啊	1	kan dao liao a
+看到了吧	1	kan dao liao ba
+看到了吗	1	kan dao liao ma
+看到了么	1	kan dao liao me
+看到了没	1	kan dao liao mei
+看到了没有	1	kan dao liao mei you
+看到吗	1	kan dao ma
+看到没	1	kan dao mei
+看到没啊	1	kan dao mei a
+看到没有	1	kan dao mei you
+看到没有啊	1	kan dao mei you a
+看到你了	1	kan dao ni le
+看到你了	1	kan dao ni liao
+看到我了吗	1	kan dao wo le ma
+看的出来	1	kan de chu lai
+看电视啊	1	kan dian shi a
+看电视了	1	kan dian shi le
+看电视呢	1	kan dian shi ne
+看电影啊	1	kan dian ying a
+看电影呢	1	kan dian ying ne
+看个饱	1	kan ge bao
+看个够	1	kan ge gou
+看好喔	1	kan hao wo
+看后给我留言哦	1	kan hou gei wo liu yan o
+看见了啊	1	kan jian le a
+看见了吧	1	kan jian le ba
+看见了吗	1	kan jian le ma
+看见了没	1	kan jian le mei
+看见了啊	1	kan jian liao a
+看见了吧	1	kan jian liao ba
+看见了吗	1	kan jian liao ma
+看见了没	1	kan jian liao mei
+看见吗	1	kan jian ma
+看见没	1	kan jian mei
+看见你了	1	kan jian ni le
+看见你了	1	kan jian ni liao
+看见我了吗	1	kan jian wo le ma
+看看啊	1	kan kan a
+看看吧	1	kan kan ba
+看看好吗	1	kan kan hao ma
+看看吗	1	kan kan ma
+看看你	1	kan kan ni
+看看你啊	1	kan kan ni a
+看看你吧	1	kan kan ni ba
+看看你好吗	1	kan kan ni hao ma
+看看你可以吗	1	kan kan ni ke yi ma
+看看你行吗	1	kan kan ni xing ma
+看看你呀	1	kan kan ni ya
+看看呀	1	kan kan ya
+看了啊	1	kan le a
+看了吗	1	kan le ma
+看了没	1	kan le mei
+看了啊	1	kan liao a
+看了吗	1	kan liao ma
+看了没	1	kan liao mei
+看你啊	1	kan ni a
+看你说的	1	kan ni shuo de
+看你呀	1	kan ni ya
+看情况吧	1	kan qing kuang ba
+看什么啊	1	kan shen me a
+看什么呢	1	kan shen me ne
+看什么呀	1	kan shen me ya
+看完了	1	kan wan le
+看完了	1	kan wan liao
+看小说	1	kan xiao shuo
+看新闻	1	kan xin wen
+看一下啊	1	kan yi xia a
+看一下吗	1	kan yi xia ma
+看着办	1	kan zhe ban
+看资料	1	kan zi liao
+靠啊	1	kao a
+靠了	1	kao le
+考虑中	1	kao lv zhong
+可爱吧	1	ke ai ba
+刻薄的语气	1	ke bo de yu qi
+可不	1	ke bu
+可耻的匿了	1	ke chi de ni le
+可怜啊	1	ke lian a
+可怜的孩子	1	ke lian de hai zi
+可能吧	1	ke neng ba
+可能是吧	1	ke neng shi ba
+客气了	1	ke qi le
+客气了	1	ke qi liao
+可惜啊	1	ke xi a
+可惜了	1	ke xi le
+可以的啊	1	ke yi de a
+可以告诉我吗	1	ke yi gao su wo ma
+可以给我这个吗	1	ke yi gei wo zhe ge ma
+可以和你聊聊吗	1	ke yi he ni liao liao ma
+可以交个朋友吗	1	ke yi jiao ge peng you ma
+可以接吗	1	ke yi jie ma
+可以看看吗	1	ke yi kan kan ma
+可以看看你吗	1	ke yi kan kan ni ma
+可以看你吗	1	ke yi kan ni ma
+可以啦	1	ke yi la
+可以了吧	1	ke yi le ba
+可以了吗	1	ke yi le ma
+可以了吧	1	ke yi liao ba
+可以聊会吗	1	ke yi liao hui ma
+可以聊聊吗	1	ke yi liao liao ma
+可以了吗	1	ke yi liao ma
+可以聊吗	1	ke yi liao ma
+可以聊天吗	1	ke yi liao tian ma
+可以聊一下吗	1	ke yi liao yi xia ma
+可以么	1	ke yi me
+可以哦	1	ke yi o
+可以认识你吗	1	ke yi ren shi ni ma
+可以视频吗	1	ke yi shi pin ma
+可以说话吗	1	ke yi shuo hua ma
+可以说吗	1	ke yi shuo ma
+可以说说吗	1	ke yi shuo shuo ma
+可以做个朋友吗	1	ke yi zuo ge peng you ma
+克制一下	1	ke zhi yi xia
+肯定了	1	ken ding le
+肯定了	1	ken ding liao
+空间地址	1	kong jian di zhi
+苦啊	1	ku a
+哭啊	1	ku a
+快吧	1	kuai ba
+快到家了	1	kuai dao jia le
+快点啊	1	kuai dian a
+快点儿吧	1	kuai dian er ba
+快点回去吧	1	kuai dian hui qu ba
+快点了	1	kuai dian le
+快点哦	1	kuai dian o
+快点呀	1	kuai dian ya
+快回到了	1	kuai hui dao le
+快回家啦	1	kuai hui jia la
+快回来	1	kuai hui lai
+快接啊	1	kuai jie a
+快啦	1	kuai la
+快来啊	1	kuai lai a
+快来吧	1	kuai lai ba
+快来看看	1	kuai lai kan kan
+快了啊	1	kuai le a
+快了吧	1	kuai le ba
+快了啊	1	kuai liao a
+快了吧	1	kuai liao ba
+快哦	1	kuai o
+快去吧	1	kuai qu ba
+快去看看	1	kuai qu kan kan
+快上线呀	1	kuai shang xian ya
+快说啊	1	kuai shuo a
+快说话	1	kuai shuo hua
+快想办法	1	kuai xiang ban fa
+快想好	1	kuai xiang hao
+快呀	1	kuai ya
+快做好了	1	kuai zuo hao le
+拉倒吧	1	la dao ba
+垃圾啊	1	la ji a
+来吧	1	lai ba
+来不来啊	1	lai bu lai a
+来得容易	1	lai de rong yi
+来多久了	1	lai duo jiu le
+来过吗	1	lai guo ma
+来劲舞	1	lai jin wu
+来劲舞	1	lai jing wu
+来了啊	1	lai le a
+来了吗	1	lai le ma
+来了没	1	lai le mei
+来了呀	1	lai le ya
+来了啊	1	lai liao a
+来了吗	1	lai liao ma
+来了没	1	lai liao mei
+来了呀	1	lai liao ya
+来咯	1	lai lo
+来么	1	lai me
+来没	1	lai mei
+来我博客看看哦	1	lai wo bo ke kan kan o
+来找我	1	lai zhao wo
+来这边坐	1	lai zhe bian zuo
+懒啊	1	lan a
+浪漫的地盘	1	lang man de di pan
+老公啊	1	lao gong a
+老公呢	1	lao gong ne
+老呢	1	lao ne
+老婆啊	1	lao po a
+老婆呢	1	lao po ne
+老婆我爱你	1	lao po wo ai ni
+老实说	1	lao shi shuo
+老孙啊	1	lao sun a
+老乡啊	1	lao xiang a
+老子一直在说话	1	lao zi yi zhi zai shuo hua
+老总瞪着眼睛	1	lao zong deng zhe yan jing
+老总掏出十块钱	1	lao zong tao chu shi kuai qian
+老总已经呆在那里	1	lao zong yi jing dai zai na li
+累不	1	lei bu
+累不累啊	1	lei bu lei a
+累了吧	1	lei le ba
+累死了	1	lei si le
+累死了	1	lei si liao
+累死我了	1	lei si wo le
+累呀	1	lei ya
+冷啊	1	leng a
+冷吧	1	leng ba
+冷静点	1	leng jing dian
+离吧	1	li ba
+厉害啊	1	li hai a
+厉害吧	1	li hai ba
+离开吧	1	li kai ba
+李荣均	1	li rong jun
+李伟杰	1	li wei jie
+脸皮真厚	1	lian pi zhen hou
+两全其美	1	liang quan qi mei
+聊会	1	liao hui
+聊聊啊	1	liao liao a
+聊聊吧	1	liao liao ba
+聊聊好吗	1	liao liao hao ma
+聊聊可以吗	1	liao liao ke yi ma
+聊什么	1	liao shen me
+聊什么啊	1	liao shen me a
+聊天啊	1	liao tian a
+聊天吗	1	liao tian ma
+聊天呢	1	liao tian ne
+聊天呀	1	liao tian ya
+聊一聊	1	liao yi liao
+另外	1	ling wai
+另外这说法	1	ling wai zhe shuo fa
+留什么	1	liu shen me
+留住她的小生命	1	liu zhu ta de xiao sheng ming
+路上小心	1	lu shang xiao xin
+麻烦你了	1	ma fan ni le
+麻烦你了	1	ma fan ni liao
+马上出来付钱	1	ma shang chu lai fu qian
+马上回来	1	ma shang hui lai
+马上就到	1	ma shang jiu dao
+慢啊	1	man a
+蛮好的	1	man hao de
+蛮好看的	1	man hao kan de
+慢慢来	1	man man lai
+慢慢来啊	1	man man lai a
+慢慢来吧	1	man man lai ba
+慢慢来嘛	1	man man lai ma
+蛮配的	1	man pei de
+慢吞吞的	1	man tun tun de
+忙啊	1	mang a
+忙不	1	mang bu
+忙呢	1	mang ne
+忙啥呢	1	mang sha ne
+忙什么	1	mang shen me
+忙什么啊	1	mang shen me a
+忙什么了	1	mang shen me le
+忙什么了	1	mang shen me liao
+忙什么那	1	mang shen me na
+忙什么呀	1	mang shen me ya
+忙死了	1	mang si le
+忙死了	1	mang si liao
+忙完了	1	mang wan le
+忙完了吗	1	mang wan le ma
+忙完了	1	mang wan liao
+忙完了吗	1	mang wan liao ma
+忙呀	1	mang ya
+忙着呢	1	mang zhe ne
+么啊	1	me a
+么意思	1	me yi si
+没吖	1	mei a
+没啊	1	mei a
+没吧	1	mei ba
+没办法啊	1	mei ban fa a
+没办法的	1	mei ban fa de
+没办法了	1	mei ban fa le
+没办法呀	1	mei ban fa ya
+没别的意思	1	mei bie de yi si
+没吃	1	mei chi
+没打开	1	mei da kai
+没的	1	mei de
+没的啊	1	mei de a
+没地方可	1	mei di fang ke
+没点水准	1	mei dian shui zhun
+没风度	1	mei feng du
+没感觉	1	mei gan jue
+没干吗	1	mei gan ma
+没干嘛	1	mei gan ma
+没干吗啊	1	mei gan ma a
+没干嘛啊	1	mei gan ma a
+没干什么	1	mei gan shen me
+没干什么啊	1	mei gan shen me a
+每个号可领取	1	mei ge hao ke ling qu
+没工作	1	mei gong zuo
+没关系	1	mei guan xi
+没关系啊	1	mei guan xi a
+没关系啦	1	mei guan xi la
+没关系了	1	mei guan xi le
+没看出来	1	mei kan chu lai
+没看到啊	1	mei kan dao a
+没看到吗	1	mei kan dao ma
+没看到你啊	1	mei kan dao ni a
+没看懂	1	mei kan dong
+没看见啊	1	mei kan jian a
+没空啊	1	mei kong a
+没啦	1	mei la
+没了啊	1	mei le a
+没力	1	mei li
+没良心	1	mei liang xin
+没了啊	1	mei liao a
+没忙什么	1	mei mang shen me
+没忙什么啊	1	mei mang shen me a
+没明白	1	mei ming bai
+没呢	1	mei ne
+美女好	1	mei nv hao
+美女好啊	1	mei nv hao a
+美女你好	1	mei nv ni hao
+没骗你	1	mei pian ni
+没骗你啊	1	mei pian ni a
+没钱啊	1	mei qian a
+没钱了	1	mei qian le
+没钱了	1	mei qian liao
+没人啊	1	mei ren a
+没人要啊	1	mei ren yao a
+没日没夜	1	mei ri mei ye
+没肉啊	1	mei rou a
+没肉了	1	mei rou le
+没上班	1	mei shang ban
+没上班啊	1	mei shang ban a
+没上班吗	1	mei shang ban ma
+没什么	1	mei shen me
+没什么啊	1	mei shen me a
+没什么的	1	mei shen me de
+没什么好看的	1	mei shen me hao kan de
+没什么好玩的	1	mei shen me hao wan de
+没什么啦	1	mei shen me la
+没什么了	1	mei shen me le
+没什么了不起	1	mei shen me le bu qi
+没什么了	1	mei shen me liao
+没什么事	1	mei shen me shi
+没什么呀	1	mei shen me ya
+没什么意思	1	mei shen me yi si
+没什么意思啊	1	mei shen me yi si a
+没事吧	1	mei shi ba
+没事的啊	1	mei shi de a
+没事干啊	1	mei shi gan a
+没时间啊	1	mei shi jian a
+没时间了	1	mei shi jian le
+没事就好	1	mei shi jiu hao
+没事就离开吧	1	mei shi jiu li kai ba
+没事啦	1	mei shi la
+没视频	1	mei shi pin
+没视频啊	1	mei shi pin a
+没事呀	1	mei shi ya
+没事做	1	mei shi zuo
+没事做啊	1	mei shi zuo a
+没收到	1	mei shou dao
+没说什么	1	mei shuo shen me
+没听到	1	mei ting dao
+没歪	1	mei wai
+没完没了的	1	mei wan mei le de
+没完没了	1	mei wan mei liao
+没玩什么	1	mei wan shen me
+没玩什么啊	1	mei wan shen me a
+没为什么	1	mei wei shen me
+没问题	1	mei wen ti
+没问题啊	1	mei wen ti a
+没心情	1	mei xin qing
+没呀	1	mei ya
+没意思啊	1	mei yi si a
+每一天	1	mei yi tian
+每一天在看	1	mei yi tian zai kan
+没有吖	1	mei you a
+没有吧	1	mei you ba
+没有办法啊	1	mei you ban fa a
+没有参加活动	1	mei you can jia huo dong
+没有的啊	1	mei you de a
+没有发送成功	1	mei you fa song cheng gong
+没有关系啊	1	mei you guan xi a
+没有活动	1	mei you huo dong
+没有就好	1	mei you jiu hao
+没有就算了	1	mei you jiu suan le
+没有就算了	1	mei you jiu suan liao
+没有看到	1	mei you kan dao
+没有了啊	1	mei you le a
+没有了啊	1	mei you liao a
+没有没有	1	mei you mei you
+没有呢	1	mei you ne
+没有哦	1	mei you o
+没有钱啊	1	mei you qian a
+没有人知道	1	mei you ren zhi dao
+没有上班	1	mei you shang ban
+没有上班啊	1	mei you shang ban a
+没有上班吗	1	mei you shang ban ma
+没有什么啊	1	mei you shen me a
+没有什么的	1	mei you shen me de
+没有什么了	1	mei you shen me le
+没有什么了	1	mei you shen me liao
+没有什么呀	1	mei you shen me ya
+没有事	1	mei you shi
+没有时间啊	1	mei you shi jian a
+没有视频	1	mei you shi pin
+没有视频啊	1	mei you shi pin a
+没有为什么	1	mei you wei shen me
+没有为什么啊	1	mei you wei shen me a
+没有呀	1	mei you ya
+没有用	1	mei you yong
+没有永远	1	mei you yong yuan
+没有怎么啊	1	mei you zen me a
+没怎么啊	1	mei zen me a
+没怎么呀	1	mei zen me ya
+没这回事	1	mei zhe hui shi
+没这回事	1	mei zhei hui shi
+妹纸	1	mei zhi
+没做什么	1	mei zuo shen me
+没做什么啊	1	mei zuo shen me a
+梦中几度忆	1	meng zhong ji du yi
+密码是	1	mi ma shi
+免了吧	1	mian le ba
+免谈	1	mian tan
+乜啊	1	mie a
+明白了吗	1	ming bai le ma
+明白了吗	1	ming bai liao ma
+命苦啊	1	ming ku a
+明天啊	1	ming tian a
+明天吧	1	ming tian ba
+明天还要上班	1	ming tian hai yao shang ban
+明天聊	1	ming tian liao
+明天去	1	ming tian qu
+明天上班吗	1	ming tian shang ban ma
+明天要上班	1	ming tian yao shang ban
+明天又要上班了	1	ming tian you yao shang ban le
+明天再聊	1	ming tian zai liao
+明天再说	1	ming tian zai shuo
+明天再说吧	1	ming tian zai shuo ba
+名字啊	1	ming zi a
+末班车	1	mo ban che
+末班车来了	1	mo ban che lai le
+木有	1	mu you
+木有用处	1	mu you yong chu
+哪啊	1	na a
+拿啊	1	na a
+那拜拜	1	na bai bai
+拿不	1	na bu
+那不错	1	na bu cuo
+那不错啊	1	na bu cuo a
+那不打扰你了	1	na bu da rao ni le
+那不打扰你了	1	na bu da rao ni liao
+那不行	1	na bu xing
+那当然了	1	na dang ran le
+哪的	1	na de
+哪的啊	1	na de a
+那个啊	1	na ge a
+哪个啊	1	na ge a
+哪个哦	1	na ge o
+哪个区	1	na ge qu
+那个呀	1	na ge ya
+哪个呀	1	na ge ya
+拿过来啊	1	na guo lai a
+那还差不多	1	na hai cha bu duo
+那还好	1	na hai hao
+那还可以	1	na hai ke yi
+那还行	1	na hai xing
+那行	1	na hang
+那好啊	1	na hao a
+拿好啊	1	na hao a
+那好的	1	na hao de
+那好了	1	na hao le
+那好了	1	na hao liao
+那好嘛	1	na hao ma
+拿好哦	1	na hao o
+那好呀	1	na hao ya
+那很好	1	na hen hao
+那很好啊	1	na hen hao a
+拿回来了	1	na hui lai le
+拿回来了	1	na hui lai liao
+那就	1	na jiu
+那就不说了	1	na jiu bu shuo le
+那就不说了	1	na jiu bu shuo liao
+那就不知道了	1	na jiu bu zhi dao le
+那就对了	1	na jiu dui le
+那就对了	1	na jiu dui liao
+那就好啊	1	na jiu hao a
+那就好了	1	na jiu hao le
+那就好了	1	na jiu hao liao
+那就好呀	1	na jiu hao ya
+那就没办法了	1	na jiu mei ban fa le
+那就是	1	na jiu shi
+那就是啊	1	na jiu shi a
+那就是了	1	na jiu shi le
+那就是咯	1	na jiu shi lo
+那就行	1	na jiu xing
+那就行了	1	na jiu xing le
+那就这样吧	1	na jiu zhe yang ba
+那可不行	1	na ke bu xing
+那可以啊	1	na ke yi a
+拿来啊	1	na lai a
+拿来吧	1	na lai ba
+拿来了	1	na lai le
+拿来了	1	na lai liao
+拿来嘛	1	na lai ma
+拿来呀	1	na lai ya
+哪了	1	na le
+拿了啊	1	na le a
+哪里的	1	na li de
+哪里的啊	1	na li de a
+哪里呀	1	na li ya
+那么多啊	1	na me duo a
+那么好啊	1	na me hao a
+那么快啊	1	na me kuai a
+那么远啊	1	na me yuan a
+那么早	1	na me zao
+那么早啊	1	na me zao a
+那没办法	1	na mei ban fa
+那没办法了	1	na mei ban fa le
+哪呢	1	na ne
+那你还说	1	na ni hai shuo
+那你叫什么	1	na ni jiao shen me
+那你叫什么啊	1	na ni jiao shen me a
+那你叫什么名字啊	1	na ni jiao shen me ming zi a
+那你接啊	1	na ni jie a
+那你看吧	1	na ni kan ba
+那你来啊	1	na ni lai a
+那你来吧	1	na ni lai ba
+那你了	1	na ni le
+那你了	1	na ni liao
+那你聊吧	1	na ni liao ba
+那你忙	1	na ni mang
+那你忙吧	1	na ni mang ba
+那你去吧	1	na ni qu ba
+那你是谁	1	na ni shi shei
+那你是谁啊	1	na ni shi shei a
+那你是谁呀	1	na ni shi shei ya
+那你是谁	1	na ni shi shui
+那你是谁啊	1	na ni shi shui a
+那你是谁呀	1	na ni shi shui ya
+那你说	1	na ni shuo
+那你说啊	1	na ni shuo a
+那你说吧	1	na ni shuo ba
+那你说呢	1	na ni shuo ne
+那你吐吧	1	na ni tu ba
+那你玩	1	na ni wan
+那你玩吧	1	na ni wan ba
+那你先忙	1	na ni xian mang
+那你先忙吧	1	na ni xian mang ba
+那你在干什么啊	1	na ni zai gan shen me a
+那你在哪啊	1	na ni zai na a
+那你在做什么啊	1	na ni zai zuo shen me a
+那你怎么不说话啊	1	na ni zen me bu shuo hua a
+那你走吧	1	na ni zou ba
+拿去吧	1	na qu ba
+那确实	1	na que shi
+拿上了	1	na shang le
+拿什么	1	na shen me
+拿什么啊	1	na shen me a
+那是啊	1	na shi a
+那是不可能的	1	na shi bu ke neng de
+那是当然	1	na shi dang ran
+那是的	1	na shi de
+那是肯定的	1	na shi ken ding de
+那是你	1	na shi ni
+那是你吗	1	na shi ni ma
+那是哦	1	na shi o
+那是啥玩意儿啊	1	na shi sha wan yi er a
+那是谁	1	na shi shei
+那是谁啊	1	na shi shei a
+那是什么	1	na shi shen me
+那是什么啊	1	na shi shen me a
+那是什么呀	1	na shi shen me ya
+那是谁	1	na shi shui
+那是谁啊	1	na shi shui a
+那是为什么啊	1	na shi wei shen me a
+那是呀	1	na shi ya
+那算了啊	1	na suan le a
+那算了啊	1	na suan liao a
+那太好了	1	na tai hao le
+那太好了	1	na tai hao liao
+拿完了	1	na wan le
+拿完了	1	na wan liao
+那为什么	1	na wei shen me
+那我不知道	1	na wo bu zhi dao
+那我关了	1	na wo guan le
+那我就不知道了	1	na wo jiu bu zhi dao le
+那我就放心了	1	na wo jiu fang xin le
+那我呢	1	na wo ne
+那我去了	1	na wo qu le
+那我去了	1	na wo qu liao
+那我下了	1	na wo xia le
+那我下了	1	na wo xia liao
+那我先下了	1	na wo xian xia le
+那我先下了	1	na wo xian xia liao
+那我走了	1	na wo zou le
+那我走了	1	na wo zou liao
+那下次吧	1	na xia ci ba
+拿下了吗	1	na xia le ma
+拿下了吗	1	na xia liao ma
+那现在呢	1	na xian zai ne
+那行	1	na xing
+那呀	1	na ya
+哪呀	1	na ya
+拿呀	1	na ya
+那样啊	1	na yang a
+那也不错啊	1	na ye bu cuo a
+那也不行	1	na ye bu xing
+那也好	1	na ye hao
+那也好啊	1	na ye hao a
+那也是	1	na ye shi
+那也是啊	1	na ye shi a
+那也是哦	1	na ye shi o
+那也行	1	na ye xing
+那一个好	1	na yi ge hao
+那一天都行	1	na yi tian dou xing
+哪有	1	na you
+哪有啊	1	na you a
+那有什么	1	na you shen me
+那有什么啊	1	na you shen me a
+那有呀	1	na you ya
+哪有呀	1	na you ya
+那又怎么样	1	na you zen me yang
+那又怎样	1	na you zen yang
+那怎么	1	na zen me
+那怎么办	1	na zen me ban
+那怎么办啊	1	na zen me ban a
+那怎么办呢	1	na zen me ban ne
+那怎么办呀	1	na zen me ban ya
+那怎么不说话啊	1	na zen me bu shuo hua a
+那怎么了	1	na zen me le
+那怎么了	1	na zen me liao
+拿走了	1	na zou le
+拿走了	1	na zou liao
+奶奶的	1	nai nai de
+难啊	1	nan a
+难道不是吗	1	nan dao bu shi ma
+男的啊	1	nan de a
+男的女的	1	nan de nv de
+难看死了	1	nan kan si le
+难看死了	1	nan kan si liao
+脑袋里装什么的	1	nao dai li zhuang shen me de
+能啊	1	neng a
+能补上吗	1	neng bu shang ma
+能告诉我吗	1	neng gao su wo ma
+能看看你吗	1	neng kan kan ni ma
+能看你吗	1	neng kan ni ma
+能聊聊吗	1	neng liao liao ma
+能吗	1	neng ma
+能让我搭一程吗	1	neng rang wo da yi cheng ma
+能人	1	neng ren
+能说吗	1	neng shuo ma
+能说说吗	1	neng shuo shuo ma
+能听到吗	1	neng ting dao ma
+能听见吗	1	neng ting jian ma
+能呀	1	neng ya
+你爱说就说	1	ni ai shuo jiu shuo
+你吧	1	ni ba
+你边个啊	1	ni bian ge a
+你变了	1	ni bian le
+你变了	1	ni bian liao
+你别碍手碍脚的	1	ni bie ai shou ai jiao de
+你别吃了	1	ni bie chi le
+你别错了	1	ni bie cuo le
+你别疯了	1	ni bie feng le
+你别管	1	ni bie guan
+你别纠结了	1	ni bie jiu jie le
+你别看了	1	ni bie kan le
+你别哭了	1	ni bie ku le
+你别离开	1	ni bie li kai
+你别离开了	1	ni bie li kai le
+你别理了	1	ni bie li le
+你别乱来	1	ni bie luan lai
+你别乱来了	1	ni bie luan lai le
+你别骗我了	1	ni bie pian wo le
+你别瞧不起人	1	ni bie qiao bu qi ren
+你别傻了	1	ni bie sha le
+你别伤了	1	ni bie shang le
+你别说了	1	ni bie shuo le
+你别太大意了	1	ni bie tai da yi le
+你别太较劲了	1	ni bie tai jiao jin le
+你别太认真了	1	ni bie tai ren zhen le
+你别惘然了	1	ni bie wang ran le
+你别我	1	ni bie wo
+你别无出路了	1	ni bie wu chu lu le
+你别无动于衷	1	ni bie wu dong yu zhong
+你别误会了	1	ni bie wu hui le
+你别无选择	1	ni bie wu xuan ze
+你别想了	1	ni bie xiang le
+你别想骗我了	1	ni bie xiang pian wo le
+你别笑了	1	ni bie xiao le
+你别意外	1	ni bie yi wai
+你别郁闷了	1	ni bie yu men le
+你别再出声了	1	ni bie zai chu sheng le
+你别站在这里了	1	ni bie zhan zai zhe li le
+你别这样嘛	1	ni bie zhe yang ma
+你别这样子啊	1	ni bie zhe yang zi a
+你别知说	1	ni bie zhi shuo
+你别装了	1	ni bie zhuang le
+你别走	1	ni bie zou
+你别走来走去的	1	ni bie zou lai zou qu de
+你别走远了	1	ni bie zou yuan le
+你别做了	1	ni bie zuo le
+你病好了没	1	ni bing hao le mei
+你不懂	1	ni bu dong
+你不会	1	ni bu hui
+你不会吧	1	ni bu hui ba
+你不觉得吗	1	ni bu jue de ma
+你不理我	1	ni bu li wo
+你不理我了	1	ni bu li wo le
+你不怕吗	1	ni bu pa ma
+你不认识	1	ni bu ren shi
+你不认识啊	1	ni bu ren shi a
+你不认识的	1	ni bu ren shi de
+你不认识吗	1	ni bu ren shi ma
+你不认识我	1	ni bu ren shi wo
+你不认识我啊	1	ni bu ren shi wo a
+你不认识我吗	1	ni bu ren shi wo ma
+你不傻	1	ni bu sha
+你不上班啊	1	ni bu shang ban a
+你不上班吗	1	ni bu shang ban ma
+你不是吧	1	ni bu shi ba
+你不是本人	1	ni bu shi ben ren
+你不是吗	1	ni bu shi ma
+你不是有吗	1	ni bu shi you ma
+你不是知道吗	1	ni bu shi zhi dao ma
+你不是走了吗	1	ni bu shi zou le ma
+你不是走了吗	1	ni bu shi zou liao ma
+你不说话	1	ni bu shuo hua
+你不喜欢吗	1	ni bu xi huan ma
+你不相信	1	ni bu xiang xin
+你不相信啊	1	ni bu xiang xin a
+你不相信吗	1	ni bu xiang xin ma
+你不相信我	1	ni bu xiang xin wo
+你不信	1	ni bu xin
+你不信啊	1	ni bu xin a
+你不信吗	1	ni bu xin ma
+你不也是吗	1	ni bu ye shi ma
+你不用上班吗	1	ni bu yong shang ban ma
+你不在啊	1	ni bu zai a
+你不在吗	1	ni bu zai ma
+你不知道	1	ni bu zhi dao
+你不知道啊	1	ni bu zhi dao a
+你不知道的	1	ni bu zhi dao de
+你不知道就别说	1	ni bu zhi dao jiu bie shuo
+你不知道吗	1	ni bu zhi dao ma
+你才	1	ni cai
+你猜啊	1	ni cai a
+你猜猜	1	ni cai cai
+你才来啊	1	ni cai lai a
+你猜呢	1	ni cai ne
+你才是	1	ni cai shi
+你才是啊	1	ni cai shi a
+你才是呢	1	ni cai shi ne
+你才知道啊	1	ni cai zhi dao a
+你吃	1	ni chi
+你吃饭了吗	1	ni chi fan le ma
+你吃饭了没	1	ni chi fan le mei
+你吃饭了没有	1	ni chi fan le mei you
+你吃饭没	1	ni chi fan mei
+你吃饭没有	1	ni chi fan mei you
+你吃了吗	1	ni chi le ma
+你吃了没	1	ni chi le mei
+你吃了吗	1	ni chi liao ma
+你吃了没	1	ni chi liao mei
+你出来	1	ni chu lai
+你出来啊	1	ni chu lai a
+你错了	1	ni cuo le
+你错了	1	ni cuo liao
+你打吧	1	ni da ba
+你答对了	1	ni da dui le
+你打算怎么做	1	ni da suan zen me zuo
+你呆会慢走	1	ni dai hui man zou
+你呆会要记得回来	1	ni dai hui yao ji de hui lai
+你当你是谁了	1	ni dang ni shi shui le
+你挡住我了	1	ni dang zhu wo le
+你到底谁啊	1	ni dao di shei a
+你到底是谁	1	ni dao di shi shei
+你到底是谁啊	1	ni dao di shi shei a
+你到底是谁呀	1	ni dao di shi shei ya
+你到底是谁	1	ni dao di shi shui
+你到底是谁啊	1	ni dao di shi shui a
+你到底是谁呀	1	ni dao di shi shui ya
+你到底谁啊	1	ni dao di shui a
+你到底想干什么	1	ni dao di xiang gan shen me
+你到底想我怎么样	1	ni dao di xiang wo zen me yang
+你到底有木有	1	ni dao di you mu you
+你的爸爸会得绝症	1	ni de ba ba hui de jue zheng
+你的电话	1	ni de dian hua
+你的电话是多少	1	ni de dian hua shi duo shao
+你的电话是多少啊	1	ni de dian hua shi duo shao a
+你的名字	1	ni de ming zi
+你的呢	1	ni de ne
+你的朋友	1	ni de peng you
+你的朋友啊	1	ni de peng you a
+你的人呢	1	ni de ren ne
+你的视频呢	1	ni de shi pin ne
+你等等	1	ni deng deng
+你等会	1	ni deng hui
+你等下	1	ni deng xia
+你等一下	1	ni deng yi xia
+你等着	1	ni deng zhe
+你电话	1	ni dian hua
+你电话多少	1	ni dian hua duo shao
+你电话多少啊	1	ni dian hua duo shao a
+你点强点	1	ni dian qiang dian
+你懂	1	ni dong
+你懂了吗	1	ni dong le ma
+你懂吗	1	ni dong ma
+你懂什么	1	ni dong shen me
+你都不理我	1	ni dou bu li wo
+你都在说什么啊	1	ni dou zai shuo shen me a
+你多大了	1	ni duo da le
+你多大了啊	1	ni duo da le a
+你多大了呀	1	ni duo da le ya
+你多大了	1	ni duo da liao
+你多大了啊	1	ni duo da liao a
+你多大了呀	1	ni duo da liao ya
+你多大呀	1	ni duo da ya
+你多高	1	ni duo gao
+你多高啊	1	ni duo gao a
+你发啊	1	ni fa a
+你发吧	1	ni fa ba
+你发的什么啊	1	ni fa de shen me a
+你发过来	1	ni fa guo lai
+你发过来啊	1	ni fa guo lai a
+你防碍到我了	1	ni fang ai dao wo le
+你放心	1	ni fang xin
+你放心吧	1	ni fang xin ba
+你放心好了	1	ni fang xin hao le
+你放心好了	1	ni fang xin hao liao
+你疯了	1	ni feng le
+你疯了吗	1	ni feng le ma
+你复习吧	1	ni fu xi ba
+你复习了吗	1	ni fu xi le ma
+你敢	1	ni gan
+你干不了些什么	1	ni gan bu le xie shen me
+你敢来吗	1	ni gan lai ma
+你敢吗	1	ni gan ma
+你干吗	1	ni gan ma
+你干嘛	1	ni gan ma
+你干吗啊	1	ni gan ma a
+你干嘛啊	1	ni gan ma a
+你干吗呢	1	ni gan ma ne
+你干嘛呢	1	ni gan ma ne
+你敢藐视它	1	ni gan miao shi ta
+你干啥呢	1	ni gan sha ne
+你干什么	1	ni gan shen me
+你干什么啊	1	ni gan shen me a
+你干什么的	1	ni gan shen me de
+你干什么呢	1	ni gan shen me ne
+你刚来啊	1	ni gang lai a
+你搞明白了吗	1	ni gao ming bai le ma
+你告诉我	1	ni gao su wo
+你告诉我啊	1	ni gao su wo a
+你个猪	1	ni ge zhu
+你工作了吗	1	ni gong zuo le ma
+你管不管	1	ni guan bu guan
+你管不着	1	ni guan bu zhao
+你关了	1	ni guan le
+你管一管	1	ni guan yi guan
+你管一下他们吧	1	ni guan yi xia ta men ba
+你滚	1	ni gun
+你过去跟他们说	1	ni guo qu gen ta men shuo
+你过去看看	1	ni guo qu kan kan
+你过去让他们看看	1	ni guo qu rang ta men kan kan
+你还不是一样	1	ni hai bu shi yi yang
+你还读书吗	1	ni hai du shu ma
+你还好吧	1	ni hai hao ba
+你还好吗	1	ni hai hao ma
+你还记得我吗	1	ni hai ji de wo ma
+你还认识我吗	1	ni hai ren shi wo ma
+你还上学吗	1	ni hai shang xue ma
+你还是安静点吧	1	ni hai shi an jing dian ba
+你还是别逗留了	1	ni hai shi bie dou liu le
+你还是别管吧	1	ni hai shi bie guan ba
+你还是别管我了	1	ni hai shi bie guan wo le
+你还是别理吧	1	ni hai shi bie li ba
+你还是别理我了	1	ni hai shi bie li wo le
+你还是别怕了	1	ni hai shi bie pa le
+你还是别讨厌他了	1	ni hai shi bie tao yan ta le
+你还是离开吧	1	ni hai shi li kai ba
+你还是听话吧	1	ni hai shi ting hua ba
+你还是走吧	1	ni hai shi zou ba
+你还是走开吧	1	ni hai shi zou kai ba
+你还笑	1	ni hai xiao
+你还小	1	ni hai xiao
+你还有问题吗	1	ni hai you wen ti ma
+你还在	1	ni hai zai
+你还在啊	1	ni hai zai a
+你还在上学吗	1	ni hai zai shang xue ma
+你还在呀	1	ni hai zai ya
+你好	1	ni hao
+你好啊美女	1	ni hao a mei nv
+你好啊朋友	1	ni hao a peng you
+你好恶心喔	1	ni hao e xin wo
+你好可以聊聊吗	1	ni hao ke yi liao liao ma
+你好忙啊	1	ni hao mang a
+你好忙吗	1	ni hao mang ma
+你好美女	1	ni hao mei nv
+你好朋友	1	ni hao peng you
+你好漂亮	1	ni hao piao liang
+你好漂亮啊	1	ni hao piao liang a
+你好漂亮哦	1	ni hao piao liang o
+你好呀	1	ni hao ya
+你喝了吗	1	ni he le ma
+你和谁	1	ni he shei
+你和谁啊	1	ni he shei a
+你和谁呀	1	ni he shei ya
+你和谁在一起啊	1	ni he shei zai yi qi a
+你和谁	1	ni he shui
+你和谁啊	1	ni he shui a
+你和谁呀	1	ni he shui ya
+你和谁在一起啊	1	ni he shui zai yi qi a
+你狠	1	ni hen
+你很烦耶	1	ni hen fan ye
+你很忙啊	1	ni hen mang a
+你很忙吗	1	ni hen mang ma
+你很漂亮	1	ni hen piao liang
+你很讨厌	1	ni hen tao yan
+你忽视我	1	ni hu shi wo
+你胡说八道的	1	ni hu shuo ba dao de
+你话呢	1	ni hua ne
+你话太多了	1	ni hua tai duo le
+你会	1	ni hui
+你回家了	1	ni hui jia le
+你回家了吗	1	ni hui jia le ma
+你会吗	1	ni hui ma
+你几点下	1	ni ji dian xia
+你几人啊	1	ni ji ren a
+你急什么	1	ni ji shen me
+你几岁	1	ni ji sui
+你几岁了	1	ni ji sui le
+你家啊	1	ni jia a
+你见过我吗	1	ni jian guo wo ma
+你叫啥	1	ni jiao sha
+你叫啥啊	1	ni jiao sha a
+你叫什么	1	ni jiao shen me
+你叫什么啊	1	ni jiao shen me a
+你叫什么名	1	ni jiao shen me ming
+你叫什么名啊	1	ni jiao shen me ming a
+你叫什么名字	1	ni jiao shen me ming zi
+你叫什么名字啊	1	ni jiao shen me ming zi a
+你叫什么名字呢	1	ni jiao shen me ming zi ne
+你叫什么名字呀	1	ni jiao shen me ming zi ya
+你叫什么呢	1	ni jiao shen me ne
+你叫什么呀	1	ni jiao shen me ya
+你教我	1	ni jiao wo
+你接	1	ni jie
+你接啊	1	ni jie a
+你结婚了	1	ni jie hun le
+你结婚了吗	1	ni jie hun le ma
+你姐姐	1	ni jie jie
+你接呀	1	ni jie ya
+你进	1	ni jin
+你今年多大了	1	ni jin nian duo da le
+你今年多大了	1	ni jin nian duo da liao
+你今天不上班吗	1	ni jin tian bu shang ban ma
+你今天没上班吗	1	ni jin tian mei shang ban ma
+你经常上网吗	1	ni jing chang shang wang ma
+你就别再乱说了	1	ni jiu bie zai luan shuo le
+你就吹吧	1	ni jiu chui ba
+你就得瑟吧	1	ni jiu de se ba
+你就是	1	ni jiu shi
+你就是别离开啊	1	ni jiu shi bie li kai a
+你就是不讨人厌	1	ni jiu shi bu tao ren yan
+你就是改不了	1	ni jiu shi gai bu le
+你就是没救了	1	ni jiu shi mei jiu le
+你就耍吧	1	ni jiu shua ba
+你就说吧	1	ni jiu shuo ba
+你觉得呢	1	ni jue de ne
+你开啊	1	ni kai a
+你看啊	1	ni kan a
+你看吧	1	ni kan ba
+你看不到吗	1	ni kan bu dao ma
+你看到了吗	1	ni kan dao le ma
+你看到了吗	1	ni kan dao liao ma
+你看到我了吗	1	ni kan dao wo le ma
+你看好了	1	ni kan hao le
+你看见了吗	1	ni kan jian le ma
+你看见了吗	1	ni kan jian liao ma
+你看看啊	1	ni kan kan a
+你看看吧	1	ni kan kan ba
+你看了	1	ni kan le
+你看了吗	1	ni kan le ma
+你看了	1	ni kan liao
+你看了吗	1	ni kan liao ma
+你看吗	1	ni kan ma
+你看嘛	1	ni kan ma
+你看呢	1	ni kan ne
+你看你	1	ni kan ni
+你看书吧	1	ni kan shu ba
+你看书了吗	1	ni kan shu le ma
+你看一看	1	ni kan yi kan
+你看一下	1	ni kan yi xia
+你看着	1	ni kan zhe
+你看着办吧	1	ni kan zhe ban ba
+你看着他	1	ni kan zhe ta
+你肯定吗	1	ni ken ding ma
+你哭什么呢	1	ni ku shen me ne
+你快点	1	ni kuai dian
+你快点复习吧	1	ni kuai dian fu xi ba
+你来不	1	ni lai bu
+你来不来	1	ni lai bu lai
+你来不来啊	1	ni lai bu lai a
+你来多久了	1	ni lai duo jiu le
+你来过吗	1	ni lai guo ma
+你来了啊	1	ni lai le a
+你来了吗	1	ni lai le ma
+你来了呀	1	ni lai le ya
+你来了啊	1	ni lai liao a
+你来了吗	1	ni lai liao ma
+你来了呀	1	ni lai liao ya
+你来找我	1	ni lai zhao wo
+你懒	1	ni lan
+你老公	1	ni lao gong
+你老公呢	1	ni lao gong ne
+你老婆	1	ni lao po
+你老婆呢	1	ni lao po ne
+你厉害	1	ni li hai
+你厉害啊	1	ni li hai a
+你离开吧	1	ni li kai ba
+你理我	1	ni li wo
+你离我远点	1	ni li wo yuan dian
+你聊吧	1	ni liao ba
+你咧	1	ni lie
+你咯	1	ni lo
+你妈妈的	1	ni ma ma de
+你慢慢玩	1	ni man man wan
+你慢慢玩吧	1	ni man man wan ba
+你忙	1	ni mang
+你忙吧	1	ni mang ba
+你忙吗	1	ni mang ma
+你忙你的吧	1	ni mang ni de ba
+你忙什么	1	ni mang shen me
+你忙什么啊	1	ni mang shen me a
+你忙什么呢	1	ni mang shen me ne
+你没	1	ni mei
+你没啊	1	ni mei a
+你没看到吗	1	ni mei kan dao ma
+你没吗	1	ni mei ma
+你没上班啊	1	ni mei shang ban a
+你没上班吗	1	ni mei shang ban ma
+你没事吧	1	ni mei shi ba
+你没视频	1	ni mei shi pin
+你没视频啊	1	ni mei shi pin a
+你没视频吗	1	ni mei shi pin ma
+你没有	1	ni mei you
+你没有啊	1	ni mei you a
+你没有吗	1	ni mei you ma
+你没有视频吗	1	ni mei you shi pin ma
+你没有呀	1	ni mei you ya
+你们呢	1	ni men ne
+你们先离开吧	1	ni men xian li kai ba
+你明白吗	1	ni ming bai ma
+你明天上班吗	1	ni ming tian shang ban ma
+你哪的	1	ni na de
+你哪的啊	1	ni na de a
+你哪个	1	ni na ge
+你哪个啊	1	ni na ge a
+你拿过去吧	1	ni na guo qu ba
+你拿回来吧	1	ni na hui lai ba
+你哪里的	1	ni na li de
+你哪位	1	ni na wei
+你那有吗	1	ni na you ma
+你那有视频吗	1	ni na you shi pin ma
+你拿着	1	ni na zhe
+你拿走吧	1	ni na zou ba
+你奶奶的	1	ni nai nai de
+你男朋友啊	1	ni nan peng you a
+你男朋友呢	1	ni nan peng you ne
+你能不能别再惹我	1	ni neng bu neng bie zai re wo
+你能听到吗	1	ni neng ting dao ma
+你能听见吗	1	ni neng ting jian ma
+你牛	1	ni niu
+你女朋友呢	1	ni nv peng you ne
+你哦	1	ni o
+你爬	1	ni pa
+你怕什么	1	ni pa shen me
+你怕什么啊	1	ni pa shen me a
+你旁边是谁啊	1	ni pang bian shi shei a
+你旁边是谁啊	1	ni pang bian shi shui a
+你朋友	1	ni peng you
+你朋友啊	1	ni peng you a
+你朋友呢	1	ni peng you ne
+你骗人	1	ni pian ren
+你骗我	1	ni pian wo
+你骗我啊	1	ni pian wo a
+你漂亮吗	1	ni piao liang ma
+你欺负我	1	ni qi fu wo
+你强	1	ni qiang
+你去啊	1	ni qu a
+你去不	1	ni qu bu
+你去过吗	1	ni qu guo ma
+你去看看	1	ni qu kan kan
+你去吗	1	ni qu ma
+你去忙吧	1	ni qu mang ba
+你去哪了	1	ni qu na le
+你去那里了呢	1	ni qu na li le ne
+你去死	1	ni qu si
+你去死啊	1	ni qu si a
+你去死把	1	ni qu si ba
+你去玩吧	1	ni qu wan ba
+你全家死去吧	1	ni quan jia si qu ba
+你让一让吧	1	ni rang yi rang ba
+你热啊	1	ni re a
+你认吧	1	ni ren ba
+你人那	1	ni ren na
+你认识	1	ni ren shi
+你认识啊	1	ni ren shi a
+你认识吗	1	ni ren shi ma
+你认识他吗	1	ni ren shi ta ma
+你认识我	1	ni ren shi wo
+你认识我啊	1	ni ren shi wo a
+你认识我吗	1	ni ren shi wo ma
+你认为呢	1	ni ren wei ne
+你撒谎	1	ni sa huang
+你傻	1	ni sha
+你傻啊	1	ni sha a
+你傻了	1	ni sha le
+你傻了啊	1	ni sha le a
+你傻吗	1	ni sha ma
+你傻是不	1	ni sha shi bu
+你傻呀	1	ni sha ya
+你闪吧	1	ni shan ba
+你闪开	1	ni shan kai
+你上班了吗	1	ni shang ban le ma
+你上班吗	1	ni shang ban ma
+你上学吗	1	ni shang xue ma
+你少来	1	ni shao lai
+你少瞧不起人	1	ni shao qiao bu qi ren
+你谁啊	1	ni shei a
+你谁了	1	ni shei le
+你谁呀	1	ni shei ya
+你什么都不知道	1	ni shen me dou bu zhi dao
+你什么时候回家	1	ni shen me shi hou hui jia
+你什么时候回家啊	1	ni shen me shi hou hui jia a
+你什么时候回来	1	ni shen me shi hou hui lai
+你什么时候回来啊	1	ni shen me shi hou hui lai a
+你什么时候回去	1	ni shen me shi hou hui qu
+你什么时候回去啊	1	ni shen me shi hou hui qu a
+你什么时候来啊	1	ni shen me shi hou lai a
+你什么时候来的	1	ni shen me shi hou lai de
+你什么时候来的啊	1	ni shen me shi hou lai de a
+你什么时候下	1	ni shen me shi hou xia
+你什么时候下啊	1	ni shen me shi hou xia a
+你什么时候走	1	ni shen me shi hou zou
+你什么时候走啊	1	ni shen me shi hou zou a
+你什么意思	1	ni shen me yi si
+你什么意思啊	1	ni shen me yi si a
+你什么意思呀	1	ni shen me yi si ya
+你身上带钱了吗	1	ni shen shang dai qian le ma
+你生气了	1	ni sheng qi le
+你生气了吗	1	ni sheng qi le ma
+你生气了	1	ni sheng qi liao
+你生气了吗	1	ni sheng qi liao ma
+你是啊	1	ni shi a
+你是本人吗	1	ni shi ben ren ma
+你是不是	1	ni shi bu shi
+你是不是本人啊	1	ni shi bu shi ben ren a
+你是不是很忙啊	1	ni shi bu shi hen mang a
+你是不是想去	1	ni shi bu shi xiang qu
+你是干吗的	1	ni shi gan ma de
+你是干什么的	1	ni shi gan shen me de
+你是干什么的啊	1	ni shi gan shen me de a
+你是干什么的呀	1	ni shi gan shen me de ya
+你是干什么工作的	1	ni shi gan shen me gong zuo de
+你是吗	1	ni shi ma
+你是哪的	1	ni shi na de
+你是哪的啊	1	ni shi na de a
+你是哪的呀	1	ni shi na de ya
+你是哪个	1	ni shi na ge
+你是哪个啊	1	ni shi na ge a
+你是哪个哦	1	ni shi na ge o
+你是哪个呀	1	ni shi na ge ya
+你是哪里的	1	ni shi na li de
+你是哪里的啊	1	ni shi na li de a
+你是哪里的呀	1	ni shi na li de ya
+你是哪里人	1	ni shi na li ren
+你是哪位	1	ni shi na wei
+你是哪位啊	1	ni shi na wei a
+你是男的	1	ni shi nan de
+你是女的	1	ni shi nv de
+你是谁啊	1	ni shi shei a
+你是谁呢	1	ni shi shei ne
+你是谁哦	1	ni shi shei o
+你是谁呀	1	ni shi shei ya
+你是谁啊	1	ni shi shui a
+你是谁呢	1	ni shi shui ne
+你是谁哦	1	ni shi shui o
+你是谁呀	1	ni shi shui ya
+你是学生	1	ni shi xue sheng
+你是学生吗	1	ni shi xue sheng ma
+你是在家吗	1	ni shi zai jia ma
+你是在网吧吗	1	ni shi zai wang ba ma
+你是怎么做的	1	ni shi zen me zuo de
+你是猪	1	ni shi zhu
+你是猪啊	1	ni shi zhu a
+你是做什么的	1	ni shi zuo shen me de
+你是做什么的啊	1	ni shi zuo shen me de a
+你是做什么的呢	1	ni shi zuo shen me de ne
+你是做什么的呀	1	ni shi zuo shen me de ya
+你是做什么工作的	1	ni shi zuo shen me gong zuo de
+你收获了些什么	1	ni shou huo le xie shen me
+你输了	1	ni shu le
+你耍我啊	1	ni shua wo a
+你谁啊	1	ni shui a
+你谁了	1	ni shui le
+你谁呀	1	ni shui ya
+你说的	1	ni shuo de
+你说的啊	1	ni shuo de a
+你说话	1	ni shuo hua
+你说话啊	1	ni shuo hua a
+你说话呀	1	ni shuo hua ya
+你说了算	1	ni shuo le suan
+你说了算	1	ni shuo liao suan
+你说呢	1	ni shuo ne
+你说什么	1	ni shuo shen me
+你说什么啊	1	ni shuo shen me a
+你说什么呢	1	ni shuo shen me ne
+你说什么呀	1	ni shuo shen me ya
+你说是吧	1	ni shuo shi ba
+你说是不是	1	ni shuo shi bu shi
+你说是不是啊	1	ni shuo shi bu shi a
+你说是吗	1	ni shuo shi ma
+你说说	1	ni shuo shuo
+你说说看	1	ni shuo shuo kan
+你死了吗	1	ni si le ma
+你死了吗	1	ni si liao ma
+你算老几啊	1	ni suan lao ji a
+你算一下	1	ni suan yi xia
+你太过分了	1	ni tai guo fen le
+你太有才了	1	ni tai you cai le
+你听	1	ni ting
+你听不到吗	1	ni ting bu dao ma
+你听不见吗	1	ni ting bu jian ma
+你听到了吗	1	ni ting dao le ma
+你听到了吗	1	ni ting dao liao ma
+你听到吗	1	ni ting dao ma
+你听的到吗	1	ni ting de dao ma
+你听见了吗	1	ni ting jian le ma
+你听见了吗	1	ni ting jian liao ma
+你听了	1	ni ting le
+你听了吗	1	ni ting le ma
+你听谁说的	1	ni ting shei shuo de
+你听谁说的	1	ni ting shui shuo de
+你同学	1	ni tong xue
+你吐了	1	ni tu le
+你退啊	1	ni tui a
+你玩吧	1	ni wan ba
+你玩吗	1	ni wan ma
+你玩什么	1	ni wan shen me
+你玩什么啊	1	ni wan shen me a
+你玩什么呢	1	ni wan shen me ne
+你玩游戏吗	1	ni wan you xi ma
+你忘了啊	1	ni wang le a
+你忘了啊	1	ni wang liao a
+你为什么不说啊	1	ni wei shen me bu shuo a
+你为什么不说呢	1	ni wei shen me bu shuo ne
+你为什么这样说	1	ni wei shen me zhe yang shuo
+你问完了吗	1	ni wen wan le ma
+你问我了吗	1	ni wen wo le ma
+你问我吗	1	ni wen wo ma
+你我心照不宣了	1	ni wo xin zhao bu xuan le
+你误会了	1	ni wu hui le
+你误会了	1	ni wu hui liao
+你系边个	1	ni xi bian ge
+你系边个啊	1	ni xi bian ge a
+你喜欢	1	ni xi huan
+你喜欢吗	1	ni xi huan ma
+你喜欢我吗	1	ni xi huan wo ma
+你下吧	1	ni xia ba
+你下班了	1	ni xia ban le
+你先	1	ni xian
+你先呆着	1	ni xian dai zhe
+你先进	1	ni xian jin
+你先忙	1	ni xian mang
+你先忙吧	1	ni xian mang ba
+你先说	1	ni xian shuo
+你先说啊	1	ni xian shuo a
+你先玩	1	ni xian wan
+你先玩吧	1	ni xian wan ba
+你先想一想吧	1	ni xian xiang yi xiang ba
+你现在干什么呢	1	ni xian zai gan shen me ne
+你现在还好吗	1	ni xian zai hai hao ma
+你现在好吗	1	ni xian zai hao ma
+你现在忙吗	1	ni xian zai mang ma
+你现在在干什么	1	ni xian zai zai gan shen me
+你现在在干什么啊	1	ni xian zai zai gan shen me a
+你现在在家吗	1	ni xian zai zai jia ma
+你现在在哪啊	1	ni xian zai zai na a
+你现在在哪里	1	ni xian zai zai na li
+你现在在哪里呀	1	ni xian zai zai na li ya
+你现在在哪呢	1	ni xian zai zai na ne
+你现在在哪呀	1	ni xian zai zai na ya
+你现在在做什么	1	ni xian zai zai zuo shen me
+你现在怎么样啊	1	ni xian zai zen me yang a
+你想得开心喔	1	ni xiang de kai xin wo
+你想干什么	1	ni xiang gan shen me
+你想好	1	ni xiang hao
+你想好点	1	ni xiang hao dian
+你想好了再说	1	ni xiang hao le zai shuo
+你想好了再算	1	ni xiang hao le zai suan
+你想清楚了再说	1	ni xiang qing chu le zai shuo
+你想说就说	1	ni xiang shuo jiu shuo
+你想说什么	1	ni xiang shuo shen me
+你想死啊	1	ni xiang si a
+你相信吗	1	ni xiang xin ma
+你笑什么	1	ni xiao shen me
+你笑什么啊	1	ni xiao shen me a
+你笑什么呀	1	ni xiao shen me ya
+你小子	1	ni xiao zi
+你信吗	1	ni xin ma
+你欣赏它	1	ni xin shang ta
+你需要办理套餐吗	1	ni xu yao ban li tao can ma
+你要不	1	ni yao bu
+你要不要呢	1	ni yao bu yao ne
+你要到那儿	1	ni yao dao na er
+你要吗	1	ni yao ma
+你要死啊	1	ni yao si a
+你要下了吗	1	ni yao xia le ma
+你要下了吗	1	ni yao xia liao ma
+你要小心他	1	ni yao xiao xin ta
+你要注意点	1	ni yao zhu yi dian
+你要走了	1	ni yao zou le
+你要走了吗	1	ni yao zou le ma
+你要走了	1	ni yao zou liao
+你要走了吗	1	ni yao zou liao ma
+你也好	1	ni ye hao
+你也好啊	1	ni ye hao a
+你也来了	1	ni ye lai le
+你也来了啊	1	ni ye lai le a
+你也来了	1	ni ye lai liao
+你也来了啊	1	ni ye lai liao a
+你也是	1	ni ye shi
+你也是啊	1	ni ye shi a
+你也是吧	1	ni ye shi ba
+你也是吗	1	ni ye shi ma
+你也是哦	1	ni ye shi o
+你也是呀	1	ni ye shi ya
+你也一样	1	ni ye yi yang
+你也一样啊	1	ni ye yi yang a
+你也在	1	ni ye zai
+你也在啊	1	ni ye zai a
+你也在呀	1	ni ye zai ya
+你也知道	1	ni ye zhi dao
+你也知道啊	1	ni ye zhi dao a
+你一个人	1	ni yi ge ren
+你一个人啊	1	ni yi ge ren a
+你一个人吗	1	ni yi ge ren ma
+你一个人在家吗	1	ni yi ge ren zai jia ma
+你依然是没变	1	ni yi ran shi mei bian
+你依然是喜欢	1	ni yi ran shi xi huan
+你依然是喜欢他	1	ni yi ran shi xi huan ta
+你依然是这样子	1	ni yi ran shi zhe yang zi
+你以为	1	ni yi wei
+你以为呢	1	ni yi wei ne
+你以为你可以吗	1	ni yi wei ni ke yi ma
+你以为你是谁啊	1	ni yi wei ni shi shei a
+你以为你是谁啊	1	ni yi wei ni shi shui a
+你有	1	ni you
+你有病	1	ni you bing
+你有病啊	1	ni you bing a
+你又不是不知道	1	ni you bu shi bu zhi dao
+你又不说	1	ni you bu shuo
+你有电话吗	1	ni you dian hua ma
+你又来了	1	ni you lai le
+你又来了	1	ni you lai liao
+你有吗	1	ni you ma
+你有么	1	ni you me
+你有没	1	ni you mei
+你有没有	1	ni you mei you
+你有没有啊	1	ni you mei you a
+你有男朋友了吗	1	ni you nan peng you le ma
+你有男朋友吗	1	ni you nan peng you ma
+你有女朋友吗	1	ni you nv peng you ma
+你有什么事呢	1	ni you shen me shi ne
+你有事吗	1	ni you shi ma
+你有视频	1	ni you shi pin
+你有视频吗	1	ni you shi pin ma
+你又是谁	1	ni you shi shei
+你又是谁啊	1	ni you shi shei a
+你又是谁	1	ni you shi shui
+你又是谁啊	1	ni you shi shui a
+你有手机吗	1	ni you shou ji ma
+你有吸管吗	1	ni you xi guan ma
+你有相片吗	1	ni you xiang pian ma
+你又在啊	1	ni you zai a
+你又怎么了	1	ni you zen me le
+你又怎么了	1	ni you zen me liao
+你有照片吗	1	ni you zhao pian ma
+你又知	1	ni you zhi
+你愿意吗	1	ni yuan yi ma
+你在啊	1	ni zai a
+你在不在	1	ni zai bu zai
+你在不在啊	1	ni zai bu zai a
+你在读书吗	1	ni zai du shu ma
+你在干嘛啊	1	ni zai gan ma a
+你在干吗呢	1	ni zai gan ma ne
+你在干嘛呢	1	ni zai gan ma ne
+你在干吗呀	1	ni zai gan ma ya
+你在干嘛呀	1	ni zai gan ma ya
+你在干什么呀	1	ni zai gan shen me ya
+你在搞什么啊	1	ni zai gao shen me a
+你在和谁聊啊	1	ni zai he shei liao a
+你在和谁聊啊	1	ni zai he shui liao a
+你在几号啊	1	ni zai ji hao a
+你再加	1	ni zai jia
+你再加啊	1	ni zai jia a
+你在家里啊	1	ni zai jia li a
+你在家里吗	1	ni zai jia li ma
+你在家吗	1	ni zai jia ma
+你再加嘛	1	ni zai jia ma
+你在家呢	1	ni zai jia ne
+你在开玩笑吧	1	ni zai kai wan xiao ba
+你在忙吗	1	ni zai mang ma
+你在忙什么啊	1	ni zai mang shen me a
+你在忙什么呀	1	ni zai mang shen me ya
+你在哪	1	ni zai na
+你在哪儿	1	ni zai na er
+你在哪儿啊	1	ni zai na er a
+你在那干什么啊	1	ni zai na gan shen me a
+你在哪个网吧	1	ni zai na ge wang ba
+你在哪个网吧啊	1	ni zai na ge wang ba a
+你在哪了	1	ni zai na le
+你在哪里啊	1	ni zai na li a
+你在哪里呢	1	ni zai na li ne
+你在哪里上啊	1	ni zai na li shang a
+你在哪里上网	1	ni zai na li shang wang
+你在哪里上网啊	1	ni zai na li shang wang a
+你在哪里呀	1	ni zai na li ya
+你在那里做什么啊	1	ni zai na li zuo shen me a
+你在哪上啊	1	ni zai na shang a
+你在哪上班	1	ni zai na shang ban
+你在哪上班啊	1	ni zai na shang ban a
+你在哪上网	1	ni zai na shang wang
+你在哪呀	1	ni zai na ya
+你在那做什么啊	1	ni zai na zuo shen me a
+你在呢	1	ni zai ne
+你在上班吗	1	ni zai shang ban ma
+你在上学吗	1	ni zai shang xue ma
+你在什么地方	1	ni zai shen me di fang
+你在什么地方啊	1	ni zai shen me di fang a
+你在说什么啊	1	ni zai shuo shen me a
+你在玩吗	1	ni zai wan ma
+你在玩什么啊	1	ni zai wan shen me a
+你在玩什么呢	1	ni zai wan shen me ne
+你在玩什么呀	1	ni zai wan shen me ya
+你在玩游戏吗	1	ni zai wan you xi ma
+你在网吧	1	ni zai wang ba
+你在网吧啊	1	ni zai wang ba a
+你在网吧吗	1	ni zai wang ba ma
+你在线吗	1	ni zai xian ma
+你再想想	1	ni zai xiang xiang
+你在笑什么啊	1	ni zai xiao shen me a
+你在呀	1	ni zai ya
+你在做什么呢	1	ni zai zuo shen me ne
+你在做什么呀	1	ni zai zuo shen me ya
+你怎么不会去看呢	1	ni zen me bu hui qu kan ne
+你怎么不会说啊	1	ni zen me bu hui shuo a
+你怎么不会问呢	1	ni zen me bu hui wen ne
+你怎么不讲道理	1	ni zen me bu jiang dao li
+你怎么不接啊	1	ni zen me bu jie a
+你怎么不接呀	1	ni zen me bu jie ya
+你怎么不理我啊	1	ni zen me bu li wo a
+你怎么不说啊	1	ni zen me bu shuo a
+你怎么不说话	1	ni zen me bu shuo hua
+你怎么不说话啊	1	ni zen me bu shuo hua a
+你怎么不说话了	1	ni zen me bu shuo hua le
+你怎么不说话了啊	1	ni zen me bu shuo hua le a
+你怎么不说话了	1	ni zen me bu shuo hua liao
+你怎么不说话了啊	1	ni zen me bu shuo hua liao a
+你怎么不说话呢	1	ni zen me bu shuo hua ne
+你怎么不说话呀	1	ni zen me bu shuo hua ya
+你怎么不听一下呢	1	ni zen me bu ting yi xia ne
+你怎么都听不懂呢	1	ni zen me dou ting bu dong ne
+你怎么都学不会呢	1	ni zen me dou xue bu hui ne
+你怎么搞的	1	ni zen me gao de
+你怎么关了	1	ni zen me guan le
+你怎么关了啊	1	ni zen me guan le a
+你怎么关了	1	ni zen me guan liao
+你怎么关了啊	1	ni zen me guan liao a
+你怎么哭了	1	ni zen me ku le
+你怎么啦	1	ni zen me la
+你怎么来了	1	ni zen me lai le
+你怎么来了	1	ni zen me lai liao
+你怎么了	1	ni zen me le
+你怎么了啊	1	ni zen me le a
+你怎么了呀	1	ni zen me le ya
+你怎么了啊	1	ni zen me liao a
+你怎么了呀	1	ni zen me liao ya
+你怎么没有啊	1	ni zen me mei you a
+你怎么能这样呢	1	ni zen me neng zhe yang ne
+你怎么样	1	ni zen me yang
+你怎么样啊	1	ni zen me yang a
+你怎么样了	1	ni zen me yang le
+你怎么在啊	1	ni zen me zai a
+你怎么这么笨呢	1	ni zen me zhe me ben ne
+你怎么这样	1	ni zen me zhe yang
+你怎么这样啊	1	ni zen me zhe yang a
+你怎么知道	1	ni zen me zhi dao
+你怎么知道啊	1	ni zen me zhi dao a
+你怎么知道的啊	1	ni zen me zhi dao de a
+你怎么知道呢	1	ni zen me zhi dao ne
+你怎么知道呀	1	ni zen me zhi dao ya
+你怎么总爱乱来了	1	ni zen me zong ai luan lai le
+你怎么总爱乱说呢	1	ni zen me zong ai luan shuo ne
+你怎么做错了	1	ni zen me zuo cuo le
+你找死啊	1	ni zhao si a
+你找我	1	ni zhao wo
+你这是干啥呢	1	ni zhe shi gan sha ne
+你这是为什么呢	1	ni zhe shi wei shen me ne
+你这是怎么了	1	ni zhe shi zen me le
+你这是做了些什么	1	ni zhe shi zuo le xie shen me
+你这只臭虫	1	ni zhe zhi chou chong
+你真棒	1	ni zhen bang
+你真笨	1	ni zhen ben
+你真聪明	1	ni zhen cong ming
+你真逗	1	ni zhen dou
+你真好	1	ni zhen hao
+你真厉害	1	ni zhen li hai
+你真慢	1	ni zhen man
+你真没用	1	ni zhen mei yong
+你真是的	1	ni zhen shi de
+你真行	1	ni zhen xing
+你争我夺	1	ni zheng wo duo
+你知	1	ni zhi
+你知道啊	1	ni zhi dao a
+你知道不	1	ni zhi dao bu
+你知道的	1	ni zhi dao de
+你知道么	1	ni zhi dao me
+你知道什么	1	ni zhi dao shen me
+你知道什么啊	1	ni zhi dao shen me a
+你知道为什么吗	1	ni zhi dao wei shen me ma
+你知道我是谁	1	ni zhi dao wo shi shei
+你知道我是谁啊	1	ni zhi dao wo shi shei a
+你知道我是谁吗	1	ni zhi dao wo shi shei ma
+你知道我是谁	1	ni zhi dao wo shi shui
+你知道我是谁啊	1	ni zhi dao wo shi shui a
+你知道我是谁吗	1	ni zhi dao wo shi shui ma
+你猪	1	ni zhu
+你猪啊	1	ni zhu a
+你自己	1	ni zi ji
+你自己啊	1	ni zi ji a
+你自己看	1	ni zi ji kan
+你自己看吧	1	ni zi ji kan ba
+你自己吗	1	ni zi ji ma
+你自己说的	1	ni zi ji shuo de
+你自己玩吧	1	ni zi ji wan ba
+你自已看看	1	ni zi yi kan kan
+你总结一下	1	ni zong jie yi xia
+你总是不会去改	1	ni zong shi bu hui qu gai
+你总是惹事	1	ni zong shi re shi
+你走吧	1	ni zou ba
+你走过一点吧	1	ni zou guo yi dian ba
+你走开啦	1	ni zou kai la
+你走了吗	1	ni zou le ma
+你走了吗	1	ni zou liao ma
+你最近好吗	1	ni zui jin hao ma
+你最近忙吗	1	ni zui jin mang ma
+你最近怎么样	1	ni zui jin zen me yang
+你最近怎么样啊	1	ni zui jin zen me yang a
+你做得太过了吧	1	ni zuo de tai guo le ba
+你做得太假了	1	ni zuo de tai jia le
+你做梦	1	ni zuo meng
+你做什么	1	ni zuo shen me
+你做什么啊	1	ni zuo shen me a
+你做什么的	1	ni zuo shen me de
+你做什么的啊	1	ni zuo shen me de a
+你做什么工作	1	ni zuo shen me gong zuo
+你做什么工作啊	1	ni zuo shen me gong zuo a
+你做什么工作的	1	ni zuo shen me gong zuo de
+你做什么呢	1	ni zuo shen me ne
+年月日时分	1	nian yue ri shi fen
+您刚才发送的消息	1	nin gang cai fa song de xiao xi
+您呢	1	nin ne
+牛啊	1	niu a
+弄好了	1	nong hao le
+努力啊	1	nu li a
+努力吧	1	nu li ba
+女的啊	1	nv de a
+哦好	1	o hao
+哦没事	1	o mei shi
+哦哦	1	o o
+哦什么	1	o shen me
+哦什么啊	1	o shen me a
+哦什么哦	1	o shen me o
+哦什么呀	1	o shen me ya
+哦是这样啊	1	o shi zhe yang a
+哦我也是啊	1	o wo ye shi a
+哦我知道了	1	o wo zhi dao le
+欧莱雅男士	1	ou lai ya nan shi
+欧阳君沛	1	ou yang jun pei
+爬啊	1	pa a
+怕了	1	pa le
+怕了吧	1	pa le ba
+怕了	1	pa liao
+怕你啊	1	pa ni a
+怕怕	1	pa pa
+怕什么啊	1	pa shen me a
+跑跑啊	1	pao pao a
+朋友啊	1	peng you a
+朋友吗	1	peng you ma
+朋友骂	1	peng you ma
+朋友你好	1	peng you ni hao
+朋友呀	1	peng you ya
+痞子	1	pi zi
+骗你的	1	pian ni de
+骗你的啦	1	pian ni de la
+骗你干吗	1	pian ni gan ma
+骗你是小狗	1	pian ni shi xiao gou
+骗我啊	1	pian wo a
+骗我吧	1	pian wo ba
+偏心	1	pian xin
+漂亮啊	1	piao liang a
+漂亮吧	1	piao liang ba
+漂亮不	1	piao liang bu
+漂亮吗	1	piao liang ma
+凭直觉做某事	1	ping zhi jue zuo mou shi
+普通场	1	pu tong chang
+奇怪了	1	qi guai le
+起内哄	1	qi nei hong
+其实这样也好	1	qi shi zhe yang ye hao
+气死了	1	qi si le
+气死了	1	qi si liao
+气死你	1	qi si ni
+岂有此理	1	qi you ci li
+卡死了	1	qia si le
+卡死了	1	qia si liao
+卡住了	1	qia zhu le
+卡住了	1	qia zhu liao
+钱啊	1	qian a
+抢劫啊	1	qiang jie a
+亲爱的	1	qin ai de
+亲个	1	qin ge
+亲一个	1	qin yi ge
+请便	1	qing bian
+情况可能正好相反	1	qing kuang ke neng zheng hao xiang fan
+情况相反	1	qing kuang xiang fan
+请留言	1	qing liu yan
+请你原谅	1	qing ni yuan liang
+请你再说一次	1	qing ni zai shuo yi ci
+请问你是	1	qing wen ni shi
+请勿打扰工作中	1	qing wu da rao gong zuo zhong
+清醒点	1	qing xing dian
+请在浏览器键入	1	qing zai liu lan qi jian ru
+求包养	1	qiu bao yang
+求你了	1	qiu ni le
+求你了	1	qiu ni liao
+求求你了	1	qiu qiu ni le
+求求你了	1	qiu qiu ni liao
+去吧去吧	1	qu ba qu ba
+去不	1	qu bu
+去吃饭	1	qu chi fan
+去吃饭了	1	qu chi fan le
+去得快	1	qu de kuai
+去了啊	1	qu le a
+去了啊	1	qu liao a
+去那啊	1	qu na a
+去哪啊	1	qu na a
+去哪了	1	qu na le
+去那里啊	1	qu na li a
+去哪里啊	1	qu na li a
+去哪里了	1	qu na li le
+去你的	1	qu ni de
+去死啊	1	qu si a
+去死吧	1	qu si ba
+去死吧还装可怜	1	qu si ba hai zhuang ke lian
+去死吧你	1	qu si ba ni
+去呀	1	qu ya
+去约会了	1	qu yue hui le
+全力支持你	1	quan li zhi chi ni
+然后呢	1	ran hou ne
+然后逃走了	1	ran hou tao zou le
+然后逃走了	1	ran hou tao zou liao
+让啊	1	rang a
+让开	1	rang kai
+让我静静	1	rang wo jing jing
+让我静一下吧	1	rang wo jing yi xia ba
+让我看看	1	rang wo kan kan
+让我看看啊	1	rang wo kan kan a
+让我看看你	1	rang wo kan kan ni
+让我看看你啊	1	rang wo kan kan ni a
+让我来	1	rang wo lai
+让我们随兴所至	1	rang wo men sui xing suo zhi
+让我想想	1	rang wo xiang xiang
+热啊	1	re a
+热了	1	re le
+热吗	1	re ma
+惹骂	1	re ma
+热呢	1	re ne
+热死了	1	re si le
+热死了	1	re si liao
+惹我	1	re wo
+热呀	1	re ya
+忍啊	1	ren a
+人不在	1	ren bu zai
+认识啊	1	ren shi a
+认识不	1	ren shi bu
+认识吗	1	ren shi ma
+认识我吗	1	ren shi wo ma
+认识呀	1	ren shi ya
+认输吧	1	ren shu ba
+人太多了	1	ren tai duo le
+人太多了	1	ren tai duo liao
+人要衣装	1	ren yao yi zhuang
+日安	1	ri an
+肉麻啊	1	rou ma a
+如果逾期不交纳	1	ru guo yu qi bu jiao na
+如果这样子	1	ru guo zhe yang zi
+散散心	1	san san xin
+丧失理智	1	sang shi li zhi
+色狼	1	se lang
+啥啊	1	sha a
+傻啊	1	sha a
+傻逼	1	sha bi
+傻逼啦	1	sha bi la
+傻啦	1	sha la
+傻了啊	1	sha le a
+傻吗	1	sha ma
+傻什么啊	1	sha shen me a
+啥呀	1	sha ya
+啥意思	1	sha yi si
+啥意思啊	1	sha yi si a
+啥子哦	1	sha zi o
+擅长领域	1	shan chang ling yu
+闪咯	1	shan lo
+上班啊	1	shang ban a
+上班了吗	1	shang ban le ma
+上班呢	1	shang ban ne
+上班呀	1	shang ban ya
+上帝的安排	1	shang di de an pai
+上海啊	1	shang hai a
+上来了	1	shang lai le
+上来了	1	shang lai liao
+上了啊	1	shang le a
+上了吗	1	shang le ma
+上什么班啊	1	shang shen me ban a
+上网啊	1	shang wang a
+上网呀	1	shang wang ya
+尚未决定	1	shang wei jue ding
+伤心啊	1	shang xin a
+伤心了	1	shang xin le
+上学啊	1	shang xue a
+上呀	1	shang ya
+少出去了	1	shao chu qu le
+少出去了	1	shao chu qu liao
+少来了	1	shao lai le
+少来了	1	shao lai liao
+少来这套	1	shao lai zhe tao
+少说废话	1	shao shuo fei hua
+谁唱的	1	shei chang de
+谁的啊	1	shei de a
+谁看谁傻逼啦	1	shei kan shei sha bi la
+谁哦	1	shei o
+谁说的啊	1	shei shuo de a
+谁知道啊	1	shei zhi dao a
+谁知道呢	1	shei zhi dao ne
+神经病	1	shen jing bing
+神马	1	shen ma
+神马都是浮去	1	shen ma dou shi fu qu
+什么不是	1	shen me bu shi
+什么不是啊	1	shen me bu shi a
+什么出来也要收费	1	shen me chu lai ye yao shou fei
+什么地方啊	1	shen me di fang a
+什么电影	1	shen me dian ying
+什么电影啊	1	shen me dian ying a
+什么东东	1	shen me dong dong
+什么东西啊	1	shen me dong xi a
+什么都可以	1	shen me dou ke yi
+什么都没有	1	shen me dou mei you
+什么都有	1	shen me dou you
+什么感觉	1	shen me gan jue
+什么歌啊	1	shen me ge a
+什么跟什么啊	1	shen me gen shen me a
+什么工作	1	shen me gong zuo
+什么工作啊	1	shen me gong zuo a
+什么号	1	shen me hao
+什么话啊	1	shen me hua a
+什么了	1	shen me le
+什么了	1	shen me liao
+什么没有	1	shen me mei you
+什么没有啊	1	shen me mei you a
+什么名字啊	1	shen me ming zi a
+什么哦	1	shen me o
+什么人啊	1	shen me ren a
+什么什么啊	1	shen me shen me a
+什么是啊	1	shen me shi a
+什么事啊	1	shen me shi a
+什么时候	1	shen me shi hou
+什么时候啊	1	shen me shi hou a
+什么时候回家	1	shen me shi hou hui jia
+什么时候回家啊	1	shen me shi hou hui jia a
+什么时候回来	1	shen me shi hou hui lai
+什么时候回来啊	1	shen me shi hou hui lai a
+什么时候回来的	1	shen me shi hou hui lai de
+什么时候回去	1	shen me shi hou hui qu
+什么时候回去啊	1	shen me shi hou hui qu a
+什么时候结婚啊	1	shen me shi hou jie hun a
+什么时候来	1	shen me shi hou lai
+什么时候来啊	1	shen me shi hou lai a
+什么时候来的	1	shen me shi hou lai de
+什么时候来的啊	1	shen me shi hou lai de a
+什么时候来的呀	1	shen me shi hou lai de ya
+什么时候来呀	1	shen me shi hou lai ya
+什么时候去的	1	shen me shi hou qu de
+什么时候去的啊	1	shen me shi hou qu de a
+什么时候下啊	1	shen me shi hou xia a
+什么时候呀	1	shen me shi hou ya
+什么时候走	1	shen me shi hou zou
+什么时候走啊	1	shen me shi hou zou a
+什么事情啊	1	shen me shi qing a
+什么事呀	1	shen me shi ya
+什么为什么	1	shen me wei shen me
+什么学校	1	shen me xue xiao
+什么学校啊	1	shen me xue xiao a
+什么也没有	1	shen me ye mei you
+什么意思啊	1	shen me yi si a
+什么意思吗	1	shen me yi si ma
+什么意思嘛	1	shen me yi si ma
+什么意思哦	1	shen me yi si o
+什么意思呀	1	shen me yi si ya
+什么哟	1	shen me yo
+什么游戏啊	1	shen me you xi a
+什么怎么了	1	shen me zen me le
+什么怎么了	1	shen me zen me liao
+深圳啊	1	shen zhen a
+生气啦	1	sheng qi la
+生气了啊	1	sheng qi le a
+生气了吗	1	sheng qi le ma
+生气了啊	1	sheng qi liao a
+生气了吗	1	sheng qi liao ma
+生意好吗	1	sheng yi hao ma
+声音呢	1	sheng yin ne
+是吖	1	shi a
+是啊怎么了	1	shi a zen me le
+是啊怎么了	1	shi a zen me liao
+是呗	1	shi bei
+是本人	1	shi ben ren
+是本人不	1	shi ben ren bu
+是本人吗	1	shi ben ren ma
+是不啊	1	shi bu a
+是不是啊	1	shi bu shi a
+是不是本人	1	shi bu shi ben ren
+是不是本人啊	1	shi bu shi ben ren a
+是不是很忙啊	1	shi bu shi hen mang a
+是不是嘛	1	shi bu shi ma
+是不是你啊	1	shi bu shi ni a
+是不是哦	1	shi bu shi o
+是不是呀	1	shi bu shi ya
+是不是哟	1	shi bu shi yo
+是不是真的	1	shi bu shi zhen de
+是不是真的啊	1	shi bu shi zhen de a
+是的啊	1	shi de a
+是的吧	1	shi de ba
+是的了	1	shi de le
+是的了	1	shi de liao
+是的咯	1	shi de lo
+是的呢	1	shi de ne
+是的哦	1	shi de o
+是的呀	1	shi de ya
+是多少	1	shi duo shao
+是多少啊	1	shi duo shao a
+时过境迁	1	shi guo jing qian
+实话啊	1	shi hua a
+实话吗	1	shi hua ma
+实话嘛	1	shi hua ma
+实话哦	1	shi hua o
+实话呀	1	shi hua ya
+时间会淡去	1	shi jian hui dan qu
+世界真小	1	shi jie zhen xiao
+是啦	1	shi la
+失恋了	1	shi lian le
+是咯	1	shi lo
+使毛泽东复活了	1	shi mao ze dong fu huo le
+是没	1	shi mei
+是那个	1	shi na ge
+是哪个	1	shi na ge
+是呢	1	shi ne
+是你啊	1	shi ni a
+是你吧	1	shi ni ba
+是你的吗	1	shi ni de ma
+是你哦	1	shi ni o
+是你说的	1	shi ni shuo de
+是你呀	1	shi ni ya
+是哦	1	shi o
+视频啊	1	shi pin a
+视频坏了	1	shi pin huai le
+事情进展得怎样	1	shi qing jin zhan de zen yang
+是啥	1	shi sha
+世上最大的痛苦	1	shi shang zui da de tong ku
+是谁啊	1	shi shei a
+是谁呀	1	shi shei ya
+是什么啊	1	shi shen me a
+是什么呀	1	shi shen me ya
+是什么意思	1	shi shen me yi si
+是什么意思啊	1	shi shen me yi si a
+是谁啊	1	shi shui a
+是谁呀	1	shi shui ya
+实说吧	1	shi shuo ba
+是喔	1	shi wo
+是我啊	1	shi wo a
+是我不好	1	shi wo bu hao
+是我的	1	shi wo de
+是我呀	1	shi wo ya
+是呀是呀	1	shi ya shi ya
+是哟	1	shi yo
+是这个	1	shi zhe ge
+是这个吗	1	shi zhe ge ma
+是这样	1	shi zhe yang
+是这样啊	1	shi zhe yang a
+是这样的	1	shi zhe yang de
+是这样的啊	1	shi zhe yang de a
+是这样吗	1	shi zhe yang ma
+是这样呀	1	shi zhe yang ya
+是这个	1	shi zhei ge
+是这样	1	shi zhei yang
+是真的啊	1	shi zhen de a
+是真的吗	1	shi zhen de ma
+是真的哦	1	shi zhen de o
+是真的呀	1	shi zhen de ya
+是做什么的	1	shi zuo shen me de
+受到点伤害	1	shou dao dian shang hai
+收到了吗	1	shou dao le ma
+收到了吗	1	shou dao liao ma
+收到没	1	shou dao mei
+受现	1	shou xian
+书呆子	1	shu dai zi
+输了吧	1	shu le ba
+数量有限	1	shu liang you xian
+耍啊	1	shua a
+耍大牌	1	shua da pai
+耍我	1	shua wo
+耍我啊	1	shua wo a
+帅啊	1	shuai a
+帅吧	1	shuai ba
+帅不	1	shuai bu
+帅吗	1	shuai ma
+爽啊	1	shuang a
+谁唱的	1	shui chang de
+谁的啊	1	shui de a
+睡觉啊	1	shui jiao a
+睡觉了	1	shui jiao le
+睡觉去了	1	shui jiao qu le
+睡觉去了	1	shui jiao qu liao
+睡觉中	1	shui jiao zhong
+谁看谁傻逼啦	1	shui kan shui sha bi la
+谁哦	1	shui o
+谁说的	1	shui shuo de
+谁说的啊	1	shui shuo de a
+谁知道啊	1	shui zhi dao a
+谁知道呢	1	shui zhi dao ne
+顺其自然吧	1	shun qi zi ran ba
+说错了	1	shuo cuo le
+说的也是啊	1	shuo de ye shi a
+说哈啊	1	shuo ha a
+说好点	1	shuo hao dian
+说好了	1	shuo hao le
+说话阿	1	shuo hua a
+说话吧	1	shuo hua ba
+说话好吗	1	shuo hua hao ma
+说话了	1	shuo hua le
+说来话长	1	shuo lai hua chang
+说了你也不知道	1	shuo le ni ye bu zhi dao
+说了你也不知道	1	shuo liao ni ye bu zhi dao
+说嘛	1	shuo ma
+说慢点	1	shuo man dian
+说你呢	1	shuo ni ne
+说清楚点	1	shuo qing chu dian
+说什么呢	1	shuo shen me ne
+说什么呀	1	shuo shen me ya
+说说啊	1	shuo shuo a
+说说看啊	1	shuo shuo kan a
+说一说	1	shuo yi shuo
+死定了	1	si ding le
+死定了	1	si ding liao
+死都不要	1	si dou bu yao
+死胡同	1	si hu tong
+死机了	1	si ji le
+死开	1	si kai
+死了吗	1	si le ma
+死了吗	1	si liao ma
+死女人	1	si nv ren
+死去吧	1	si qu ba
+思绪乱了	1	si xu luan le
+宋爱元	1	song ai yuan
+送完即止	1	song wan ji zhi
+速度啊	1	su du a
+速度点	1	su du dian
+算了	1	suan le
+算了	1	suan liao
+算你厉害	1	suan ni li hai
+算上我	1	suan shang wo
+随便啊	1	sui bian a
+随便吧	1	sui bian ba
+随便看看	1	sui bian kan kan
+随便啦	1	sui bian la
+随便你	1	sui bian ni
+随便你啊	1	sui bian ni a
+随便你吧	1	sui bian ni ba
+随便你了	1	sui bian ni le
+随便问问	1	sui bian wen wen
+随你吧	1	sui ni ba
+所以来了	1	suo yi lai le
+所以来了	1	suo yi lai liao
+她不在	1	ta bu zai
+他不在啊	1	ta bu zai a
+他回来了	1	ta hui lai le
+他回来了	1	ta hui lai liao
+他们呢	1	ta men ne
+他朋友	1	ta peng you
+他人呢	1	ta ren ne
+她是谁啊	1	ta shi shei a
+他是谁啊	1	ta shi shei a
+她是谁啊	1	ta shi shui a
+他是谁啊	1	ta shi shui a
+他说的	1	ta shuo de
+他在吹牛	1	ta zai chui niu
+他在家	1	ta zai jia
+他怎么说	1	ta zen me shuo
+他总是吹牛	1	ta zong shi chui niu
+她走了	1	ta zou le
+他走了	1	ta zou le
+她走了	1	ta zou liao
+他走了	1	ta zou liao
+太过分了	1	tai guo fen le
+太黑了	1	tai hei le
+太卡了	1	tai ka le
+太夸张了	1	tai kua zhang le
+太离谱了	1	tai li pu le
+太慢了	1	tai man le
+太慢了	1	tai man liao
+太忙了	1	tai mang le
+太热了	1	tai re le
+太少了	1	tai shao le
+太少了	1	tai shao liao
+太神了	1	tai shen le
+太晚了	1	tai wan le
+太晚了	1	tai wan liao
+太无聊了	1	tai wu liao le
+太小了	1	tai xiao le
+太远了	1	tai yuan le
+太远了	1	tai yuan liao
+谈一谈	1	tan yi tan
+躺下了	1	tang xia le
+逃啊	1	tao a
+讨厌	1	tao yan
+特写镜头	1	te xie jing tou
+腾讯出品	1	teng xun chu pin
+体胖怯热	1	ti pang qie re
+替天行道	1	ti tian xing dao
+天啦	1	tian la
+天哪	1	tian na
+天天上网	1	tian tian shang wang
+天天玩	1	tian tian wan
+听不到啊	1	ting bu dao a
+听不到吗	1	ting bu dao ma
+听不见啊	1	ting bu jian a
+听不见吗	1	ting bu jian ma
+听不清楚	1	ting bu qing chu
+听到啊	1	ting dao a
+听到了吗	1	ting dao le ma
+听到了吗	1	ting dao liao ma
+听到吗	1	ting dao ma
+听到没	1	ting dao mei
+听到没有	1	ting dao mei you
+听到没有啊	1	ting dao mei you a
+听的到	1	ting de dao
+听的到吗	1	ting de dao ma
+听得到吗	1	ting de dao ma
+听的见吗	1	ting de jian ma
+听歌啊	1	ting ge a
+听歌呢	1	ting ge ne
+听过吗	1	ting guo ma
+挺好啊	1	ting hao a
+挺好的啊	1	ting hao de a
+挺好看的	1	ting hao kan de
+挺好玩的	1	ting hao wan de
+听见了吗	1	ting jian le ma
+听见了吗	1	ting jian liao ma
+听见吗	1	ting jian ma
+听见没	1	ting jian mei
+听了啊	1	ting le a
+听了吗	1	ting le ma
+听你的	1	ting ni de
+挺漂亮的	1	ting piao liang de
+停止	1	ting zhi
+痛啊	1	tong a
+通宵啊	1	tong xiao a
+同学啊	1	tong xue a
+退了啊	1	tui le a
+退了吗	1	tui le ma
+推什么呢	1	tui shen me ne
+推什么呀	1	tui shen me ya
+外面下雨了	1	wai mian xia yu le
+晚安	1	wan an
+玩呗	1	wan bei
+玩不	1	wan bu
+玩得开心	1	wan de kai xin
+晚饭吃了吗	1	wan fan chi le ma
+晚饭吃了吗	1	wan fan chi liao ma
+晚饭我请	1	wan fan wo qing
+晚好上	1	wan hao shang
+完了吧	1	wan le ba
+玩吗	1	wan ma
+玩去了	1	wan qu le
+玩去了	1	wan qu liao
+玩啥呢	1	wan sha ne
+晚上好啊	1	wan shang hao a
+晚上好呀	1	wan shang hao ya
+玩什么	1	wan shen me
+玩什么啊	1	wan shen me a
+玩什么游戏	1	wan shen me you xi
+玩什么游戏啊	1	wan shen me you xi a
+完事了	1	wan shi le
+玩呀	1	wan ya
+玩游戏啊	1	wan you xi a
+玩游戏吗	1	wan you xi ma
+玩游戏呢	1	wan you xi ne
+网吧啊	1	wang ba a
+网吧呀	1	wang ba ya
+网络不好	1	wang luo bu hao
+王妹妹	1	wang mei mei
+王松旭	1	wang song xu
+网友啊	1	wang you a
+违反规则	1	wei fan gui ze
+为了你改变	1	wei le ni gai bian
+为啥啊	1	wei sha a
+为啥呀	1	wei sha ya
+为什么不接	1	wei shen me bu jie
+为什么不接啊	1	wei shen me bu jie a
+为什么不说话	1	wei shen me bu shuo hua
+为什么了	1	wei shen me le
+为什么了	1	wei shen me liao
+为什么那里这以远	1	wei shen me na li zhe yi yuan
+为什么呢	1	wei shen me ne
+为什么你要这样做	1	wei shen me ni yao zhe yang zuo
+为什么哦	1	wei shen me o
+为什么要回家呢	1	wei shen me yao hui jia ne
+为什么要这样子	1	wei shen me yao zhe yang zi
+为什么这么说	1	wei shen me zhe me shuo
+为什么这么说啊	1	wei shen me zhe me shuo a
+为什么这么说呢	1	wei shen me zhe me shuo ne
+为什么这样说	1	wei shen me zhe yang shuo
+为什么这样说啊	1	wei shen me zhe yang shuo a
+为什么总是想不到	1	wei shen me zong shi xiang bu dao
+为什么总是写不好	1	wei shen me zong shi xie bu hao
+为什么总是学不好	1	wei shen me zong shi xue bu hao
+为什么总是学不来	1	wei shen me zong shi xue bu lai
+问你啊	1	wen ni a
+问你个事	1	wen ni ge shi
+问你个问题	1	wen ni ge wen ti
+问你呢	1	wen ni ne
+问你哦	1	wen ni o
+问你呀	1	wen ni ya
+问问啊	1	wen wen a
+问我吗	1	wen wo ma
+我爱你啊	1	wo ai ni a
+我爱死你了	1	wo ai si ni le
+我帮你	1	wo bang ni
+我保证	1	wo bao zheng
+我比你大	1	wo bi ni da
+我比你大啊	1	wo bi ni da a
+我别无选择	1	wo bie wu xuan ze
+我不啊	1	wo bu a
+我不打扰你了	1	wo bu da rao ni le
+我不打扰你了	1	wo bu da rao ni liao
+我不得不发	1	wo bu de bu fa
+我不懂	1	wo bu dong
+我不懂啊	1	wo bu dong a
+我不懂你说的	1	wo bu dong ni shuo de
+我不敢	1	wo bu gan
+我不干了	1	wo bu gan le
+我不赶时间喔	1	wo bu gan shi jian wo
+我不告诉你	1	wo bu gao su ni
+我不管	1	wo bu guan
+我不好啊	1	wo bu hao a
+我不好看	1	wo bu hao kan
+我不好看啊	1	wo bu hao kan a
+我不和你聊了	1	wo bu he ni liao le
+我不和你说了	1	wo bu he ni shuo le
+我不和你说了	1	wo bu he ni shuo liao
+我不会啊	1	wo bu hui a
+我不会的	1	wo bu hui de
+我不会呀	1	wo bu hui ya
+我不记得了	1	wo bu ji de le
+我不接	1	wo bu jie
+我不觉得	1	wo bu jue de
+我不觉得啊	1	wo bu jue de a
+我不理你了	1	wo bu li ni le
+我不理你了	1	wo bu li ni liao
+我不忙	1	wo bu mang
+我不忙啊	1	wo bu mang a
+我不怕	1	wo bu pa
+我不骗你	1	wo bu pian ni
+我不去	1	wo bu qu
+我不去了	1	wo bu qu le
+我不去了	1	wo bu qu liao
+我不认识	1	wo bu ren shi
+我不认识啊	1	wo bu ren shi a
+我不认识你	1	wo bu ren shi ni
+我不认识你啊	1	wo bu ren shi ni a
+我不认识你呀	1	wo bu ren shi ni ya
+我不上了	1	wo bu shang le
+我不是啊	1	wo bu shi a
+我不是本人	1	wo bu shi ben ren
+我不是本人啊	1	wo bu shi ben ren a
+我不是发完了吗	1	wo bu shi fa wan le ma
+我不是告诉你了吗	1	wo bu shi gao su ni le ma
+我不是告诉你了吗	1	wo bu shi gao su ni liao ma
+我不是故意的	1	wo bu shi gu yi de
+我不是那讨厌你了	1	wo bu shi na tao yan ni le
+我不是十分喜欢你	1	wo bu shi shi fen xi huan ni
+我不是说了吗	1	wo bu shi shuo le ma
+我不是讨厌你	1	wo bu shi tao yan ni
+我不玩了	1	wo bu wan le
+我不问啊	1	wo bu wen a
+我不喜欢迟到的人	1	wo bu xi huan chi dao de ren
+我不喜欢你了	1	wo bu xi huan ni le
+我不想拐弯抹角的	1	wo bu xiang guai wan mo jiao de
+我不想看到你	1	wo bu xiang kan dao ni
+我不想离开了	1	wo bu xiang li kai le
+我不想去	1	wo bu xiang qu
+我不想要了	1	wo bu xiang yao le
+我不想再管	1	wo bu xiang zai guan
+我不想再理会	1	wo bu xiang zai li hui
+我不想走了	1	wo bu xiang zou le
+我不晓得	1	wo bu xiao de
+我不行	1	wo bu xing
+我不要了	1	wo bu yao le
+我不要了	1	wo bu yao liao
+我不在乎	1	wo bu zai hu
+我不知道啊	1	wo bu zhi dao a
+我不知道了	1	wo bu zhi dao le
+我不知道哦	1	wo bu zhi dao o
+我不知道说什么	1	wo bu zhi dao shuo shen me
+我不知道呀	1	wo bu zhi dao ya
+我不知道怎么办	1	wo bu zhi dao zen me ban
+我不知道怎么说	1	wo bu zhi dao zen me shuo
+我不知道怎么做	1	wo bu zhi dao zen me zuo
+我擦	1	wo ca
+我擦的	1	wo ca de
+我才不呢	1	wo cai bu ne
+我才不信	1	wo cai bu xin
+我才不信呢	1	wo cai bu xin ne
+我才不要呢	1	wo cai bu yao ne
+我才来	1	wo cai lai
+我吃饭了	1	wo chi fan le
+我吃饭去了	1	wo chi fan qu le
+我吃饭去了	1	wo chi fan qu liao
+我吃过了	1	wo chi guo le
+我吃过了	1	wo chi guo liao
+我吃了	1	wo chi le
+我吃了	1	wo chi liao
+我吃完了	1	wo chi wan le
+我吃完了	1	wo chi wan liao
+我出来了	1	wo chu lai le
+我出来了	1	wo chu lai liao
+我出去了	1	wo chu qu le
+我出去了	1	wo chu qu liao
+我出去一下	1	wo chu qu yi xia
+我错了	1	wo cuo le
+我错了吗	1	wo cuo le ma
+我错了	1	wo cuo liao
+我打错了	1	wo da cuo le
+我打错了	1	wo da cuo liao
+我打了	1	wo da le
+我打了	1	wo da liao
+我打字	1	wo da zi
+我打字慢	1	wo da zi man
+我当家	1	wo dang jia
+我的啊	1	wo de a
+我的博客	1	wo de bo ke
+我的错	1	wo de cuo
+我的电话	1	wo de dian hua
+我的电话是	1	wo de dian hua shi
+我的号	1	wo de hao
+我的号码是	1	wo de hao ma shi
+我的坏了	1	wo de huai le
+我的坏了啊	1	wo de huai le a
+我的妈吧	1	wo de ma ba
+我的没有	1	wo de mei you
+我的没有啊	1	wo de mei you a
+我的视频坏了	1	wo de shi pin huai le
+我的天吧	1	wo de tian ba
+我得下了	1	wo de xia le
+我的也是	1	wo de ye shi
+我的意思是	1	wo de yi si shi
+我的照片	1	wo de zhao pian
+我得走了	1	wo de zou le
+我得下了	1	wo dei xia le
+我得走了	1	wo dei zou le
+我等你	1	wo deng ni
+我等你啊	1	wo deng ni a
+我电话	1	wo dian hua
+我掉了	1	wo diao le
+我掉线了	1	wo diao xian le
+我懂	1	wo dong
+我都不知道	1	wo dou bu zhi dao
+我都了	1	wo dou le
+我都了	1	wo dou liao
+我都说了	1	wo dou shuo le
+我都听了	1	wo dou ting le
+我都听了	1	wo dou ting liao
+我饿了	1	wo e le
+我发错了	1	wo fa cuo le
+我发错了	1	wo fa cuo liao
+我发给你	1	wo fa gei ni
+我发了	1	wo fa le
+我发了	1	wo fa liao
+我发誓	1	wo fa shi
+我烦了	1	wo fan le
+我方不另行通知	1	wo fang bu ling xing tong zhi
+我疯了	1	wo feng le
+我付钱	1	wo fu qian
+我该走了	1	wo gai zou le
+我该走了	1	wo gai zou liao
+我感觉	1	wo gan jue
+我感觉有点不适	1	wo gan jue you dian bu shi
+我敢么	1	wo gan me
+我干死你	1	wo gan si ni
+我刚回来	1	wo gang hui lai
+我刚来啊	1	wo gang lai a
+我刚上	1	wo gang shang
+我刚上来	1	wo gang shang lai
+我刚下班	1	wo gang xia ban
+我告诉你	1	wo gao su ni
+我给你	1	wo gei ni
+我给你打电话	1	wo gei ni da dian hua
+我跟你说	1	wo gen ni shuo
+我关了	1	wo guan le
+我关了啊	1	wo guan le a
+我关了哈	1	wo guan le ha
+我关了哦	1	wo guan le o
+我关了	1	wo guan liao
+我还不知道	1	wo hai bu zhi dao
+我还不知道呢	1	wo hai bu zhi dao ne
+我还好	1	wo hai hao
+我还好啊	1	wo hai hao a
+我还可以	1	wo hai ke yi
+我还没吃饭	1	wo hai mei chi fan
+我还没吃饭呢	1	wo hai mei chi fan ne
+我还没吃呢	1	wo hai mei chi ne
+我害怕	1	wo hai pa
+我还以为	1	wo hai yi wei
+我还有事	1	wo hai you shi
+我汗	1	wo han
+我好烦	1	wo hao fan
+我好了	1	wo hao le
+我好累	1	wo hao lei
+我好了	1	wo hao liao
+我好无聊啊	1	wo hao wu liao a
+我好想你	1	wo hao xiang ni
+我好想你啊	1	wo hao xiang ni a
+我好想你哦	1	wo hao xiang ni o
+我好想你呀	1	wo hao xiang ni ya
+我和你一样	1	wo he ni yi yang
+我很好	1	wo hen hao
+我很好啊	1	wo hen hao a
+我很忙	1	wo hen mang
+我恨你	1	wo hen ni
+我很想你	1	wo hen xiang ni
+我怀疑	1	wo huai yi
+我换号了	1	wo huan hao le
+我换机	1	wo huan ji
+我会帮你打点的	1	wo hui bang ni da dian de
+我会的	1	wo hui de
+我会好好的	1	wo hui hao hao de
+我回家了	1	wo hui jia le
+我回来了	1	wo hui lai le
+我回来了	1	wo hui lai liao
+我会努力的	1	wo hui nu li de
+我回去了	1	wo hui qu le
+我回去了	1	wo hui qu liao
+我会想你的	1	wo hui xiang ni de
+我昏	1	wo hun
+我记住了	1	wo ji zhu le
+我家了	1	wo jia le
+我教你	1	wo jiao ni
+我接个电话	1	wo jie ge dian hua
+我截了	1	wo jie le
+我接了	1	wo jie le
+我接了啊	1	wo jie le a
+我接了	1	wo jie liao
+我接了啊	1	wo jie liao a
+我进不去	1	wo jin bu qu
+我进来了	1	wo jin lai le
+我进来了	1	wo jin lai liao
+我尽力了	1	wo jin li le
+我进去了	1	wo jin qu le
+我进去了	1	wo jin qu liao
+我今天休息	1	wo jin tian xiu xi
+我就是	1	wo jiu shi
+我就是啊	1	wo jiu shi a
+我就是不认真	1	wo jiu shi bu ren zhen
+我就是不讨厌	1	wo jiu shi bu tao yan
+我就是不喜欢	1	wo jiu shi bu xi huan
+我就是木有	1	wo jiu shi mu you
+我就是我	1	wo jiu shi wo
+我就是我啊	1	wo jiu shi wo a
+我就说嘛	1	wo jiu shuo ma
+我就下了	1	wo jiu xia le
+我就下了	1	wo jiu xia liao
+我就这样	1	wo jiu zhe yang
+我拒绝	1	wo ju jue
+我倦了	1	wo juan le
+我觉得也是	1	wo jue de ye shi
+我卡	1	wo ka
+我开了	1	wo kai le
+我开了	1	wo kai liao
+我开玩笑的	1	wo kai wan xiao de
+我看不到	1	wo kan bu dao
+我看不到啊	1	wo kan bu dao a
+我看不到你	1	wo kan bu dao ni
+我看不到你啊	1	wo kan bu dao ni a
+我看不到你呀	1	wo kan bu dao ni ya
+我看不懂	1	wo kan bu dong
+我看不见	1	wo kan bu jian
+我看不见啊	1	wo kan bu jian a
+我看不见你	1	wo kan bu jian ni
+我看不见你啊	1	wo kan bu jian ni a
+我看错了	1	wo kan cuo le
+我看错了	1	wo kan cuo liao
+我看到了	1	wo kan dao le
+我看到了	1	wo kan dao liao
+我看到你了	1	wo kan dao ni le
+我看到你了	1	wo kan dao ni liao
+我看电视	1	wo kan dian shi
+我看电视了	1	wo kan dian shi le
+我看电影	1	wo kan dian ying
+我看电影了	1	wo kan dian ying le
+我看过了	1	wo kan guo le
+我看见了	1	wo kan jian le
+我看见了	1	wo kan jian liao
+我看见你了	1	wo kan jian ni le
+我看见你了	1	wo kan jian ni liao
+我看看啊	1	wo kan kan a
+我看看吧	1	wo kan kan ba
+我看看你	1	wo kan kan ni
+我看看你啊	1	wo kan kan ni a
+我看看你好吗	1	wo kan kan ni hao ma
+我看了	1	wo kan le
+我看了	1	wo kan liao
+我看你	1	wo kan ni
+我看下	1	wo kan xia
+我看也是	1	wo kan ye shi
+我看一下	1	wo kan yi xia
+我靠啊	1	wo kao a
+我可以看看你吗	1	wo ke yi kan kan ni ma
+我可以看你吗	1	wo ke yi kan ni ma
+我可以用你的笔吗	1	wo ke yi yong ni de bi ma
+我哭	1	wo ku
+我哭了	1	wo ku le
+我快了	1	wo kuai le
+我快了	1	wo kuai liao
+我快吐了	1	wo kuai tu le
+我快要下了	1	wo kuai yao xia le
+我快要下了	1	wo kuai yao xia liao
+我快要走了	1	wo kuai yao zou le
+我快要走了	1	wo kuai yao zou liao
+我快走了	1	wo kuai zou le
+我快走了	1	wo kuai zou liao
+我困了	1	wo kun le
+我来啦	1	wo lai la
+我来了啊	1	wo lai le a
+我来了啊	1	wo lai liao a
+我来也	1	wo lai ye
+我来找你	1	wo lai zhao ni
+我老姐	1	wo lao jie
+我老了	1	wo lao le
+我老了	1	wo lao liao
+我累了	1	wo lei le
+我马上来	1	wo ma shang lai
+我忙啊	1	wo mang a
+我没啊	1	wo mei a
+我没的	1	wo mei de
+我没看	1	wo mei kan
+我没看到	1	wo mei kan dao
+我没看到啊	1	wo mei kan dao a
+我没看见	1	wo mei kan jian
+我没空	1	wo mei kong
+我没骗你	1	wo mei pian ni
+我没钱	1	wo mei qian
+我没钱啊	1	wo mei qian a
+我没钱了	1	wo mei qian le
+我没去	1	wo mei qu
+我没去过	1	wo mei qu guo
+我没让	1	wo mei rang
+我没上	1	wo mei shang
+我没事的	1	wo mei shi de
+我没时间	1	wo mei shi jian
+我没时间啊	1	wo mei shi jian a
+我没视频	1	wo mei shi pin
+我没视频啊	1	wo mei shi pin a
+我没说	1	wo mei shuo
+我没说啊	1	wo mei shuo a
+我没听清楚	1	wo mei ting qing chu
+我没玩	1	wo mei wan
+我没呀	1	wo mei ya
+我没有	1	wo mei you
+我没有啊	1	wo mei you a
+我没有不吃	1	wo mei you bu chi
+我没有不舒服	1	wo mei you bu shu fu
+我没有不习惯	1	wo mei you bu xi guan
+我没有拆开	1	wo mei you chai kai
+我没有错	1	wo mei you cuo
+我没有打翻	1	wo mei you da fan
+我没有打开过	1	wo mei you da kai guo
+我没有打印	1	wo mei you da yin
+我没有倒掉	1	wo mei you dao diao
+我没有的	1	wo mei you de
+我没有点过	1	wo mei you dian guo
+我没有发过	1	wo mei you fa guo
+我没有翻开过	1	wo mei you fan kai guo
+我没有复印	1	wo mei you fu yin
+我没有看过	1	wo mei you kan guo
+我没有了	1	wo mei you le
+我没有离开过	1	wo mei you li kai guo
+我没有了	1	wo mei you liao
+我没有拿错	1	wo mei you na cuo
+我没有拿到	1	wo mei you na dao
+我没有拿过	1	wo mei you na guo
+我没有哦	1	wo mei you o
+我没有视频	1	wo mei you shi pin
+我没有视频啊	1	wo mei you shi pin a
+我没有听过	1	wo mei you ting guo
+我没有头绪	1	wo mei you tou xu
+我没有想过	1	wo mei you xiang guo
+我没有写过	1	wo mei you xie guo
+我没有写完	1	wo mei you xie wan
+我没有呀	1	wo mei you ya
+我没有找过	1	wo mei you zhao guo
+我没有走过	1	wo mei you zou guo
+我没有做错	1	wo mei you zuo cuo
+我没有做过	1	wo mei you zuo guo
+我没有做完	1	wo mei you zuo wan
+我们都错了	1	wo men dou cuo le
+我们可以聊聊吗	1	wo men ke yi liao liao ma
+我们聊过	1	wo men liao guo
+我们聊过吗	1	wo men liao guo ma
+我们认识吗	1	wo men ren shi ma
+我们是不是做错了	1	wo men shi bu shi zuo cuo le
+我们是否错了	1	wo men shi fou cuo le
+我们是朋友	1	wo men shi peng you
+我们以前聊过吗	1	wo men yi qian liao guo ma
+我们怎么了	1	wo men zen me le
+我迷路了	1	wo mi lu le
+我明白了	1	wo ming bai le
+我明白了	1	wo ming bai liao
+我哪有	1	wo na you
+我那有啊	1	wo na you a
+我哪有啊	1	wo na you a
+我哪知道	1	wo na zhi dao
+我哪知道啊	1	wo na zhi dao a
+我内急	1	wo nei ji
+我能帮你吗	1	wo neng bang ni ma
+我能看看你吗	1	wo neng kan kan ni ma
+我能听到	1	wo neng ting dao
+我能听见	1	wo neng ting jian
+我能听见你说话	1	wo neng ting jian ni shuo hua
+我匿了	1	wo ni le
+我怕啊	1	wo pa a
+我怕会忍不住	1	wo pa hui ren bu zhu
+我怕你	1	wo pa ni
+我怕你了好不	1	wo pa ni le hao bu
+我怕怕	1	wo pa pa
+我朋友	1	wo peng you
+我朋友啊	1	wo peng you a
+我请你	1	wo qing ni
+我请你吃饭	1	wo qing ni chi fan
+我求你了	1	wo qiu ni le
+我求你了	1	wo qiu ni liao
+我去吃饭	1	wo qu chi fan
+我去吃饭了	1	wo qu chi fan le
+我去过	1	wo qu guo
+我去接你	1	wo qu jie ni
+我去看电视了	1	wo qu kan dian shi le
+我去看看	1	wo qu kan kan
+我去了	1	wo qu le
+我去了	1	wo qu liao
+我去睡觉了	1	wo qu shui jiao le
+我去玩了	1	wo qu wan le
+我去玩游戏了	1	wo qu wan you xi le
+我去洗澡	1	wo qu xi zao
+我去洗澡了	1	wo qu xi zao le
+我去游戏了	1	wo qu you xi le
+我去找你	1	wo qu zhao ni
+我去找你啊	1	wo qu zhao ni a
+我惹的	1	wo re de
+我忍了	1	wo ren le
+我认识吗	1	wo ren shi ma
+我认识你啊	1	wo ren shi ni a
+我认识你吗	1	wo ren shi ni ma
+我扔了	1	wo reng le
+我傻啊	1	wo sha a
+我傻了	1	wo sha le
+我闪了	1	wo shan le
+我上班	1	wo shang ban
+我上班了	1	wo shang ban le
+我上班了	1	wo shang ban liao
+我上传到空间了	1	wo shang chuan dao kong jian le
+我伤心死了	1	wo shang xin si le
+我伤心死了	1	wo shang xin si liao
+我生气了	1	wo sheng qi le
+我生气了	1	wo sheng qi liao
+我是啊	1	wo shi a
+我是个足球迷	1	wo shi ge zu qiu mi
+我时间到了	1	wo shi jian dao le
+我时间到了	1	wo shi jian dao liao
+我是男的	1	wo shi nan de
+我是你的朋友啊	1	wo shi ni de peng you a
+我是你哥	1	wo shi ni ge
+我是你姐	1	wo shi ni jie
+我是你朋友啊	1	wo shi ni peng you a
+我是女的	1	wo shi nv de
+我是人	1	wo shi ren
+我是认真的	1	wo shi ren zhen de
+我是谁啊	1	wo shi shei a
+我是谁呀	1	wo shi shei ya
+我是谁啊	1	wo shi shui a
+我是谁呀	1	wo shi shui ya
+我是说	1	wo shi shuo
+我是说真的	1	wo shi shuo zhen de
+我是她朋友	1	wo shi ta peng you
+我是他朋友	1	wo shi ta peng you
+我是他同学	1	wo shi ta tong xue
+我是王	1	wo shi wang
+我是我啊	1	wo shi wo a
+我是学生	1	wo shi xue sheng
+我受不了	1	wo shou bu le
+我受不了	1	wo shou bu liao
+我受够了	1	wo shou gou le
+我受够了	1	wo shou gou liao
+我睡觉了	1	wo shui jiao le
+我说不上来	1	wo shuo bu shang lai
+我说错了	1	wo shuo cuo le
+我说错了	1	wo shuo cuo liao
+我说的是实话	1	wo shuo de shi shi hua
+我说的是真的	1	wo shuo de shi zhen de
+我说过了	1	wo shuo guo le
+我说过了	1	wo shuo guo liao
+我说了啊	1	wo shuo le a
+我说了啊	1	wo shuo liao a
+我说呢	1	wo shuo ne
+我说你	1	wo shuo ni
+我说什么	1	wo shuo shen me
+我说什么啊	1	wo shuo shen me a
+我说什么了	1	wo shuo shen me le
+我说真的	1	wo shuo zhen de
+我讨厌你	1	wo tao yan ni
+我讨厌他们	1	wo tao yan ta men
+我听不到	1	wo ting bu dao
+我听不到啊	1	wo ting bu dao a
+我听不见	1	wo ting bu jian
+我听到了	1	wo ting dao le
+我听到了	1	wo ting dao liao
+我听的到	1	wo ting de dao
+我听见了	1	wo ting jian le
+我听见了	1	wo ting jian liao
+我听了	1	wo ting le
+我听了啊	1	wo ting le a
+我听你的	1	wo ting ni de
+我听听	1	wo ting ting
+我同事	1	wo tong shi
+我同学啊	1	wo tong xue a
+我同意	1	wo tong yi
+我退下	1	wo tui xia
+我玩游戏	1	wo wan you xi
+我晚自习后回家	1	wo wan zi xi hou hui jia
+我忘记了	1	wo wang ji le
+我忘记了	1	wo wang ji liao
+我问啊	1	wo wen a
+我问看看	1	wo wen kan kan
+我问你	1	wo wen ni
+我问你啊	1	wo wen ni a
+我问你了	1	wo wen ni le
+我问你了	1	wo wen ni liao
+我问你呢	1	wo wen ni ne
+我问你呀	1	wo wen ni ya
+我无所谓	1	wo wu suo wei
+我无语	1	wo wu yu
+我喜欢啊	1	wo xi huan a
+我喜欢吃	1	wo xi huan chi
+我喜欢那些东西	1	wo xi huan na xie dong xi
+我喜欢你	1	wo xi huan ni
+我喜欢收藏	1	wo xi huan shou cang
+我喜欢听音乐	1	wo xi huan ting yin le
+我喜欢玩	1	wo xi huan wan
+我喜欢运动	1	wo xi huan yun dong
+我喜欢植物	1	wo xi huan zhi wu
+我洗澡去了	1	wo xi zao qu le
+我洗澡去了	1	wo xi zao qu liao
+我下班了	1	wo xia ban le
+我下啦	1	wo xia la
+我下了啊	1	wo xia le a
+我下了哦	1	wo xia le o
+我下了啊	1	wo xia liao a
+我下咯	1	wo xia lo
+我下线了	1	wo xia xian le
+我先关了	1	wo xian guan le
+我先关了啊	1	wo xian guan le a
+我先进去	1	wo xian jin qu
+我先看	1	wo xian kan
+我先看看你	1	wo xian kan kan ni
+我先看你	1	wo xian kan ni
+我先去洗澡了	1	wo xian qu xi zao le
+我先问你	1	wo xian wen ni
+我先下了	1	wo xian xia le
+我先下了啊	1	wo xian xia le a
+我先下了	1	wo xian xia liao
+我先下了啊	1	wo xian xia liao a
+我现在有点事	1	wo xian zai you dian shi
+我现在有事不在	1	wo xian zai you shi bu zai
+我先走了	1	wo xian zou le
+我先走了	1	wo xian zou liao
+我想不到	1	wo xiang bu dao
+我想不明折	1	wo xiang bu ming zhe
+我想不清楚	1	wo xiang bu qing chu
+我想掉丢它	1	wo xiang diao diu ta
+我想飞	1	wo xiang fei
+我想回家了	1	wo xiang hui jia le
+我想家了	1	wo xiang jia le
+我想见你	1	wo xiang jian ni
+我想看看你啊	1	wo xiang kan kan ni a
+我想看你啊	1	wo xiang kan ni a
+我想离开了	1	wo xiang li kai le
+我想拿走	1	wo xiang na zou
+我想你了	1	wo xiang ni le
+我想你了	1	wo xiang ni liao
+我想你们了	1	wo xiang ni men le
+我想起来了	1	wo xiang qi lai le
+我想起来了	1	wo xiang qi lai liao
+我想我错了	1	wo xiang wo cuo le
+我想我的家人了	1	wo xiang wo de jia ren le
+我相信你	1	wo xiang xin ni
+我相信你会帮	1	wo xiang xin ni hui bang
+我想也是	1	wo xiang ye shi
+我想知道	1	wo xiang zhi dao
+我想走了	1	wo xiang zou le
+我晓得啊	1	wo xiao de a
+我晓得了	1	wo xiao de le
+我心情不好	1	wo xin qing bu hao
+我厌了	1	wo yan le
+我要啊	1	wo yao a
+我要吃饭了	1	wo yao chi fan le
+我要出去了	1	wo yao chu qu le
+我要出去了	1	wo yao chu qu liao
+我要回家了	1	wo yao hui jia le
+我要回去了	1	wo yao hui qu le
+我要回去了	1	wo yao hui qu liao
+我要看	1	wo yao kan
+我要看你	1	wo yao kan ni
+我要你	1	wo yao ni
+我要去吃饭了	1	wo yao qu chi fan le
+我要去洗澡了	1	wo yao qu xi zao le
+我要闪了	1	wo yao shan le
+我要睡觉了	1	wo yao shui jiao le
+我要吐	1	wo yao tu
+我要吐了	1	wo yao tu le
+我要玩游戏了	1	wo yao wan you xi le
+我要下班了	1	wo yao xia ban le
+我要下啦	1	wo yao xia la
+我要下了啊	1	wo yao xia le a
+我要下了哦	1	wo yao xia le o
+我要下了啊	1	wo yao xia liao a
+我要下了哦	1	wo yao xia liao o
+我要下线了	1	wo yao xia xian le
+我要走了	1	wo yao zou le
+我要走了啊	1	wo yao zou le a
+我要走了哦	1	wo yao zou le o
+我要走了	1	wo yao zou liao
+我要走了啊	1	wo yao zou liao a
+我要走了哦	1	wo yao zou liao o
+我也爱你	1	wo ye ai ni
+我也不懂	1	wo ye bu dong
+我也不会	1	wo ye bu hui
+我也不清楚	1	wo ye bu qing chu
+我也不认识你	1	wo ye bu ren shi ni
+我也不认识你啊	1	wo ye bu ren shi ni a
+我也不太清楚	1	wo ye bu tai qing chu
+我也不喜欢他们	1	wo ye bu xi huan ta men
+我也不想啊	1	wo ye bu xiang a
+我也不晓得	1	wo ye bu xiao de
+我也不知道啊	1	wo ye bu zhi dao a
+我也不知道了	1	wo ye bu zhi dao le
+我也不知道哦	1	wo ye bu zhi dao o
+我也不知道为什么	1	wo ye bu zhi dao wei shen me
+我也不知道呀	1	wo ye bu zhi dao ya
+我也不知道怎么说	1	wo ye bu zhi dao zen me shuo
+我也差不多	1	wo ye cha bu duo
+我也吃了	1	wo ye chi le
+我也吃了	1	wo ye chi liao
+我也觉得	1	wo ye jue de
+我也看不到你啊	1	wo ye kan bu dao ni a
+我也快了	1	wo ye kuai le
+我也快了	1	wo ye kuai liao
+我也没办法	1	wo ye mei ban fa
+我也没办法啊	1	wo ye mei ban fa a
+我也没有	1	wo ye mei you
+我也没有啊	1	wo ye mei you a
+我也去	1	wo ye qu
+我也是	1	wo ye shi
+我也是啊	1	wo ye shi a
+我也是的	1	wo ye shi de
+我也是哦	1	wo ye shi o
+我也是呀	1	wo ye shi ya
+我也是这么想的	1	wo ye shi zhe me xiang de
+我也是这样想的	1	wo ye shi zhe yang xiang de
+我也说不清楚	1	wo ye shuo bu qing chu
+我也忘了	1	wo ye wang le
+我也忘了	1	wo ye wang liao
+我也喜欢	1	wo ye xi huan
+我也下了	1	wo ye xia le
+我也下了	1	wo ye xia liao
+我也想啊	1	wo ye xiang a
+我也想你	1	wo ye xiang ni
+我也想你啊	1	wo ye xiang ni a
+我也要	1	wo ye yao
+我也要下了	1	wo ye yao xia le
+我也要下了	1	wo ye yao xia liao
+我也一样啊	1	wo ye yi yang a
+我也在啊	1	wo ye zai a
+我也这么想	1	wo ye zhe me xiang
+我也知道	1	wo ye zhi dao
+我也知道啊	1	wo ye zhi dao a
+我也走了	1	wo ye zou le
+我也走了	1	wo ye zou liao
+我一个人	1	wo yi ge ren
+我一个人啊	1	wo yi ge ren a
+我一会就下了	1	wo yi hui jiu xia le
+我一会就下了	1	wo yi hui jiu xia liao
+我一会就走了	1	wo yi hui jiu zou le
+我一会就走了	1	wo yi hui jiu zou liao
+我隐身了	1	wo yin shen le
+我有啊	1	wo you a
+我又不认识你	1	wo you bu ren shi ni
+我又不知道	1	wo you bu zhi dao
+我有点事	1	wo you dian shi
+我又来了	1	wo you lai le
+我又来了	1	wo you lai liao
+我有了	1	wo you le
+我有了	1	wo you liao
+我有吗	1	wo you ma
+我有事	1	wo you shi
+我有事啊	1	wo you shi a
+我有事了	1	wo you shi le
+我游戏了	1	wo you xi le
+我游戏去了	1	wo you xi qu le
+我游戏去了	1	wo you xi qu liao
+我有呀	1	wo you ya
+我有一个好主意	1	wo you yi ge hao zhu yi
+我又怎么了	1	wo you zen me le
+我晕啊	1	wo yun a
+我晕了	1	wo yun le
+我晕了	1	wo yun liao
+我晕哦	1	wo yun o
+我晕死	1	wo yun si
+我晕死了	1	wo yun si le
+我晕死了	1	wo yun si liao
+我砸你	1	wo za ni
+我在北京	1	wo zai bei jing
+我在打牌	1	wo zai da pai
+我在等你啊	1	wo zai deng ni a
+我在东莞	1	wo zai dong guan
+我在斗地主	1	wo zai dou di zhu
+我在赶时间	1	wo zai gan shi jian
+我在公司	1	wo zai gong si
+我在广东	1	wo zai guang dong
+我在广东啊	1	wo zai guang dong a
+我在广州	1	wo zai guang zhou
+我在家啊	1	wo zai jia a
+我在家里	1	wo zai jia li
+我在家呢	1	wo zai jia ne
+我在劲舞	1	wo zai jin wu
+我在劲舞	1	wo zai jing wu
+我在看电视啊	1	wo zai kan dian shi a
+我在看电影啊	1	wo zai kan dian ying a
+我再看看	1	wo zai kan kan
+我在聊天	1	wo zai liao tian
+我在聊天啊	1	wo zai liao tian a
+我在呢	1	wo zai ne
+我在上班啊	1	wo zai shang ban a
+我在上海	1	wo zai shang hai
+我在深圳	1	wo zai shen zhen
+我在深圳啊	1	wo zai shen zhen a
+我在说啊	1	wo zai shuo a
+我在宿舍	1	wo zai su she
+我在苏州	1	wo zai su zhou
+我在听歌啊	1	wo zai ting ge a
+我在外面	1	wo zai wai mian
+我在玩啊	1	wo zai wan a
+我在玩游戏啊	1	wo zai wan you xi a
+我在网吧	1	wo zai wang ba
+我在网吧啊	1	wo zai wang ba a
+我在网吧呢	1	wo zai wang ba ne
+我在学校啊	1	wo zai xue xiao a
+我在呀	1	wo zai ya
+我在游戏	1	wo zai you xi
+我在游戏啊	1	wo zai you xi a
+我再找	1	wo zai zhao
+我怎么不知道	1	wo zen me bu zhi dao
+我怎么不知道啊	1	wo zen me bu zhi dao a
+我怎么看不到你啊	1	wo zen me kan bu dao ni a
+我怎么看不见你啊	1	wo zen me kan bu jian ni a
+我怎么啦	1	wo zen me la
+我怎么了	1	wo zen me le
+我怎么了啊	1	wo zen me le a
+我怎么了啊	1	wo zen me liao a
+我怎么知道啊	1	wo zen me zhi dao a
+我怎么知道呢	1	wo zen me zhi dao ne
+我怎么知道呀	1	wo zen me zhi dao ya
+我找不到	1	wo zhao bu dao
+我找不到啊	1	wo zhao bu dao a
+我找到了	1	wo zhao dao le
+我找到了	1	wo zhao dao liao
+我招了	1	wo zhao le
+我找找	1	wo zhao zhao
+我这里没有	1	wo zhe li mei you
+我这里没有啊	1	wo zhe li mei you a
+我这没有	1	wo zhe mei you
+我这没有啊	1	wo zhe mei you a
+我真的不知道	1	wo zhen de bu zhi dao
+我真的不知道啊	1	wo zhen de bu zhi dao a
+我真的没想到	1	wo zhen de mei xiang dao
+我知	1	wo zhi
+我知啊	1	wo zhi a
+我支持你	1	wo zhi chi ni
+我知道啊	1	wo zhi dao a
+我知道的	1	wo zhi dao de
+我知道啦	1	wo zhi dao la
+我知道拉	1	wo zhi dao la
+我知道了啊	1	wo zhi dao le a
+我知道你是谁了	1	wo zhi dao ni shi shei le
+我知道你是谁了	1	wo zhi dao ni shi shui le
+我知道呀	1	wo zhi dao ya
+我只是不想动了	1	wo zhi shi bu xiang dong le
+我只是不想干了	1	wo zhi shi bu xiang gan le
+我只是不想走	1	wo zhi shi bu xiang zou
+我只是烦了	1	wo zhi shi fan le
+我只是烦恼了	1	wo zhi shi fan nao le
+我只是累了	1	wo zhi shi lei le
+我只是没想过	1	wo zhi shi mei xiang guo
+我只是没有认真过	1	wo zhi shi mei you ren zhen guo
+我只是想看看你	1	wo zhi shi xiang kan kan ni
+我只是想离开	1	wo zhi shi xiang li kai
+我只是想躺着	1	wo zhi shi xiang tang zhe
+我只是想听听音乐	1	wo zhi shi xiang ting ting yin le
+我只是想再等会	1	wo zhi shi xiang zai deng hui
+我只是想再坐会	1	wo zhi shi xiang zai zuo hui
+我只是厌倦了	1	wo zhi shi yan juan le
+我自己啊	1	wo zi ji a
+我走啊	1	wo zou a
+我走啦	1	wo zou la
+我走了啊	1	wo zou le a
+我走了哦	1	wo zou le o
+我走了啊	1	wo zou liao a
+我走了哦	1	wo zou liao o
+我走咯	1	wo zou lo
+我走呀	1	wo zou ya
+我做到了	1	wo zuo dao le
+我做主	1	wo zuo zhu
+无吖	1	wu a
+午安	1	wu an
+无耻	1	wu chi
+勿打扰	1	wu da rao
+物价上升	1	wu jia shang sheng
+无礼的举动	1	wu li de ju dong
+无聊啊	1	wu liao a
+无聊呢	1	wu liao ne
+无聊死了	1	wu liao si le
+无聊死了	1	wu liao si liao
+无聊呀	1	wu liao ya
+无聊中	1	wu liao zhong
+勿失良机	1	wu shi liang ji
+无事退朝	1	wu shi tui chao
+无所谓	1	wu suo wei
+无所谓了	1	wu suo wei le
+唔系啊	1	wu xi a
+无语了	1	wu yu le
+无语了	1	wu yu liao
+系吖	1	xi a
+系啊	1	xi a
+洗白白	1	xi bai bai
+系边啊	1	xi bian a
+洗耳恭听	1	xi er gong ting
+系好你的安全带	1	xi hao ni de an quan dai
+喜欢啊	1	xi huan a
+喜欢唱歌	1	xi huan chang ge
+喜欢的感觉	1	xi huan de gan jue
+喜欢画画	1	xi huan hua hua
+喜欢回忆	1	xi huan hui yi
+喜欢活动	1	xi huan huo dong
+喜欢纪念	1	xi huan ji nian
+喜欢吗	1	xi huan ma
+喜欢说的话	1	xi huan shuo de hua
+喜欢玩	1	xi huan wan
+喜欢音乐	1	xi huan yin yue
+喜欢在一起	1	xi huan zai yi qi
+系咯	1	xi lo
+洗完了	1	xi wan le
+洗完了	1	xi wan liao
+希望吧	1	xi wang ba
+希望大家帮助她	1	xi wang da jia bang zhu ta
+希望如此	1	xi wang ru ci
+洗澡了	1	xi zao le
+洗澡了	1	xi zao liao
+洗澡去了	1	xi zao qu le
+洗澡去了	1	xi zao qu liao
+洗澡中	1	xi zao zhong
+下班了	1	xia ban le
+下班了啊	1	xia ban le a
+下班了吗	1	xia ban le ma
+下次吧	1	xia ci ba
+下次见	1	xia ci jian
+下次聊	1	xia ci liao
+下次聊啊	1	xia ci liao a
+下次聊吧	1	xia ci liao ba
+下次再聊	1	xia ci zai liao
+下次再聊啊	1	xia ci zai liao a
+下次再聊吧	1	xia ci zai liao ba
+下次再聊了	1	xia ci zai liao le
+下了啊	1	xia le a
+下了哦	1	xia le o
+下了啊	1	xia liao a
+下咯	1	xia lo
+吓死我了	1	xia si wo le
+下午好	1	xia wu hao
+先把它搁一边	1	xian ba ta ge yi bian
+先到先得	1	xian dao xian de
+先关了	1	xian guan le
+先看看你	1	xian kan kan ni
+先看你	1	xian kan ni
+羡慕啊	1	xian mu a
+羡慕吧	1	xian mu ba
+先生对不起	1	xian sheng dui bu qi
+现在啊	1	xian zai a
+现在不行	1	xian zai bu xing
+现在藏起来	1	xian zai cang qi lai
+现在都在干什么	1	xian zai dou zai gan shen me
+现在躲起来	1	xian zai duo qi lai
+现在还不知道	1	xian zai hai bu zhi dao
+现在还好吧	1	xian zai hai hao ba
+现在还好吗	1	xian zai hai hao ma
+现在好多了	1	xian zai hao duo le
+现在好多了	1	xian zai hao duo liao
+现在好了	1	xian zai hao le
+现在好了吗	1	xian zai hao le ma
+现在好了	1	xian zai hao liao
+现在好了吗	1	xian zai hao liao ma
+现在好吗	1	xian zai hao ma
+现在很忙	1	xian zai hen mang
+现在几点了	1	xian zai ji dian le
+现在记忆吧	1	xian zai ji yi ba
+现在开始了	1	xian zai kai shi le
+现在开始下雨了	1	xian zai kai shi xia yu le
+现在看看吧	1	xian zai kan kan ba
+现在可以了	1	xian zai ke yi le
+现在可以了	1	xian zai ke yi liao
+现在来了	1	xian zai lai le
+现在离开了	1	xian zai li kai le
+现在吗	1	xian zai ma
+现在忙吗	1	xian zai mang ma
+现在没了	1	xian zai mei le
+现在没了	1	xian zai mei liao
+现在没有	1	xian zai mei you
+现在没有了	1	xian zai mei you le
+现在没有了	1	xian zai mei you liao
+现在瞄瞄吧	1	xian zai miao miao ba
+现在呢	1	xian zai ne
+现在去吧	1	xian zai qu ba
+现在去那呢	1	xian zai qu na ne
+现在是晴天	1	xian zai shi qing tian
+现在收起来	1	xian zai shou qi lai
+现在说吧	1	xian zai shuo ba
+现在说再见吧	1	xian zai shuo zai jian ba
+现在听听吧	1	xian zai ting ting ba
+现在问问	1	xian zai wen wen
+现在我们怎么办	1	xian zai wo men zen me ban
+现在想到了吗	1	xian zai xiang dao le ma
+现在想想吧	1	xian zai xiang xiang ba
+现在写吧	1	xian zai xie ba
+现在写出来	1	xian zai xie chu lai
+现在训练了	1	xian zai xun lian le
+现在要去那里了呢	1	xian zai yao qu na li le ne
+现在有事	1	xian zai you shi
+现在在哪	1	xian zai zai na
+现在在哪里	1	xian zai zai na li
+现在在哪里啊	1	xian zai zai na li a
+现在在哪呢	1	xian zai zai na ne
+现在在做什么啊	1	xian zai zai zuo shen me a
+现在怎么打算呢	1	xian zai zen me da suan ne
+现在怎么样啊	1	xian zai zen me yang a
+现在怎么样了	1	xian zai zen me yang le
+现在怎么样了	1	xian zai zen me yang liao
+现在找找	1	xian zai zhao zhao
+现在真的要走么	1	xian zai zhen de yao zou me
+现在知道了	1	xian zai zhi dao le
+现在准备	1	xian zai zhun bei
+现在走吧	1	xian zai zou ba
+想得美喔	1	xiang de mei wo
+想都别想了	1	xiang dou bie xiang le
+想过了	1	xiang guo le
+想和你在一起	1	xiang he ni zai yi qi
+想画画	1	xiang hua hua
+想你了	1	xiang ni le
+想你了啊	1	xiang ni le a
+想你了	1	xiang ni liao
+想你了啊	1	xiang ni liao a
+想起来了	1	xiang qi lai le
+想起来了	1	xiang qi lai liao
+想清楚了	1	xiang qing chu le
+想死啊	1	xiang si a
+想死你了	1	xiang si ni le
+想死你了	1	xiang si ni liao
+想我不	1	xiang wo bu
+想我了吗	1	xiang wo le ma
+想我没	1	xiang wo mei
+想想吧	1	xiang xiang ba
+想想大家	1	xiang xiang da jia
+想想自己	1	xiang xiang zi ji
+想写歌	1	xiang xie ge
+相信我	1	xiang xin wo
+想走走	1	xiang zou zou
+笑啊	1	xiao a
+小别胜新婚	1	xiao bie sheng xin hun
+小波仔超现场版	1	xiao bo zai chao xian chang ban
+晓得不	1	xiao de bu
+晓得了	1	xiao de le
+效果不错	1	xiao guo bu cuo
+小机灵鬼	1	xiao ji ling gui
+小凯	1	xiao kai
+小礼物给你哦	1	xiao li wu gei ni o
+小气巴拉	1	xiao qi ba la
+小气鬼	1	xiao qi gui
+笑啥	1	xiao sha
+笑什么	1	xiao shen me
+笑什么啊	1	xiao shen me a
+笑什么呢	1	xiao shen me ne
+笑什么呀	1	xiao shen me ya
+笑死了	1	xiao si le
+笑死了	1	xiao si liao
+小样的	1	xiao yang de
+笑一个	1	xiao yi ge
+谢啦	1	xie la
+谢了啊	1	xie le a
+谢什么	1	xie shen me
+谢什么啊	1	xie shen me a
+谢谢啊	1	xie xie a
+谢谢关心	1	xie xie guan xin
+谢谢夸奖	1	xie xie kua jiang
+谢谢啦	1	xie xie la
+谢谢了	1	xie xie le
+谢谢了啊	1	xie xie le a
+谢谢咯	1	xie xie lo
+谢谢你啊	1	xie xie ni a
+谢谢你的关心	1	xie xie ni de guan xin
+谢谢你了	1	xie xie ni le
+谢谢你了	1	xie xie ni liao
+谢谢你哦	1	xie xie ni o
+谢谢哦	1	xie xie o
+心不断在变	1	xin bu duan zai bian
+信不信由你	1	xin bu xin you ni
+辛苦啊	1	xin ku a
+辛苦吗	1	xin ku ma
+辛苦你了	1	xin ku ni le
+辛苦你了	1	xin ku ni liao
+心情不好啊	1	xin qing bu hao a
+心照不宣	1	xin zhao bu xuan
+行啊	1	xing a
+行不行啊	1	xing bu xing a
+幸福啊	1	xing fu a
+行了吧	1	xing le ba
+行了吗	1	xing le ma
+星期天啊	1	xing qi tian a
+醒醒吧	1	xing xing ba
+行行好吧	1	xing xing hao ba
+行呀	1	xing ya
+兄弟啊	1	xiong di a
+休息	1	xiu xi
+休息啊	1	xiu xi a
+休想	1	xiu xiang
+学啊	1	xue a
+学习中	1	xue xi zhong
+学校啊	1	xue xiao a
+言归正传	1	yan gui zheng zhuan
+严重吗	1	yan zhong ma
+杨晓璐	1	yang xiao lu
+要啊	1	yao a
+要不要啊	1	yao bu yao a
+要的啊	1	yao de a
+要你管	1	yao ni guan
+要是没有的话	1	yao shi mei you de hua
+要是我能飞就好了	1	yao shi wo neng fei jiu hao le
+要是有的话	1	yao shi you de hua
+要死啊	1	yao si a
+要死了	1	yao si le
+要死了	1	yao si liao
+要听哦	1	yao ting o
+要下了	1	yao xia le
+要下了	1	yao xia liao
+要下雨了	1	yao xia yu le
+要呀	1	yao ya
+要走了	1	yao zou le
+要走了	1	yao zou liao
+也不错	1	ye bu cuo
+也不是啊	1	ye bu shi a
+也不是啦	1	ye bu shi la
+也不是了	1	ye bu shi le
+也不是了	1	ye bu shi liao
+也不行	1	ye bu xing
+也不一定	1	ye bu yi ding
+也好啊	1	ye hao a
+也可以啊	1	ye ke yi a
+也没什么	1	ye mei shen me
+也没有啊	1	ye mei you a
+也是啊	1	ye shi a
+也是的	1	ye shi de
+也是哦	1	ye shi o
+也是呀	1	ye shi ya
+也许吧	1	ye xu ba
+也许是吧	1	ye xu shi ba
+一般啊	1	yi ban a
+一般吧	1	yi ban ba
+一般般啦	1	yi ban ban la
+一般啦	1	yi ban la
+一定会的	1	yi ding hui de
+一定要给我留言哦	1	yi ding yao gei wo liu yan o
+一个人啊	1	yi ge ren a
+一个人吗	1	yi ge ren ma
+以后吧	1	yi hou ba
+以后聊	1	yi hou liao
+以后再聊	1	yi hou zai liao
+以后再说	1	yi hou zai shuo
+以后再说吧	1	yi hou zai shuo ba
+一会啊	1	yi hui a
+一会吧	1	yi hui ba
+一会儿再和你联系	1	yi hui er zai he ni lian xi
+一会儿再和您联系	1	yi hui er zai he nin lian xi
+一会儿再联系	1	yi hui er zai lian xi
+一会回来	1	yi hui hui lai
+一会见	1	yi hui jian
+一会聊	1	yi hui liao
+一会说	1	yi hui shuo
+一会再聊	1	yi hui zai liao
+一会再说	1	yi hui zai shuo
+一句也看不到	1	yi ju ye kan bu dao
+以前是	1	yi qian shi
+一切还好吗	1	yi qie hai hao ma
+一视同仁	1	yi shi tong ren
+意想不到	1	yi xiang bu dao
+一眼啊	1	yi yan a
+一言难尽	1	yi yan nan jin
+一言为定	1	yi yan wei ding
+音符在跳动	1	yin fu zai tiao dong
+引起强烈反响	1	yin qi qiang lie fan xiang
+隐身了	1	yin shen le
+隐身了	1	yin shen liao
+应该吧	1	ying gai ba
+应该不会吧	1	ying gai bu hui ba
+应该是吧	1	ying gai shi ba
+应该是的	1	ying gai shi de
+用啊	1	yong a
+用吧	1	yong ba
+有吧	1	you ba
+有必要吗	1	you bi yao ma
+有病啊	1	you bing a
+又不说话了	1	you bu shuo hua le
+又不说话了	1	you bu shuo hua liao
+有的啊	1	you de a
+有点吧	1	you dian ba
+有电话吗	1	you dian hua ma
+有点累	1	you dian lei
+有点忙	1	you dian mang
+又掉了	1	you diao le
+有个性	1	you ge xing
+有话快说	1	you hua kuai shuo
+有话快说啊	1	you hua kuai shuo a
+有机会的	1	you ji hui de
+有机会再聊	1	you ji hui zai liao
+有急事	1	you ji shi
+有急事吗	1	you ji shi ma
+有空聊	1	you kong liao
+有空吗	1	you kong ma
+有空再聊	1	you kong zai liao
+有空再聊吧	1	you kong zai liao ba
+又来了	1	you lai le
+又来了	1	you lai liao
+有了吗	1	you le ma
+有了吗	1	you liao ma
+有么	1	you me
+又没钱	1	you mei qian
+有没有	1	you mei you
+有没有啊	1	you mei you a
+有没有到过	1	you mei you dao guo
+有没有等到	1	you mei you deng dao
+有没有发现	1	you mei you fa xian
+有没有发现到	1	you mei you fa xian dao
+有没有感觉到	1	you mei you gan jue dao
+有没有看到	1	you mei you kan dao
+有没有看过	1	you mei you kan guo
+有没有买到	1	you mei you mai dao
+有没有买过	1	you mei you mai guo
+有没有拿到	1	you mei you na dao
+有没有拿过	1	you mei you na guo
+有没有去过	1	you mei you qu guo
+有没有想到	1	you mei you xiang dao
+有没有想过	1	you mei you xiang guo
+有没有想我啊	1	you mei you xiang wo a
+有没有写过	1	you mei you xie guo
+有没有写完	1	you mei you xie wan
+有木有	1	you mu you
+有男朋友了吗	1	you nan peng you le ma
+有男朋友吗	1	you nan peng you ma
+有哦	1	you o
+油漆未干	1	you qi wei gan
+有钱啊	1	you qian a
+有人吗	1	you ren ma
+有什么啊	1	you shen me a
+有什么好看的	1	you shen me hao kan de
+有什么好看的啊	1	you shen me hao kan de a
+有什么好笑的	1	you shen me hao xiao de
+有什么事	1	you shen me shi
+有什么事啊	1	you shen me shi a
+有什么事吗	1	you shen me shi ma
+有什么问题吗	1	you shen me wen ti ma
+有事啊	1	you shi a
+有事打电话	1	you shi da dian hua
+有事打我电话	1	you shi da wo dian hua
+有时间聊	1	you shi jian liao
+有时间吗	1	you shi jian ma
+有时间再聊	1	you shi jian zai liao
+有时间再聊啊	1	you shi jian zai liao a
+有时间再聊吧	1	you shi jian zai liao ba
+有事快说吧	1	you shi kuai shuo ba
+有事留言	1	you shi liu yan
+有事吗	1	you shi ma
+有视频	1	you shi pin
+有视频吗	1	you shi pin ma
+有视频没	1	you shi pin mei
+有事请留言	1	you shi qing liu yan
+有事请烧纸	1	you shi qing shao zhi
+有事烧纸	1	you shi shao zhi
+有是有	1	you shi you
+有问题吗	1	you wen ti ma
+有我的留言吗	1	you wo de liu yan ma
+游戏啊	1	you xi a
+游戏了	1	you xi le
+游戏吗	1	you xi ma
+游戏呢	1	you xi ne
+游戏中	1	you xi zhong
+有些用处	1	you xie yong chu
+有眼光	1	you yan guang
+有一事相求	1	you yi shi xiang qiu
+有意思吗	1	you yi si ma
+有一天	1	you yi tian
+有用吗	1	you yong ma
+又在啊	1	you zai a
+又怎么了啊	1	you zen me le a
+又怎么了啊	1	you zen me liao a
+有照片吗	1	you zhao pian ma
+幼稚	1	you zhi
+遇到网络错误	1	yu dao wang luo cuo wu
+郁闷啊	1	yu men a
+郁闷了	1	yu men le
+郁闷哦	1	yu men o
+郁闷死了	1	yu men si le
+郁闷死了	1	yu men si liao
+郁闷中	1	yu men zhong
+语音啊	1	yu yin a
+远啊	1	yuan a
+原来如此	1	yuan lai ru ci
+原来是这样啊	1	yuan lai shi zhe yang a
+远吗	1	yuan ma
+越快越好	1	yue kuai yue hao
+晕吧	1	yun ba
+晕哦	1	yun o
+晕什么	1	yun shen me
+晕死啊	1	yun si a
+晕死了	1	yun si le
+晕死了	1	yun si liao
+咋的了	1	za de le
+咋了	1	za le
+咋了啊	1	za le a
+在吖	1	zai a
+在北京	1	zai bei jing
+在不在呀	1	zai bu zai ya
+在打牌	1	zai da pai
+在的啊	1	zai de a
+在东莞	1	zai dong guan
+再发一次	1	zai fa yi ci
+在干嘛啊	1	zai gan ma a
+在干嘛呀	1	zai gan ma ya
+在干什么啊	1	zai gan shen me a
+在干什么呢	1	zai gan shen me ne
+在搞什么	1	zai gao shen me
+在公司	1	zai gong si
+在广东	1	zai guang dong
+在广州	1	zai guang zhou
+在家啊	1	zai jia a
+在家了	1	zai jia le
+在家里啊	1	zai jia li a
+在家里吗	1	zai jia li ma
+在家呢	1	zai jia ne
+在家呀	1	zai jia ya
+再见	1	zai jian
+再见啊	1	zai jian a
+再见了	1	zai jian le
+再见了	1	zai jian liao
+在进	1	zai jin
+在劲舞	1	zai jin wu
+在劲舞	1	zai jing wu
+在看电视啊	1	zai kan dian shi a
+在看电影	1	zai kan dian ying
+再看看	1	zai kan kan
+在看什么啊	1	zai kan shen me a
+在了啊	1	zai le a
+再联络	1	zai lian luo
+在聊	1	zai liao
+在聊天	1	zai liao tian
+在聊天啊	1	zai liao tian a
+在忙什么啊	1	zai mang shen me a
+在没	1	zai mei
+在没啊	1	zai mei a
+在哪儿啊	1	zai na er a
+在那好吗	1	zai na hao ma
+在那里呢	1	zai na li ne
+在哪里呢	1	zai na li ne
+在哪里呀	1	zai na li ya
+在那里做什么啊	1	zai na li zuo shen me a
+在哪上啊	1	zai na shang a
+在哪呀	1	zai na ya
+在那做什么啊	1	zai na zuo shen me a
+在哦	1	zai o
+在朋友家	1	zai peng you jia
+在上班啊	1	zai shang ban a
+在上班吗	1	zai shang ban ma
+在上海	1	zai shang hai
+在上网	1	zai shang wang
+在上网啊	1	zai shang wang a
+在什么地方啊	1	zai shen me di fang a
+在深圳	1	zai shen zhen
+在深圳啊	1	zai shen zhen a
+再试	1	zai shi
+再试一下	1	zai shi yi xia
+再说	1	zai shuo
+再说啊	1	zai shuo a
+再说啦	1	zai shuo la
+再说了	1	zai shuo le
+再说一次	1	zai shuo yi ci
+再算	1	zai suan
+在天河	1	zai tian he
+在玩啊	1	zai wan a
+在玩吗	1	zai wan ma
+在玩什么呀	1	zai wan shen me ya
+在玩游戏	1	zai wan you xi
+在玩游戏啊	1	zai wan you xi a
+在网吧啊	1	zai wang ba a
+在网吧呢	1	zai wang ba ne
+在线吗	1	zai xian ma
+在学校啊	1	zai xue xiao a
+在游戏吗	1	zai you xi ma
+在做什么啊	1	zai zuo shen me a
+在做什么呢	1	zai zuo shen me ne
+在做什么呀	1	zai zuo shen me ya
+赞成	1	zan cheng
+咱们兜风去吧	1	zan men dou feng qu ba
+暂时没有	1	zan shi mei you
+早啊	1	zao a
+早安	1	zao an
+早吃了	1	zao chi le
+早吃了	1	zao chi liao
+早点回去	1	zao dian hui qu
+早点休息吧	1	zao dian xiu xi ba
+早来了	1	zao lai le
+早来了	1	zao lai liao
+糟了	1	zao le
+早呢	1	zao ne
+早上好	1	zao shang hao
+怎来的	1	zen lai de
+怎么啊	1	zen me a
+怎么办啊	1	zen me ban a
+怎么办呢	1	zen me ban ne
+怎么办呀	1	zen me ban ya
+怎么不好	1	zen me bu hao
+怎么不好啊	1	zen me bu hao a
+怎么不会	1	zen me bu hui
+怎么不会啊	1	zen me bu hui a
+怎么不回啊	1	zen me bu hui a
+怎么不见你啊	1	zen me bu jian ni a
+怎么不讲话啊	1	zen me bu jiang hua a
+怎么不接	1	zen me bu jie
+怎么不接啊	1	zen me bu jie a
+怎么不接呢	1	zen me bu jie ne
+怎么不接呀	1	zen me bu jie ya
+怎么不可能	1	zen me bu ke neng
+怎么不可以啊	1	zen me bu ke yi a
+怎么不理我	1	zen me bu li wo
+怎么不理我啊	1	zen me bu li wo a
+怎么不理我了	1	zen me bu li wo le
+怎么不理我呀	1	zen me bu li wo ya
+怎么不如啊	1	zen me bu ru a
+怎么不是	1	zen me bu shi
+怎么不说	1	zen me bu shuo
+怎么不说啊	1	zen me bu shuo a
+怎么不说话	1	zen me bu shuo hua
+怎么不说话啦	1	zen me bu shuo hua la
+怎么不说话了	1	zen me bu shuo hua le
+怎么不说话了啊	1	zen me bu shuo hua le a
+怎么不说话了呢	1	zen me bu shuo hua le ne
+怎么不说话了呀	1	zen me bu shuo hua le ya
+怎么不说话了	1	zen me bu shuo hua liao
+怎么不说话了啊	1	zen me bu shuo hua liao a
+怎么不说话了呢	1	zen me bu shuo hua liao ne
+怎么不说话了呀	1	zen me bu shuo hua liao ya
+怎么不说话呢	1	zen me bu shuo hua ne
+怎么不说话呀	1	zen me bu shuo hua ya
+怎么不说了	1	zen me bu shuo le
+怎么不说了啊	1	zen me bu shuo le a
+怎么不说了啊	1	zen me bu shuo liao a
+怎么不行	1	zen me bu xing
+怎么不行啊	1	zen me bu xing a
+怎么才来啊	1	zen me cai lai a
+怎么的啊	1	zen me de a
+怎么搞的	1	zen me gao de
+怎么搞的啊	1	zen me gao de a
+怎么关了	1	zen me guan le
+怎么关了啊	1	zen me guan le a
+怎么关了啊	1	zen me guan liao a
+怎么还在啊	1	zen me hai zai a
+怎么会啊	1	zen me hui a
+怎么回事	1	zen me hui shi
+怎么回事呀	1	zen me hui shi ya
+怎么会这样啊	1	zen me hui zhe yang a
+怎么会这样呢	1	zen me hui zhe yang ne
+怎么讲	1	zen me jiang
+怎么看啊	1	zen me kan a
+怎么看不到啊	1	zen me kan bu dao a
+怎么看不到你	1	zen me kan bu dao ni
+怎么看不到你啊	1	zen me kan bu dao ni a
+怎么看不到你呀	1	zen me kan bu dao ni ya
+怎么看不见啊	1	zen me kan bu jian a
+怎么看不见你	1	zen me kan bu jian ni
+怎么看不见你啊	1	zen me kan bu jian ni a
+怎么可能啊	1	zen me ke neng a
+怎么可能呢	1	zen me ke neng ne
+怎么了啊	1	zen me le a
+怎么了吗	1	zen me le ma
+怎么了嘛	1	zen me le ma
+怎么了呢	1	zen me le ne
+怎么了你	1	zen me le ni
+怎么了哦	1	zen me le o
+怎么了呀	1	zen me le ya
+怎么了你	1	zen me liao ni
+怎么咯	1	zen me lo
+怎么没有	1	zen me mei you
+怎么没有啊	1	zen me mei you a
+怎么弄	1	zen me nong
+怎么弄啊	1	zen me nong a
+怎么弄的	1	zen me nong de
+怎么说	1	zen me shuo
+怎么说啊	1	zen me shuo a
+怎么说呢	1	zen me shuo ne
+怎么吐了	1	zen me tu le
+怎么吐了	1	zen me tu liao
+怎么呀	1	zen me ya
+怎么样	1	zen me yang
+怎么样啊	1	zen me yang a
+怎么样了	1	zen me yang le
+怎么样呀	1	zen me yang ya
+怎么又不说话了	1	zen me you bu shuo hua le
+怎么又不说话了	1	zen me you bu shuo hua liao
+怎么这么说	1	zen me zhe me shuo
+怎么这么说啊	1	zen me zhe me shuo a
+怎么这么说呢	1	zen me zhe me shuo ne
+怎么这样	1	zen me zhe yang
+怎么这样啊	1	zen me zhe yang a
+怎么这样说啊	1	zen me zhe yang shuo a
+怎么这样说呢	1	zen me zhe yang shuo ne
+怎么走了	1	zen me zou le
+张会鹏	1	zhang hui peng
+张靖	1	zhang jing
+张元	1	zhang yuan
+找不到啊	1	zhao bu dao a
+找打你这只臭虫	1	zhao da ni zhe zhi chou chong
+找到工作了吗	1	zhao dao gong zuo le ma
+找到了吗	1	zhao dao le ma
+找到了吗	1	zhao dao liao ma
+找到没	1	zhao dao mei
+找你啊	1	zhao ni a
+照片啊	1	zhao pian a
+找事啊	1	zhao shi a
+找死	1	zhao si
+赵笑凤	1	zhao xiao feng
+这不花你多少时间	1	zhe bu hua ni duo shao shi jian
+这个啊	1	zhe ge a
+这个很好玩啊	1	zhe ge hen hao wan a
+这个呢	1	zhe ge ne
+这个人	1	zhe ge ren
+这个我知道	1	zhe ge wo zhi dao
+这还不错	1	zhe hai bu cuo
+这还差不多	1	zhe hai cha bu duo
+这很简单吧	1	zhe hen jian dan ba
+这很容易吧	1	zhe hen rong yi ba
+这回事	1	zhe hui shi
+这简单	1	zhe jian dan
+这件事	1	zhe jian shi
+这就	1	zhe jiu
+这就怪了	1	zhe jiu guai le
+这就奇怪了	1	zhe jiu qi guai le
+这就是我	1	zhe jiu shi wo
+这么多啊	1	zhe me duo a
+这么好啊	1	zhe me hao a
+这么快啊	1	zhe me kuai a
+这么快呀	1	zhe me kuai ya
+这么厉害	1	zhe me li hai
+这么慢	1	zhe me man
+这么忙啊	1	zhe me mang a
+这么巧	1	zhe me qiao
+这么晚了	1	zhe me wan le
+这么晚了	1	zhe me wan liao
+这么早	1	zhe me zao
+这么早啊	1	zhe me zao a
+这是对还是错	1	zhe shi dui hai shi cuo
+这世界到是神马	1	zhe shi jie dao shi shen ma
+这是你的吗	1	zhe shi ni de ma
+这是你吗	1	zhe shi ni ma
+这是谁啊	1	zhe shi shei a
+这是什么	1	zhe shi shen me
+这是什么啊	1	zhe shi shen me a
+这是什么意思	1	zhe shi shen me yi si
+这是谁啊	1	zhe shi shui a
+这是我的	1	zhe shi wo de
+这是怎么了	1	zhe shi zen me le
+这是正常的	1	zhe shi zheng chang de
+这算了吧	1	zhe suan le ba
+这条消息太毒了	1	zhe tiao xiao xi tai du le
+这为了什么	1	zhe wei le shen me
+这我知道	1	zhe wo zhi dao
+这新闻一发布	1	zhe xin wen yi fa bu
+这样吧	1	zhe yang ba
+这样不好	1	zhe yang bu hao
+这样的啊	1	zhe yang de a
+这样哦	1	zhe yang o
+这样呀	1	zhe yang ya
+这样子不好看	1	zhe yang zi bu hao kan
+这样子不难看吧	1	zhe yang zi bu nan kan ba
+这样子好不好	1	zhe yang zi hao bu hao
+这样子好看不	1	zhe yang zi hao kan bu
+这样子好难看啊	1	zhe yang zi hao nan kan a
+这样子好难看呢	1	zhe yang zi hao nan kan ne
+这样子好难看嘢	1	zhe yang zi hao nan kan ye
+这样子漂亮吗	1	zhe yang zi piao liang ma
+这样子是为了什么	1	zhe yang zi shi wei le shen me
+这样子实在伤人	1	zhe yang zi shi zai shang ren
+这样子算什么	1	zhe yang zi suan shen me
+这样子做不好	1	zhe yang zi zuo bu hao
+这样子做好吗	1	zhe yang zi zuo hao ma
+这也怪不得你的	1	zhe ye guai bu de ni de
+这也难怪	1	zhe ye nan guai
+这一次	1	zhe yi ci
+这有什么	1	zhe you shen me
+这个啊	1	zhei ge a
+这个人	1	zhei ge ren
+这个我知道	1	zhei ge wo zhi dao
+这回事	1	zhei hui shi
+这件事	1	zhei jian shi
+真碍眼	1	zhen ai yan
+真棒	1	zhen bang
+真的啊	1	zhen de a
+真的非常怪呀	1	zhen de fei chang guai ya
+真的好开心啊	1	zhen de hao kai xin a
+真的很爽啊	1	zhen de hen shuang a
+真的假的	1	zhen de jia de
+真的假的啊	1	zhen de jia de a
+真的啦	1	zhen de la
+真的了	1	zhen de le
+真的么	1	zhen de me
+真的没有	1	zhen de mei you
+真的没有啊	1	zhen de mei you a
+真的呢	1	zhen de ne
+真的哦	1	zhen de o
+真的呀	1	zhen de ya
+真低级	1	zhen di ji
+真恶心	1	zhen e xin
+真好啊	1	zhen hao a
+真划算	1	zhen hua suan
+真纠结	1	zhen jiu jie
+真可恨	1	zhen ke hen
+真可怜	1	zhen ke lian
+真可怕	1	zhen ke pa
+真可恶	1	zhen ke wu
+真懒	1	zhen lan
+真厉害	1	zhen li hai
+真没想到	1	zhen mei xiang dao
+真没有	1	zhen mei you
+真巧	1	zhen qiao
+真让人讨厌	1	zhen rang ren tao yan
+真是够了	1	zhen shi gou le
+真是很开心啊	1	zhen shi hen kai xin a
+真是经典	1	zhen shi jing dian
+真是受够了	1	zhen shi shou gou le
+真体贴	1	zhen ti tie
+真温柔	1	zhen wen rou
+真郁闷	1	zhen yu men
+真晕	1	zhen yun
+振作起来	1	zhen zuo qi lai
+振作些	1	zhen zuo xie
+正经点	1	zheng jing dian
+正是时候了	1	zheng shi shi hou le
+治啊	1	zhi a
+知啊	1	zhi a
+支持你	1	zhi chi ni
+知道	1	zhi dao
+知道啊	1	zhi dao a
+知道吧	1	zhi dao ba
+知道不	1	zhi dao bu
+知道就好	1	zhi dao jiu hao
+知道啦	1	zhi dao la
+知道了啊	1	zhi dao le a
+知道了吧	1	zhi dao le ba
+知道了吗	1	zhi dao le ma
+知道咯	1	zhi dao lo
+知道没	1	zhi dao mei
+知道什么	1	zhi dao shen me
+知道什么啊	1	zhi dao shen me a
+知道我是谁不	1	zhi dao wo shi shei bu
+知道我是谁吗	1	zhi dao wo shi shei ma
+知道我是谁不	1	zhi dao wo shi shui bu
+知道我是谁吗	1	zhi dao wo shi shui ma
+知道呀	1	zhi dao ya
+之后的内容	1	zhi hou de nei rong
+质量上乘	1	zhi liang shang cheng
+只能这样了	1	zhi neng zhe yang le
+只想静一静	1	zhi xiang jing yi jing
+至于吗	1	zhi yu ma
+知足常乐	1	zhi zu chang le
+中奖等消息	1	zhong jiang deng xiao xi
+肿么	1	zhong me
+祝福你	1	zhu fu ni
+祝你好运	1	zhu ni hao yun
+祝你玩得开心	1	zhu ni wan de kai xin
+猪头啊	1	zhu tou a
+注意点	1	zhu yi dian
+注意身体	1	zhu yi shen ti
+注意身体啊	1	zhu yi shen ti a
+抓紧	1	zhua jin
+装傻	1	zhuang sha
+自动回复不聊	1	zi dong hui fu bu liao
+自己看	1	zi ji kan
+自己吗	1	zi ji ma
+自己问	1	zi ji wen
+自由频道	1	zi you pin dao
+总共你要付	1	zong gong ni yao fu
+总会长大	1	zong hui chang da
+总会长大的	1	zong hui chang da de
+总会懂的	1	zong hui dong de
+总会明白的	1	zong hui ming bai de
+总会学到的	1	zong hui xue dao de
+总有一天	1	zong you yi tian
+走啊	1	zou a
+走吧	1	zou ba
+走不	1	zou bu
+走了啊	1	zou le a
+走了哈	1	zou le ha
+走了吗	1	zou le ma
+走了哦	1	zou le o
+走了啊	1	zou liao a
+走了哈	1	zou liao ha
+走了吗	1	zou liao ma
+走咯	1	zou lo
+最近还好吧	1	zui jin hai hao ba
+最近还好吗	1	zui jin hai hao ma
+最近好吗	1	zui jin hao ma
+最近很忙吗	1	zui jin hen mang ma
+最近可好	1	zui jin ke hao
+最近忙不	1	zui jin mang bu
+最近忙吗	1	zui jin mang ma
+最近忙什么	1	zui jin mang shen me
+最近忙什么呢	1	zui jin mang shen me ne
+最近在忙什么	1	zui jin zai mang shen me
+最近怎么样	1	zui jin zen me yang
+最近怎么样啊	1	zui jin zen me yang a
+做得好	1	zuo de hao
+做个决定吧	1	zuo ge jue ding ba
+做好点	1	zuo hao dian
+做紧咩啊	1	zuo jin mie a
+做快点	1	zuo kuai dian
+做咩啊	1	zuo mie a
+做乜啊	1	zuo mie a
+做什么啊	1	zuo shen me a
+做什么的	1	zuo shen me de
+做什么的啊	1	zuo shen me de a
+做什么工作啊	1	zuo shen me gong zuo a
+做什么呢	1	zuo shen me ne
+做什么呀	1	zuo shen me ya
+昨天去哪了	1	zuo tian qu na le
+昨天去哪里了呢	1	zuo tian qu na li le ne
+昨天去哪里玩了呢	1	zuo tian qu na li wan le ne
+昨天去玩了吗	1	zuo tian qu wan le ma
