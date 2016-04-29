@@ -1,0 +1,1681 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Luna Pinyin Extended Dictionary(Chinese&English) - 明月拼音扩充词库（含西文的词汇）
+#
+#   瑾昀 <cokunhui@gmail.com>
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 于重新部署后生效
+#
+
+---
+name: luna_pinyin.cn_en
+version: "2014.09.07"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+AA制	aa zhi
+ABC	abc
+ABS防抱死系统	abs fang bao si xi tong
+AC3	ac t
+ACT	act
+AUTOCAD	autocad
+ADSL	adsl
+AGP	agp
+AIDS	aids
+AK47	ak fs
+Alt	alt
+A片	a pian
+APC	apc
+APEC	apec
+阿Q	a q
+ARPG	arpg
+ASCII	ascii
+ASP	asp
+ATM	atm
+AVG	avg
+AVI	avi
+BBC	bbc
+BIO	bio
+BIOS	bios
+BUG	bug
+CAD	cad
+CAPCOM	capcom
+CDKEY	cdkey
+CorelDraw	coreldraw
+CDMA	cdma
+CEO	ceo
+CGI	cgi
+Completedir	completedir
+CMOS	cmos
+CPU	cpu
+CRT	crt
+CounterStrike	counterstrike
+Ctrl	ctrl
+C语言	c yu yan
+DDR	ddr
+DirectX	directx
+DIY	diy
+DNS	dns
+DOS	dos
+DOWN	down
+DTS	dts
+DV	dv
+DVD	dvd
+RIP	rip
+EHQ	ehq
+EMAIL	email
+EVA	eva
+EVD	evd
+EXE	exe
+FAQ	faq
+FAT32	fat tt
+FAT16	fat os
+FIFA	fifa
+FPS	fps
+FLASH动画	flash dong hua
+FLASHFXP	flashfxp
+FPE	fpe
+FrontPage	frontpage
+FTP	ftp
+GB	gb
+GBK	gbk
+GDP	gdp
+GPS	gps
+HDTV	hdtv
+Hz	hz
+HIFI	hifi
+HIV	hiv
+ISDN	isdn
+甲A	jia a
+甲B	jia b
+Kbps	kbps
+卡拉OK	ka la ok
+KOEI	koei
+KOF	kof
+KONAMI	konami
+KTV	ktv
+LCD	lcd
+LINUX	linux
+LINUX操作系统	linux cao zuo xi tong
+LOGO	logo
+3Dmax	t dmax
+免CD补丁	mian cd bu ding
+MPC播放器	mpc bo fang qi
+MPEG	mpeg
+MP3	mp t
+MSDN	msdn
+MSN	msn
+MTV	mtv
+Maya	maya
+NBA	nba
+NFO	nfo
+NGC	ngc
+NGO	ngo
+NMD	nmd
+NOD	nod
+NTFS	ntfs
+OA	oa
+OCR	ocr
+OEM	oem
+OFFICE	office
+GM	gm
+OK	ok
+OP	op
+OTC	otc
+PC	pc
+PC版	pc ban
+PDA	pda
+P2P	p t p
+pH值	ph zhi
+PLMM	plmm
+PN结	pn jie
+PS2	ps t
+Photoshop	photoshop
+QuickTime	quicktime
+QQ群	qq qun
+QQ	qq
+QQ秀	qq xiu
+RAM	ram
+RAR	rar
+RGB	rgb
+ROM	rom
+RPG	rpg
+RealPlayer	realplayer
+SARS	sars
+SDR	sdr
+SEGA	sega
+SFC	sfc
+Shift	shift
+SLG	slg
+SNK	snk
+SONY	sony
+SOS	sos
+SOS儿童村	sos er tong cun
+SVCD	svcd
+SRPG	srpg
+TCL	tcl
+TLF	tlf
+TMD	tmd
+TV	tv
+TVout	tvout
+TVB	tvb
+T恤衫	t xu shan
+UBI	ubi
+UCDOS	ucdos
+UFO	ufo
+UK	uk
+U盘	u pan
+URL	url
+US	us
+USA	usa
+USB	usb
+VB	vb
+IBM	ibm
+VCD	vcd
+ID	id
+VDSL	vdsl
+IE	ie
+I服了U	i fu liao u
+VGS	vgs
+VHS	vhs
+VIP	vip
+Internet	internet
+VOA	voa
+VOBSUB	vobsub
+VOD	vod
+IP	ip
+VR	vr
+ISO	iso
+ISP	isp
+VS	vs
+IT	it
+X光	x guang
+WEB	web
+WHO	who
+WINDOWS	windows
+WIN	win
+WMA	wma
+WORD	word
+WPS	wps
+WTO	wto
+XBOX	xbox
+X档案	x dang an
+XP	xp
+X射线	x she xian
+Ooooo	ooooo
+ooooO	ooooo
+ZIP	zip
+ABT	abt
+Acer	acer
+AcFun	acfun
+ACOME	acome
+Adidas	adidas
+AIIB	aiib
+AIYA	aiya
+Alam	alam
+Alemania	alemania
+Alina	alina
+Alisa	alisa
+Amanat	amanat
+Amani	amani
+AMD	amd
+Angelababy	angelababy
+ANSYS	ansys
+APP	app
+Apps	apps
+AppStore	appstore
+ARASHI	arashi
+Armani	armani
+ASOS	asos
+Avril	avril
+BADA	bada
+Badoo	badoo
+Baidu	baidu
+BAKA	baka
+Bambook	bambook
+Baru	baru
+Bazinga	bazinga
+Bbox	bbox
+Beautyleg	beautyleg
+BeDook	bedook
+BEELY	beely
+Belieber	belieber
+Bieber	bieber
+Bigbang	bigbang
+BMW	bmw
+BT	bt
+BTW	btw
+Buka	buka
+Camille	camille
+Casio	casio
+CBA	cba
+CBD	cbd
+Cbox	cbox
+CCED	cced
+CELINE	celine
+CFPL	cfpl
+ChaCha	chacha
+ChinaNet	chinanet
+Chinaren	chinaren
+Choco	choco
+ChoiSin	choisin
+CHOK	chok
+CK	ck
+Clannad	clannad
+CMCC	cmcc
+CMNET	cmnet
+CMWAP	cmwap
+CNBlue	cnblue
+CND	cnd
+CNTV	cntv
+Coolpad	coolpad
+CPA	cpa
+CSOL	csol
+CTO	cto
+Cuban	cuban
+CUCCI	cucci
+Cydia	cydia
+Davichi	davichi
+DHL	dhl
+Dicos	dicos
+Diors	diors
+DJ	dj
+DMAX	dmax
+Doin	doin
+DOMO	domo
+Doov	doov
+DPS	dps
+Dropbox	dropbox
+DUEBA	dueba
+DVI	dvi
+Eason	eason
+Easou	easou
+eBay	ebay
+EI	ei
+Elina	elina
+Elly	elly
+Eminem	eminem
+Enemies	enemies
+ESPN	espn
+Etam	etam
+ETC	etc
+Etude	etude
+Evo	evo
+Ezra	ezra
+Facebook	facebook
+FaceTime	facetime
+Ferragamo	ferragamo
+FESCO	fesco
+FILA	fila
+Flipboard	flipboard
+Foxconn	foxconn
+Foxmail	foxmail
+FTIsland	ftisland
+Furla	furla
+GATSBY	gatsby
+GBA	gba
+GF	gf
+GIF	gif
+Gmail	gmail
+GoAgent	goagent
+Google	google
+GooglePlay	googleplay
+GOSICK	gosick
+Gougou	gougou
+Gozo	gozo
+GPRS	gprs
+GSM	gsm
+GTR	gtr
+Gucci	gucci
+GV	gv
+Haru	haru
+HDMI	hdmi
+Hellen	hellen
+HelloKitty	hellokitty
+HITA	hita
+Hitomi	hitomi
+Holle	holle
+Hongkong	hongkong
+Hotmail	hotmail
+Hotwind	hotwind
+HQ	hq
+HTC	htc
+HTCOne	htcone
+HTML	html
+HUAWEI	huawei
+Hulu	hulu
+Hurstville	hurstville
+iBooks	ibooks
+ICBC	icbc
+iCloud	icloud
+IDE	ide
+IEEE	ieee
+iFile	ifile
+Ikan	ikan
+IKEA	ikea
+Ikki	ikki
+IM	im
+iMac	imac
+IMAX	imax
+IME	ime
+IMEI	imei
+iMessage	imessage
+iMessages	imessages
+IMSI	imsi
+Innisfree	innisfree
+Instagram	instagram
+Intel	intel
+iOS	ios
+iPad	ipad
+iPhone	iphone
+iPod	ipod
+IPSA	ipsa
+IPTV	iptv
+iReader	ireader
+iSee	isee
+Islamic	islamic
+iTouch	itouch
+iTunes	itunes
+Ive	ive
+iWatch	iwatch
+JavaScript	javascript
+Jizz	jizz
+JOJO	jojo
+JPG	jpg
+JSP	jsp
+JUNIEL	juniel
+JUSCO	jusco
+Karicare	karicare
+Kary	kary
+Kass	kass
+Kazaky	kazaky
+Kenn	kenn
+Keroro	keroro
+KFC	kfc
+Kian	kian
+Kimi	kimi
+Kimmy	kimmy
+Koei	koei
+Kone	kone
+Konka	konka
+Kuma	kuma
+KUSO	kuso
+LadyGaga	ladygaga
+LaLa	lala
+LALABOBO	lalabobo
+Lavida	lavida
+LBS	lbs
+Lenka	lenka
+Lenovo	lenovo
+Les	les
+Letv	letv
+Lexi	lexi
+Liekkas	liekkas
+Lilin	lilin
+Limi	limi
+LinkinPark	linkinpark
+Linsanity	linsanity
+Linux	linux
+LMFAO	lmfao
+LOFTER	lofter
+LOL	lol
+Longchamp	longchamp
+Ltd	ltd
+LTE	lte
+Luka	luka
+Lumia	lumia
+LV	lv
+MacBook	macbook
+Mandy	mandy
+MATLAB	matlab
+Maybank	maybank
+MAYU	mayu
+MBA	mba
+MBLAQ	mblaq
+McDonald	mcdonald
+MERS	mers
+Messi	messi
+Mia	mia
+Micheal	micheal
+Michelle	michelle
+Microsoft	microsoft
+Mido	mido
+MiGo	migo
+Miki	miki
+Mima	mima
+Minecraft	minecraft
+Minoz	minoz
+Misaki	misaki
+Missha	missha
+MIT	mit
+MIUI	miui
+Mixx	mixx
+Miya	miya
+ML	ml
+MM	mm
+MOKA	moka
+MOLANG	molang
+Moncler	moncler
+Monstar	monstar
+Mook	mook
+Mr	mr
+Mrs	mrs
+Ms	ms
+MUJI	muji
+MVP	mvp
+MySQL	mysql
+Nan	nan
+Nano	nano
+Nars	nars
+NAVER	naver
+NDS	nds
+Neway	neway
+Nichkhun	nichkhun
+NICI	nici
+Nightwish	nightwish
+Niko	niko
+Nokia	nokia
+NPC	npc
+OAOA	oaoa
+Oct	oct
+Olympics	olympics
+Omegle	omegle
+OMG	omg
+ONS	ons
+OPPO	oppo
+OST	ost
+OTG	otg
+OUTLETS	outlets
+Pabo	pabo
+Panasonic	panasonic
+Pchy	pchy
+PDF	pdf
+PHP	php
+PIKO	piko
+Pixiv	pixiv
+PLORY	plory
+Poppin	poppin
+Popstar	popstar
+POS	pos
+PowerPoint	powerpoint
+PPT	ppt
+PPTV	pptv
+Prada	prada
+Prezi	prezi
+PRICH	prich
+PSP	psp
+PSV	psv
+QAQ	qaq
+QQGame	qqgame
+QuickType	quicktype
+QVOD	qvod
+QZZN	qzzn
+Rainie	rainie
+Rihanna	rihanna
+RIO	rio
+RMB	rmb
+RMVB	rmvb
+Roem	roem
+RoRo	roro
+RTA	rta
+RunningMan	runningman
+RURU	ruru
+RWBY	rwby
+Sammi	sammi
+Samsung	samsung
+SANA	sana
+Sanyo	sanyo
+SANYO	sanyo
+SaSa	sasa
+SAYA	saya
+SCI	sci
+Scofield	scofield
+SEO	seo
+Shero	shero
+Shimano	shimano
+SHINee	shinee
+SIM	sim
+SimSimi	simsimi
+Siri	siri
+SISTAR	sistar
+SKINFOOD	skinfood
+Skrillex	skrillex
+Skyfall	skyfall
+Skype	skype
+Smartisan	smartisan
+Snidel	snidel
+SoDu	sodu
+Soga	soga
+SOGO	sogo
+Sogou	sogou
+Sohu	sohu
+Soledad	soledad
+Sony	sony
+Sophia	sophia
+Soso	soso
+Sparkey	sparkey
+SpeXial	spexial
+Spyair	spyair
+SQL	sql
+Starbucks	starbucks
+Stephy	stephy
+Stussy	stussy
+Stylenanda	stylenanda
+SUKI	suki
+SUV	suv
+Sweety	sweety
+Tablo	tablo
+Taobao	taobao
+Tata	tata
+Tegra	tegra
+Telnet	telnet
+Tenda	tenda
+TERA	tera
+ThinkPad	thinkpad
+THX	thx
+TiAmo	tiamo
+TimeZ	timez
+TiMi	timi
+Tmall	tmall
+TODO	todo
+TomBoy	tomboy
+TOPIK	topik
+Topshop	topshop
+TOTO	toto
+TOUS	tous
+TXT	txt
+Typany	typany
+Uber	uber
+UC	uc
+UGG	ugg
+Ukiss	ukiss
+Ulike	ulike
+UNIQLO	uniqlo
+USANA	usana
+USD	usd
+VGA	vga
+Viber	viber
+Vics	vics
+Viscap	viscap
+VIXX	vixx
+VMware	vmware
+VOCALOID	vocaloid
+VOTO	voto
+VPN	vpn
+VVIP	vvip
+Warkey	warkey
+WeChat	wechat
+Westlife	westlife
+WhatsApp	whatsapp
+WiFi	wifi
+Wii	wii
+Windows	windows
+WLAN	wlan
+WWDC	wwdc
+Xbox	xbox
+Xoxoxo	xoxoxo
+Xperia	xperia
+XXOO	xxoo
+Yee	yee
+YONEX	yonex
+YotaPhone	yotaphone
+YouTube	youtube
+Yui	yui
+Yuki	yuki
+YULI	yuli
+Yumiko	yumiko
+YY	yy
+ZAKER	zaker
+Zakka	zakka
+Zelo	zelo
+Zippo	zippo
+ZTE	zte
+Zynga	zynga
+AAA级	aaa ji
+AA制	a a zhi	100
+AB胶	ab jiao
+AB型	ab xing
+AB型血	ab xing xue
+AC米兰	ac mi lan
+AD钙奶	ad gai nai
+Android	android	100
+APEC蓝	apec lan
+ATM机	atm ji
+ATM机	a t m ji	100
+AV国	av guo
+AV女优	av nv you
+AV线	av xian
+A班	a ban
+A版	a ban
+A杯	a bei
+A出口	a chu kou
+A等	a deng
+A点	a dian
+A栋	a dong
+A段	a duan
+A股	a gu
+A股	a gu	100
+A和B	a he b
+A货	a huo
+A级	a ji
+A计划	a ji hua
+A卷	a juan
+A君	a jun
+A卡	a ka
+A口	a kou
+A款	a kuan
+A类	a lei
+A米	a mi
+A面	a mian
+A盘	a pan
+A盘	a pan	100
+A片	a pian	100
+A屏	a ping
+A区	a qu
+A线	a xian
+A型	a xing
+A型血	a xing xue
+A罩杯	a zhao bei
+A证	a zheng
+A字裙	a zi qun
+A组	a zu
+A座	a zuo
+baby老婆	baby lao po
+BB机	bb ji
+BB霜	bb shuang
+BigBang的	bigbang de
+BJD娃娃	bjd wa wa
+blue的	blue de
+BT下载	bt xia zai
+BT种子	bt zhong zi
+but你	but ni
+B班	b ban
+B版	b ban
+B杯	b bei
+B超	b chao
+B超	b chao	100
+B超单	b chao dan
+B超检查	b chao jian cha
+B出口	b chu kou
+B点	b dian
+B栋	b dong
+B哥	b ge
+B股	b gu
+B股	b gu	100
+B级	b ji
+B级车	b ji che
+B键	b jian
+B卷	b juan
+B口	b kou
+B款	b kuan
+B类	b lei
+B淋巴细胞	b lin ba xi bao	100
+B盘	b pan	100
+B区	b qu
+B细胞	b xi bao	100
+B型	b xing
+B型血	b xing xue
+B罩杯	b zhao bei
+B族	b zu
+B族维生素	b zu wei sheng su
+B组	b zu
+B座	b zuo
+call我	call wo
+CC霜	cc shuang
+CD机	cd ji
+CF穿越火线	cf chuan yue huo xian
+CF点	cf dian
+CF卡	cf ka
+CoCo姐	coco jie
+CSOL官网	csol guan wang
+CS便携版	cs bian xie ban
+Ctrl键	ctrl jian
+CT检查	ct jian cha
+C班	c ban
+C杯	c bei
+C栋	c dong
+C级	c ji
+C口	c kou
+C类	c lei
+C楼	c lou
+C罗	c luo
+C盘	c pan
+C盘	c pan	100
+C区	c qu
+C肽	c zuo
+C调	c diao
+C网	c wang
+C型	c xing
+C语言	c yu yan	100
+C罩杯	c zhao bei
+C组	c zu
+C座	c zuo
+DJ版	dj ban
+DJ舞曲	dj wu qu
+DNA	d n a	100
+DNF外挂	dnf wai gua
+DNS服务器	dns fu wu qi
+DOS命令	dos ming ling
+dota吧	dota ba
+DVD	d v d	100
+DVD版	dvd ban
+DVD导航	dvd dao hang
+DVD光盘	dvd guang pan
+DVD光驱	dvd guang qu
+DVD机	dvd ji
+D版	d ban
+D杯	d bei
+D大调	d da diao
+D栋	d dong
+D口	d kou
+D盘	d pan
+D盘	d pan	100
+D区	d qu
+D调	d diao
+D罩杯	d zhao bei
+D证	d zheng
+D组	d zu
+D座	d zuo
+EMS快递	ems kuai di
+english english 100
+ES文件浏览器	es wen jian zuo lan qi
+ET外星人	et wai xing ren
+EXO饭	exo fan
+EXO王道	exo wang dao
+e卡通	e ka tong
+E路航	e lu hang
+E盘	e pan
+E盘	e pan	100
+E区	e qu
+E时代	e shi dai
+E世界	e shi jie
+E文	e wen
+E邮宝	e you bao
+E座	e zuo
+FM收音机	fm shou yin ji
+fx组合	fx zu he
+F码	f ma
+F盘	f pan
+F盘	f pan	100
+F区	f qu
+F团	f tuan
+F型	f xing
+gay蜜	gay mi
+gay片	gay pian
+GIF快手	gif kuai shou
+Gmail邮箱	gmail you xiang
+Gmail邮箱登录	gmail you xiang deng lu
+Google	google	100
+Google翻译	google fan yi
+GO短信	go duan xin
+GO锁屏	go suo ping
+Go下载	go xia zai
+GO桌面	go zhuo mian
+GPS导航	gps dao hang
+GPS定位	gps ding wei
+G币	g bi
+G点	g dian
+G点	g dian	100
+G盘	g pan	100
+G团	g tuan
+G硬盘	g ying pan
+G友	g you
+Hello美女	hello mei nv
+Hello你好	hello ni hao
+Hello哦	hello o
+hello在么	hello zai me
+high歌	high ge
+high好	high hao
+high了	high liao
+high起来	high qi lai
+Hi好	hi hao
+hi靓女	hi zuo nv
+hi美女	hi mei nv
+hi美女好	hi mei nv hao
+Hi妹子	hi mei zi
+Hi在吗	hi zai ma
+hold不住	hold bu zhu
+hold不住了	hold bu zhu liao
+hold姐	hold jie
+hold住	hold zhu
+Home键	home jian
+HOPE组合	hope zu he
+HTC手机	htc shou ji
+H版	h ban
+H股	h gu
+H股	h gu	100
+H盘	h pan	100
+H型钢	h xing gang
+H游戏	h you xi
+IC卡	ic ka
+ID号	id hao
+ID卡	id ka
+ID照	id zhao
+IE浏览器	ie zuo lan qi
+IMAX电影	imax dian ying
+iOS	i os	100
+iPad	i pad	100
+iPad迷你	ipad mi ni
+iPhone	i phone	100
+iPhone锁屏	iphone suo ping
+iPod	i pod	100
+IP地址	ip di zhi
+IP地址	i p di zhi	100
+IP地址查询	ip di zhi cha xun
+IP电话	ip dian hua
+IP电话	i p dian hua	100
+IP卡	ip ka
+IP卡	i p ka	100
+IP位址	i p wei zhi	100
+IQ博士	iq bo shi
+IT公司	it gong si
+IT行业	it xing ye
+IT技术	it ji shu
+IT界	it jie
+IT业	it ye
+I服了you	i fu liao you
+i美股	i mei gu
+i模式	i mo shi
+I盘	i pan	100
+JAVA语言	java yu yan
+JJ斗地主	jj dou di zhu
+JM们	jm men
+J盘	j pan	100
+Kimi妈妈	kimi ma ma
+KK唱响	kk chang xiang
+KTV包房	ktv bao fang
+K粉	k fen	100
+K粉	kei fen	100
+K歌	k ge
+K歌	k ge	100
+K歌	kei ge	100
+K歌达人	k ge da ren
+K歌王	k ge wang
+K歌之王	k ge zhi wang
+K金	k jin
+K金	k jin	100
+K金	kei jin	100
+K线	k xian
+K线图	k xian tu
+LED灯	led deng
+LED屏	led ping
+LED显示屏	led xian shi ping
+LEEP刀	leep dao
+LG手机	lg shou ji
+Lily姐	lily jie
+Linux	linux	100
+Lisa姐	lisa jie
+LOGO墙	logo qiang
+loli控	loli kong
+lol盒子	lol he zi
+lol了	lol liao
+lol视频	lol shi pin
+low货	low huo
+LV包	lv bao
+LV包包	lv bao bao
+L号	l hao
+L码	l ma
+MAC地址	mac di zhi
+May姐	may jie
+Mc白浩	mc bai hao
+MIC男团	mic nan tuan
+Miss解说	miss jie shuo
+MIUI论坛	miui lun tan
+MMC卡	mmc ka
+MM好	mm hao
+MM们	mm men
+MM小游戏	mm xiao you xi
+MOS管	mos guan
+MSN邮箱登录	msn you xiang deng lu
+My盛Lady	my sheng lady
+M币	m bi
+M号	m hao
+M记	m ji
+M码	m ma
+M值	m zhi
+NBA常规赛	nba chang gui sai
+NBA季后赛	nba ji hou sai
+NBA新闻	nba xin wen
+NBA选秀	nba xuan xiu
+NBA直播	nba zhi bo
+nice啊	nice a
+NIKE官网	nike guan wang
+N倍	n bei
+N遍	n bian
+n次方	n ci fang
+N多	n duo
+N多人	n duo ren
+N个	n ge
+N股	n gu
+N家	n jia
+N卡	n ka
+N年	n nian
+N年前	n nian qian
+OEM版	oem ban
+OK啊	ok a
+OK吧	ok ba
+OK的	ok de
+OK的啦	ok de la
+OK镜	ok jing
+OK啦	ok la
+OK了	ok liao
+OK了吧	ok liao ba
+OK了啦	ok liao la
+OK了吗	ok liao ma
+OK吗	ok ma
+OK嘛	ok ma
+OK么	ok me
+OK哦	ok o
+OK呀	ok ya
+OPPO官网	oppo guan wang
+OPPO乐园	oppo le yuan
+OPPO手机	oppo shou ji
+OPPO桌面	oppo zhuo mian
+out了	out liao
+over了	over liao
+O记	o ji
+O型	o xing
+O型环	o xing huan
+O型圈	o xing quan
+O型腿	o xing tui
+O型血	o xing xue
+PCB板	pcb ban
+PC端	pc duan
+PC机	pc ji
+PC套件	pc tao jian
+PC游戏	pc you xi
+PE管	pe guan
+PE膜	pe mo
+PIN码	pin ma
+PK版	pk ban
+PK场	pk chang
+PK赛	pk sai
+PK一下	pk yi xia
+POLO衫	polo shan
+POS机	pos ji
+POS机	p o s ji	100
+PPS网络电视	pps wang luo dian shi
+PPS影音	pps ying yin
+PPTV聚力	pptv ju li
+PPTV网络电视	pptv wang luo dian shi
+PPTV下载	pptv xia zai
+PP岛	pp dao
+PP粉	pp fen
+PP棉	pp mian
+PP助手	pp zhu shou
+PP租车	pp zu che
+PSP模拟器	psp mo ni qi
+ps教程	ps jiao cheng
+PS模拟器	ps mo ni qi
+PU皮	pu pi
+PVC管	pvc guan
+P大	p da
+P过	p guo
+P话	p hua
+P民	p min
+P事	p shi
+P图	p tu
+QQ	q q	100
+QQ啊	qq a
+QQ安全中心	qq an quan zhong xin
+QQ币	qq bi
+QQ表情	qq biao qing
+QQ部落	qq bu luo
+QQ彩票	qq cai piao
+QQ餐厅	qq can ting
+QQ宠物	qq chong wu
+QQ登录	qq deng lu
+QQ登录器	qq deng lu qi
+QQ登录网页	qq deng lu wang ye
+QQ等级	qq deng ji
+QQ电脑管家	qq dian nao guan jia
+QQ电影票	qq dian ying piao
+QQ斗地主	qq dou di zhu
+QQ斗牛	qq dou niu
+QQ对战平台	qq dui zhan ping tai
+QQ多少	qq duo shao
+QQ飞车	qq fei che
+QQ分组	qq fen zu
+QQ个性签名	qq ge xing qian ming
+QQ个性网	qq ge xing wang
+QQ个性网名	qq ge xing wang ming
+QQ管家	qq guan jia
+QQ好友	qq hao you
+QQ号	qq hao
+QQ号码	qq hao ma
+QQ号	q q hao	100
+QQ号码	q q hao ma	100
+QQ华夏	qq hua xia
+QQ幻想	qq huan xiang
+QQ会员	qq hui yuan
+QQ会员	q q hui yuan	100
+QQ家园	qq jia yuan
+QQ家园电脑登录	qq jia yuan dian nao deng lu
+QQ降龙	qq jiang long
+QQ卡	qq ka
+QQ客服	qq ke fu
+QQ空间	qq kong jian
+QQ空间登录	qq kong jian deng lu
+QQ空间登录器	qq kong jian deng lu qi
+QQ空间日志	qq kong jian ri zhi
+QQ里	qq li
+QQ连连看	qq lian lian kan
+QQ联系	qq lian xi
+QQ聊	qq liao
+QQ聊吧	qq liao ba
+QQ聊天	qq liao tian
+QQ聊天背景	qq liao tian bei jing
+QQ浏览器	qq zuo lan qi
+QQ密码	qq mi ma
+QQ名	qq ming
+QQ名片	qq ming pian
+QQ牧场	qq mu chang
+QQ农场	qq nong chang
+QQ皮肤	qq pi fu
+QQ拼音	qq pin yin
+QQ企业邮箱登录	qq qi ye you xiang deng lu
+QQ签名	qq qian ming
+QQ轻聊版	qq qing liao ban
+QQ情侣	qq qing lv
+QQ情侣头像	qq qing lv tou xiang
+QQ情侣网名	qq qing lv wang ming
+QQ群	q q qun	100
+QQ群号	qq qun hao
+QQ群里	qq qun li
+QQ日本版	qq ri ben ban
+QQ软件	qq ruan jian
+QQ三国	qq san guo
+QQ闪图	qq shan tu
+QQ上	qq shang
+QQ申请	qq shen qing
+QQ升级	qq sheng ji
+QQ手机	qq shou ji
+QQ输入法	qq shu ru fa
+QQ刷钻	qq shua zuan
+QQ水浒	qq shui zuo
+QQ说	qq shuo
+QQ堂	qq tang
+QQ提醒	qq ti xing
+QQ同步助手	qq tong bu zhu shou
+QQ头像	qq tou xiang
+QQ头像大全	qq tou xiang da quan
+QQ头像女生	qq tou xiang nv sheng
+QQ透明皮肤	qq tou ming pi fu
+QQ图标	qq tu biao
+QQ图片	qq tu pian
+QQ网购	qq wang gou
+QQ网名	qq wang ming
+QQ网名大全	qq wang ming da quan
+QQ网页版	qq wang ye ban
+QQ网页登录	qq wang ye deng lu
+QQ微信	qq wei xin
+QQ五子棋	qq wu zi qi
+QQ西游	qq xi you
+QQ下载	qq xia zai
+QQ仙灵	qq xian ling
+QQ仙侠传	qq xian xia chuan
+QQ相册	qq xiang ce
+QQ消息	qq xiao xi
+QQ校友	qq xiao you
+QQ信息	qq xin xi
+QQ旋风	qq xuan feng
+QQ旋舞	qq xuan wu
+QQ炫舞	qq zuo wu
+QQ业务	qq ye wu
+QQ音乐	qq yin le
+QQ音速	qq yin su
+QQ影像	qq ying xiang
+QQ影音	qq ying yin
+QQ硬盘	qq ying pan
+QQ用户	qq yong hu
+QQ邮箱	qq you xiang
+QQ邮箱登录	qq you xiang deng lu
+QQ邮箱登录首页	qq you xiang deng lu shou ye
+QQ游戏	qq you xi
+QQ御剑	qq yu jian
+QQ阅读	qq yue du
+QQ在线	qq zai xian
+QQ在线登录	qq zai xian deng lu
+QQ帐号	qq zhang hao
+QQ直播	qq zhi bo
+QQ主题	qq zhu ti
+QQ主题管家	qq zhu ti guan jia
+QQ主题助手	qq zhu ti zhu shou
+QQ自由幻想	qq zi you huan xiang
+Q吧	q ba
+Q版	q ban
+Q版泡泡堂	q ban pao pao tang
+Q币	q bi
+Q币卡	q bi ka
+Q币	q bi	100
+Q宠	q chong
+Q宠大乐斗	q chong da le dou
+Q传	q chuan
+Q点	q dian
+Q号	q hao
+Q拍乐	q pai le
+Q群	q qun
+Q上	q shang
+Q我	q wo
+Q信	q xin
+Q秀	q xiu
+Q友	q you
+Q仔	q zi
+Re管理器	re guan li qi
+RH阴性血	rh yin xing xue
+Rime	rime	100
+Rime	zhong zhou yun	100
+RMB玩家	rmb wan jia
+root了	root liao
+root权限	root quan xian
+R级	r ji
+SATA接口	sata jie kou
+SATA硬盘	sata ying pan
+SD敢达	sd gan da
+SD卡	sd ka
+SD娃娃	sd wa wa
+SIM卡	sim ka
+SIM卡	s i m ka	100
+sina邮箱登录	sina you xiang deng lu
+SK状元榜	sk zhuang yuan bang
+SM卡	sm ka
+SM小说	sm xiao shuo
+sorry啊	sorry a
+sorry啦	sorry la
+sorry了	sorry liao
+SPA机	spa ji
+SQL语句	sql yu ju
+ST股	st gu
+S股	s gu
+S号	s hao
+S级	s ji
+S键	s jian
+S码	s ma
+S曲线	s qu xian
+S型	s xing
+TCL集团	tcl ji tuan
+TF家族	tf jia zu
+TF卡	tf ka
+TV版	tv ban
+TV动画	tv dong hua
+txt全集下载	txt quan ji xia zai
+txt下载	txt xia zai
+T大	t da
+T淋巴细胞	t lin ba xi bao	100
+T区	t qu
+T人	t ren
+T台	t tai
+T台秀	t tai xiu
+T细胞	t xi bao	100
+T型	t xing
+T型台	t xing tai
+T型台	t xing tai	100
+T恤	t xu
+T恤	t xu	100
+T恤衫	t xu shan	100
+UC浏览器	uc zuo lan qi
+UC迅雷	uc xun lei
+USB	u s b	100
+USB接口	usb jie kou
+USB口	usb kou
+USB线	usb xian
+UV镜	uv jing
+U币	u bi
+U盾	u dun
+U盾	u dun	100
+u模式	u mo shi
+U盘里	u pan li
+U盘	u pan	100
+U形管	u xing guan	100
+U型	u xing
+U型管	u xing guan
+VIP会员	vip hui yuan
+VIP卡	vip ka
+VIP客户	vip ke hu
+vivo手机	vivo shou ji
+VI设计	vi she ji
+V领	v ling
+v模式	v mo shi
+V型	v xing
+V字仇杀队	v zi chou sha dui
+V字领	v zi ling
+V字形	v zi xing
+WAN口	wan kou
+webQQ登录	webqq deng lu
+WE吧	we ba
+WiFi	wai fai	100
+WiFi	wi fi	100
+WiFi伴侣	wifi ban lv
+WiFi大师	wifi da shi
+WiFi登录	wifi deng lu
+WiFi电话	wifi dian hua
+WiFi共享	wifi gong xiang
+WiFi共享精灵	wifi gong xiang jing ling
+WiFi管理器	wifi guan li qi
+WiFi卡	wifi ka
+WiFi连接	wifi lian jie
+WiFi路由器	wifi lu you qi
+WiFi密码	wifi mi ma
+WiFi密码破解	wifi mi ma po jie
+WiFi热点	wifi re dian
+WiFi杀手	wifi sha shou
+WiFi万能钥匙	wifi wan neng yue chi
+WiFi在线	wifi zai xian
+WiFi助手	wifi zhu shou
+WLAN登录	wlan deng lu
+Word文档	word wen dang
+XP系统	xp xi tong
+X刀	x dao	100
+X光	x guang	100
+X光机	x guang ji
+X光片	x guang pian
+X染色体	x ran se ti
+X染色体	x ran se ti	100
+X射线	x she xian	100
+X射线	x she xian	100
+X线	x xian
+X战警	x zhan jing
+X轴	x zhou
+Yahoo邮箱登录	yahoo you xiang deng lu
+Yota手机	yota shou ji
+YY频道	yy pin dao
+YY小说	yy xiao shuo
+YY语音	yy yu yin
+Y蛋	y dan
+Y染色体	y ran se ti
+Y染色体	y ran se ti	100
+Y轴	y zhou
+α粒子	a er fa li zi	100
+α射线	a er fa she xian	100
+β粒子	bei ta li zi	100
+β射线	bei ta she xian	100
+γ刀	ga ma dao	100
+γ射线	ga ma she xian	100
+阿Q	a q	100
+阿Q精神	a q jing shen
+阿Q正传	a q zheng chuan
+阿Q正传	a q zheng zhuan	100
+阿Sa	a sa
+阿sir	a sir
+把他QQ	ba ta qq
+把我QQ	ba wo qq
+白T恤	bai t xu
+白色T恤	bai se t xu
+百度Hi	bai du hi
+百度一键root	bai du yi jian root
+摆pose	bai pose
+帮LZ	bang lz
+被T	bei t
+本多RURU	ben duo ruru
+笨nana	ben nana
+鄙视ing	bi shi ing
+不care	bu care
+不high	bu high
+不OK	bu ok
+不登QQ	bu deng qq
+不聊QQ	bu liao qq
+不上QQ	bu shang qq
+不想say	bu xiang say
+步步高vivo	bu bu gao vivo
+操B	cao b
+蹭WiFi	ceng wifi
+唱K	chang k
+超Q	chao q
+超级QQ	chao ji qq
+超级WiFi	chao ji wifi
+朝外SOHO	chao wai soho
+充Q币	chong q bi
+臭baby	chou baby
+出bug	chu bug
+出core	chu core
+传pp	chuan pp
+吹牛B	chui niu b
+纯棉T恤	chun mian t xu
+此ID	ci id
+打boss	da boss
+打CS	da cs
+打dota	da dota
+打game	da game
+打kiss	da kiss
+打pp	da pp
+打开QQ	da kai qq
+大baby	da baby
+大boss	da boss
+大pp	da pp
+大S	da s
+大V领	da v ling
+大宝SOD蜜	da bao sod mi
+大众CC	da zhong cc
+登QQ	deng qq
+登录QQ	deng lu qq
+登录QQ部落	deng lu qq bu luo
+登录QQ空间	deng lu qq kong jian
+登录QQ邮箱	deng lu qq you xiang
+登你QQ	deng ni qq
+登我QQ	deng wo qq
+等QQ	deng qq
+等我QQ	deng wo qq
+第N次	di n ci
+东方CJ	dong fang cj
+都OK	du ok
+豆瓣FM	dou ban fm
+短T	duan t
+短袖T	duan xiu t
+短袖T恤	duan xiu t xu
+哆啦A梦	duo la a meng
+哆啦A梦的	duo la a meng de
+哆啦A梦	duo la a meng	100
+嗯嗯OK	zuo zuo ok
+发EMS	fa ems
+发pp	fa pp
+发QQ	fa qq
+发你QQ	fa ni qq
+发我QQ	fa wo qq
+封ID	feng id
+封IP	feng ip
+服了you	fu liao you
+改bug	gai bug
+高达seed	gao da seed
+各位MM	ge wei mm
+给你发QQ	gei ni fa qq
+公交IC卡	gong jiao ic ka
+挂Q	gua q
+挂QQ	gua qq
+关联QQ	guan lian qq
+果味VC	guo wei vc
+还上QQ	huan shang qq
+好happy	hao happy
+好high	hao high
+好lol	hao lol
+好low	hao low
+好man	hao man
+好Q	hao q
+嘿girl	hei girl
+很happy	hen happy
+很high	hen high
+很man	hen man
+很nice	hen nice
+很OK	hen ok
+很Q	hen q
+很多MM	hen duo mm
+沪江小D	hu jiang xiao d
+华数TV	hua shu tv
+换IP	huan ip
+换QQ	huan qq
+挤我QQ	ji wo qq
+加Q	jia q
+加QQ	jia qq
+加QQ号	jia qq hao
+加QQ群	jia qq qun
+加v	jia v
+加你QQ	jia ni qq
+加我Q	jia wo q
+加我QQ	jia wo qq
+家的n次方	jia de n ci fang
+建外SOHO	jian wai soho
+江南style	jiang nan style
+就OK	jiu ok
+就OK啦	jiu ok la
+就OK了	jiu ok liao
+就上QQ	jiu shang qq
+卡拉OK	ka la o k	100
+开BOSS	kai boss
+开WiFi	kai wifi
+看QQ	kan qq
+看哆啦A梦	kan duo la a meng
+客服MM	ke fu mm
+客服QQ	ke fu qq
+酷我K歌	ku wo k ge
+来lol	lai lol
+来PK	lai pk
+蓝光DVD	lan guang dvd
+老K	lao k
+李sir	li sir
+荔枝FM	li zhi fm
+连WiFi	lian wifi
+联系QQ	lian xi qq
+联想Thinkpad	lian xiang thinkpad
+量贩式KTV	liang fan shi ktv
+聊QQ	liao qq
+刘sir	liu sir
+龙珠Q传	long zhu q chuan
+龙珠Z	long zhu z
+芒果TV	mang guo tv
+没feel	mei feel
+没QQ	mei qq
+没root	mei root
+没WiFi	mei wifi
+没登QQ	mei deng qq
+没上QQ	mei shang qq
+没有WiFi	mei you wifi
+魅族MX	zuo zu mx
+萌小Q	meng xiao q
+免费WiFi	mian fei wifi
+魔笛MAGI	mo di magi
+那个QQ	na ge qq
+那就OK	na jiu ok
+奶茶MM	nai cha mm
+能上QQ	neng shang qq
+你call	ni call
+你high	ni high
+你lol	ni lol
+你OK	ni ok
+你OUT	ni out
+你OUT了	ni out liao
+你QQ	ni qq
+你QQ多少	ni qq duo shao
+你QQ号	ni qq hao
+你TM	ni tm
+你TMD	ni tmd
+你不上QQ	ni bu shang qq
+你的QQ	ni de qq
+你登我QQ	ni deng wo qq
+你加我QQ	ni jia wo qq
+你上QQ	ni shang qq
+你上我QQ	ni shang wo qq
+你用QQ	ni yong qq
+你在QQ	ni zai qq
+牛A	niu a
+牛B	niu b
+牛X	niu x
+哦lol	o lol
+哦shit	o shit
+拍MV	pai mv
+胖MM	pang mm
+泡MM	pao mm
+漂亮MM	piao liang mm
+七龙珠Z	qi long zhu z
+齐B	qi b
+齐B小短裙	qi b xiao duan qun
+奇瑞QQ	qi rui qq
+企业QQ	qi ye qq
+情侣T恤	qing lv t xu
+请加QQ	qing jia qq
+穷B	qiong b
+求solo	qiu solo
+去KTV	qu ktv
+群P	qun p
+人均GDP	ren jun gdp
+日K线	ri k xian
+三K党	san k dang
+三K党	san k dang	100
+三K党	san kei dang	100
+三国Kill	san guo kill
+三星NOTE	san xing note
+骚B	sao b
+傻B	sha b
+傻X	sha x
+上Q	shang q
+上QQ	shang qq
+上YY	shang yy
+上你QQ	shang ni qq
+上我QQ	shang wo qq
+少年JUMP	shao nian jump
+申请QQ	shen qing qq
+申请QQ号	shen qing qq hao
+申请QQ号码	shen qing qq hao ma
+深V领	shen v ling
+世界BOSS	shi jie boss
+是OK	shi ok
+手机QQ	shou ji qq
+手机U盘	shou ji u pan
+手机WiFi	shou ji wifi
+刷QB	shua qb
+刷QQ	shua qq
+刷QQ币	shua qq bi
+刷Q币	shua q bi
+帅GG	shuai gg
+帅T	shuai t
+双酚A	shuang fen a
+双核CPU	shuang he cpu
+水浒Q传	shui zuo q chuan
+水木BBS	shui mu bbs
+搜狗TV输入法	sou gou tv shu ru fa
+随E行	sui e xing
+随身WiFi	sui shen wifi
+他QQ	ta qq
+他的QQ	ta de qq
+她QQ	ta qq
+太high	tai high
+唐宁one	tang ning one
+腾讯QQ	teng xun qq
+腾讯QQ登录	teng xun qq deng lu
+提bug	ti bug
+天籁K歌	tian zuo k ge
+天仙MM	tian xian mm
+贴pp	tie pp
+挺high	ting high
+通过QQ	tong guo qq
+偷WiFi	tou wifi
+头文字D	tou wen zi d
+玩CF	wan cf
+玩CS	wan cs
+玩DNF	wan dnf
+玩dota	wan dota
+玩game	wan game
+玩high	wan high
+玩LOL	wan lol
+玩QQ	wan qq
+晚安baby	wan an baby
+万物high	wan wu high
+网页QQ	wang ye qq
+网页QQ登录	wang ye qq deng lu
+维a	wei a
+维A酸	wei a suan
+维B	wei b
+维C	wei c
+维C银翘片	wei c yin qiao pian
+维E	wei e
+维生素A	wei sheng su a
+维生素B	wei sheng su b
+维生素B族	wei sheng su b zu
+维生素C	wei sheng su c
+维生素C片	wei sheng su c pian
+维生素D	wei sheng su d
+维生素E	wei sheng su e
+维生素K	wei sheng su k
+维他命C	wei ta ming c
+维他命E	wei ta ming e
+我hold不住	wo hold bu zhu
+我lol	wo lol
+我OK	wo ok
+我OUT	wo out
+我QQ	wo qq
+我TM	wo tm
+我不上QQ	wo bu shang qq
+我的QQ	wo de qq
+我都OK	wo du ok
+我加你QQ	wo jia ni qq
+我家WiFi	wo jia wifi
+我叫MT	wo jiao mt
+我没上QQ	wo mei shang qq
+我上QQ	wo shang qq
+我上你QQ	wo shang ni qq
+我下QQ	wo xia qq
+我要Q币	wo yao q bi
+我用QQ	wo yong qq
+我用WiFi	wo yong wifi
+我有WiFi	wo you wifi
+我在KTV	wo zai ktv
+我在QQ	wo zai qq
+午夜DJ	wu ye dj
+武侠Q传	wu xia q chuan
+下QQ	xia qq
+吓cry	xia cry
+小baby	xiao baby
+小BOSS	xiao boss
+小C	xiao c
+小case	xiao case
+小DD	xiao dd
+小JJ	xiao jj
+小K	xiao k
+小loli	xiao loli
+小MM	xiao mm
+小pp	xiao pp
+小P孩	xiao p hai
+小Q	xiao q
+小S	xiao s
+小Y	xiao y
+小米Note	xiao mi note
+小米WiFi	xiao mi wifi
+笑傲江湖OL	xiao ao jiang hu ol
+谢谢LZ	xie xie lz
+新QQ	xin qq
+新版QQ	xin ban qq
+信使RNA	xin shi rna
+休闲T恤	xiu xian t xu
+修bug	xiu bug
+学生MM	xue sheng mm
+要QQ	yao qq
+一键root	yi jian root
+一键root大师	yi jian root da shi
+一上QQ	yi shang qq
+移动QQ	yi dong qq
+移动WiFi	yi dong wifi
+异维A酸	yi wei a suan
+印花T恤	yin hua t xu
+用PS	yong ps
+用QQ	yong qq
+用WiFi	yong wifi
+有feel	you feel
+有QQ	you qq
+有WiFi	you wifi
+圆领T恤	yuan ling t xu
+越野e族	yue ye e zu
+在KTV	zai ktv
+在QQ	zai qq
+在QQ上	zai qq shang
+在唱K	zai chang k
+造梦西游OL	zao meng xi you ol
+怎么不上QQ	zen me bu shang qq
+长T	chang t
+长款T恤	chang kuan t xu
+长袖T	chang xiu t
+长袖T恤	chang xiu t xu
+掌阅iReader	zhang yue ireader
+照B超	zhao b chao
+这个ID	zhe ge id
+这个QQ	zhe ge qq
+这么high	zhe me high
+真high	zhen high
+真TM	zhen tm
+真TMD	zhen tmd
+真人CS	zhen ren cs
+只OK	zhi ok
+智能ABC	zhi neng abc
+智能ABC	zhi neng a b c	100
+周K线	zhou k xian
+装B	zhuang b
+咨询QQ	zi xun qq
+自high	zi high
+最IN	zui in
+最牛B	zui niu b
+做B超	zuo b chao
+做PPT	zuo ppt
