@@ -23,4 +23,5 @@ import_tables:
   - luna_pinyin
   - luna_pinyin.sgmain
   - luna_pinyin.cn_en
+  - luna_pinyin.net
 ...
