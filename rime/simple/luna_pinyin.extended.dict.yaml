@@ -21,7 +21,9 @@ use_preset_vocabulary: true
 #雙拼不支持 luna_pinyin.cn_en 詞庫，請用戶手動禁用。
 import_tables:
   - luna_pinyin
-  - luna_pinyin.sgmain
   - luna_pinyin.cn_en
+  - luna_pinyin.daily
+  - luna_pinyin.beijing
+  - luna_pinyin.chat
   - luna_pinyin.net
 ...
