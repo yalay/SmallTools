@@ -27,4 +27,5 @@ import_tables:
   - luna_pinyin.chat
   - luna_pinyin.net
   - luna_pinyin.computer
+  - luna_pinyin.star
 ...
