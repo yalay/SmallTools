@@ -49,7 +49,7 @@ patch:
     #- derive/^r/l/                     # r => l
 
     #- derive/^ren/yin/                 # ren => yin, reng => ying
-    - derive/^shen/sehn/
+    #- derive/^shen/sehn/
     #- derive/^r/y/                     # r => y
 
     # 下面 hu <=> f 這組寫法複雜一些，分情況討論
@@ -100,15 +100,15 @@ patch:
     # 只有真正的方音輸入方案纔能做到！但「反模糊音」這個玩法快速而有效！
 
     # 模糊音定義先於簡拼定義，方可令簡拼支持以上模糊音
-    - abbrev/^([a-z]).+$/$1/           # 簡拼（首字母）
-    - abbrev/^([zcs]h).+$/$1/          # 簡拼（zh, ch, sh）
+    #- abbrev/^([a-z]).+$/$1/           # 簡拼（首字母）
+    #- abbrev/^([zcs]h).+$/$1/          # 簡拼（zh, ch, sh）
 
     # 以下是一組容錯拼寫，《漢語拼音》方案以前者爲正
-    - derive/^([nl])ve$/$1ue/          # nve = nue, lve = lue
-    - derive/^([jqxy])u/$1v/           # ju = jv,
-    - derive/un$/uen/                  # gun = guen,
-    - derive/ui$/uei/                  # gui = guei,
-    - derive/iu$/iou/                  # jiu = jiou,
+    #- derive/^([nl])ve$/$1ue/          # nve = nue, lve = lue
+    #- derive/^([jqxy])u/$1v/           # ju = jv,
+    #- derive/un$/uen/                  # gun = guen,
+    #- derive/ui$/uei/                  # gui = guei,
+    #- derive/iu$/iou/                  # jiu = jiou,
 
     # 自動糾正一些常見的按鍵錯誤
     - derive/([aeiou])ng$/$1gn/        # dagn => dang

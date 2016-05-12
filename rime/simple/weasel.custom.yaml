@@ -7,3 +7,6 @@ customization:
 patch:
   "style/color_scheme": google
   "style/horizontal": true
+  "app_options/Xshell.exe":
+    ascii_mode: true
+ 

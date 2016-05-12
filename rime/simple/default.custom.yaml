@@ -12,6 +12,6 @@ patch:
   ascii_composer/switch_key:
     Caps_Lock: commit_code
     Shift_L: commit_code
-    Shift_R: inline_ascii
-    Control_L: clear
-    Control_R: commit_text
+    Shift_R: noop
+    Control_L: noop
+    Control_R: noop
