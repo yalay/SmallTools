@@ -114,8 +114,9 @@ func main() {
 			continue
 		}
 
-		if GetArea(ipArea[0]) != ipArea[1] {
-			fmt.Printf("ip1:%s\n", ipArea[0])
+		area := GetArea(ipArea[0])
+		if !strings.HasPrefix(area, "CN") {
+			fmt.Printf("ip:%s area:%s\n", ipArea[0], area)
 		}
 	}
 }
