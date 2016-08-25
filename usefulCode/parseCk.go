@@ -12,10 +12,12 @@ import (
 )
 
 var filePath string
+var debug bool
 var reg *regexp.Regexp
 
 func init() {
 	flag.StringVar(&filePath, "log", "log", "log file")
+	flag.BoolVar(&debug, "d", false, "debug log")
 	flag.Parse()
 
 	reg = regexp.MustCompile(`\/c(lk1|lk2|lk3|4|5)?\?\S+`)
@@ -65,7 +67,7 @@ func parseInfo(ckUrl string) url.Values {
 	ckUrl = ckUrl[strings.Index(ckUrl, web.Kinfo):]
 	ckValues, err := url.ParseQuery(ckUrl)
 	if err != nil {
-		fmt.Printf("parse info err:%v", err)
+		debugLog("parse info err:%v\n", err)
 		return nil
 	}
 
@@ -76,7 +78,7 @@ func parseInfo(ckUrl string) url.Values {
 		if err != nil || infoValues.Get(web.Ksid) == "" {
 			infoValues, err = web.ParsePbQuery(info)
 			if err != nil || infoValues.Get(web.Ksid) == "" {
-				fmt.Printf("parse info err2:%v", err)
+				debugLog("parse info err2:%v\n", err)
 				return nil
 			}
 		}
@@ -85,7 +87,7 @@ func parseInfo(ckUrl string) url.Values {
 		if err != nil || infoValues.Get(web.Ksid) == "" {
 			infoValues, err = web.ParseB64Query(info)
 			if err != nil || infoValues.Get(web.Ksid) == "" {
-				fmt.Printf("parse info err3:%v", err)
+				debugLog("parse info err3:%v\n", err)
 				return nil
 			}
 		}
@@ -94,9 +96,16 @@ func parseInfo(ckUrl string) url.Values {
 	return infoValues
 }
 
+func debugLog(format string, a ...interface{}) {
+	if debug {
+		fmt.Printf(format, a...)
+	}
+}
+
 func main() {
 	invalidCkUrls := getInvalidCkUrls()
 	for _, ckUrl := range invalidCkUrls {
+		debugLog("ckUrl:%s\n", ckUrl)
 		slotId := getSlotId(ckUrl)
 		fmt.Println(slotId)
 	}
