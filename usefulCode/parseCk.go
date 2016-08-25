@@ -52,42 +52,52 @@ func isValidTargetUrl(ckUrl string) bool {
 	return true
 }
 
-func parseInfo(ckUrl string) {
+func getSlotId(ckUrl string) string {
+	infoValues := parseInfo(ckUrl)
+	if infoValues == nil {
+		return ""
+	}
+
+	return infoValues.Get(web.KslotId)
+}
+
+func parseInfo(ckUrl string) url.Values {
 	ckUrl = ckUrl[strings.Index(ckUrl, web.Kinfo):]
 	ckValues, err := url.ParseQuery(ckUrl)
 	if err != nil {
 		fmt.Printf("parse info err:%v", err)
-		return
+		return nil
 	}
 
 	info := ckValues.Get(web.Kinfo)
-	var m url.Values
+	var infoValues url.Values
 	if ckValues.Get(web.KisPb) == "" && ckValues.Get(web.Ksid) != web.Adx {
-		m, err = web.ParseB64Query(info)
-		if err != nil || m.Get(web.Ksid) == "" {
-			m, err = web.ParsePbQuery(info)
-			if err != nil || m.Get(web.Ksid) == "" {
+		infoValues, err = web.ParseB64Query(info)
+		if err != nil || infoValues.Get(web.Ksid) == "" {
+			infoValues, err = web.ParsePbQuery(info)
+			if err != nil || infoValues.Get(web.Ksid) == "" {
 				fmt.Printf("parse info err2:%v", err)
-				return
+				return nil
 			}
 		}
 	} else {
-		m, err = web.ParsePbQuery(info)
-		if err != nil || m.Get(web.Ksid) == "" {
-			m, err = web.ParseB64Query(info)
-			if err != nil || m.Get(web.Ksid) == "" {
+		infoValues, err = web.ParsePbQuery(info)
+		if err != nil || infoValues.Get(web.Ksid) == "" {
+			infoValues, err = web.ParseB64Query(info)
+			if err != nil || infoValues.Get(web.Ksid) == "" {
 				fmt.Printf("parse info err3:%v", err)
-				return
+				return nil
 			}
 		}
 	}
 
-	fmt.Println(m.Get(web.KslotId))
+	return infoValues
 }
 
 func main() {
 	invalidCkUrls := getInvalidCkUrls()
 	for _, ckUrl := range invalidCkUrls {
-		parseInfo(ckUrl)
+		slotId := getSlotId(ckUrl)
+		fmt.Println(slotId)
 	}
 }
