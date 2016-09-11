@@ -197,7 +197,12 @@ if($_G['setting']['grid']['showgrid']) {
 					continue;
 				}
 				if($images[$ithread['tid']]['remote']) {
-					$imageurl = $_G['setting']['ftp']['attachurl'].'forum/'.$images[$ithread['tid']]['attachment'];
+					$attachmenturl = $images[$ithread['tid']]['attachment'];
+					if(substr($attachmenturl, 0, 4) === 'http') {
+						$imageurl = $attachmenturl;
+					} else {
+						$imageurl = $_G['setting']['ftp']['attachurl'].'forum/'.$attachmenturl;
+					}
 				} else {
 					$imageurl = $_G['setting']['attachurl'].'forum/'.$images[$ithread['tid']]['attachment'];
 				}
