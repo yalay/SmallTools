@@ -11,19 +11,20 @@ import (
 
 type MogoSlot struct {
 	slotType string
+	slotName string
 	appName  string
 	os       string
 	pkgName  string
 }
 
 type TanxSlot struct {
-	publishName string
-	slotName    string
-	pid         string
-	domain      string
-	publishCat  string
-	slotType    string
-	devType     string
+	slotName   string
+	appName    string
+	pid        string
+	domain     string
+	publishCat string
+	slotType   string
+	devType    string
 }
 
 var filePath = ""
@@ -75,14 +76,15 @@ func main() {
 			pkgName := strings.ToLower(slotIdFields[fieldsLen-1])
 			mogoInfo, ok := mogoSlots[pkgName]
 			if ok {
-				if curLen < 7 {
-					for i := 0; i < 7-curLen; i++ {
+				if curLen < 8 {
+					for i := 0; i < 8-curLen; i++ {
 						row.AddCell()
 					}
 				}
 				row.Cells[4].Value = mogoInfo.appName
-				row.Cells[5].Value = mogoInfo.os
-				row.Cells[6].Value = mogoInfo.slotType
+				row.Cells[5].Value = mogoInfo.slotName
+				row.Cells[6].Value = mogoInfo.os
+				row.Cells[7].Value = mogoInfo.slotType
 			}
 		} else if fieldsLen == 4 {
 			tanxInfo, ok := tanxSlots[slotId]
@@ -92,11 +94,12 @@ func main() {
 						row.AddCell()
 					}
 				}
-				row.Cells[4].Value = tanxInfo.publishName
-				row.Cells[6].Value = tanxInfo.slotType
-				row.Cells[7].Value = tanxInfo.domain
-				row.Cells[8].Value = tanxInfo.publishCat
-				row.Cells[9].Value = tanxInfo.devType
+				row.Cells[4].Value = tanxInfo.appName
+				row.Cells[5].Value = tanxInfo.slotName
+				row.Cells[6].Value = tanxInfo.devType
+				row.Cells[7].Value = tanxInfo.slotType
+				row.Cells[8].Value = tanxInfo.domain
+				row.Cells[9].Value = tanxInfo.publishCat
 			}
 		}
 	}
@@ -119,7 +122,7 @@ func readMogoSlots(filePath string) (map[string]*MogoSlot, error) {
 
 			appName, _ := row.Cells[0].String()
 			os, _ := row.Cells[1].String()
-			slotType, _ := row.Cells[2].String()
+			oriSlotType, _ := row.Cells[2].String()
 			pkgName, _ := row.Cells[3].String()
 
 			pkgName = strings.TrimSpace(pkgName)
@@ -127,9 +130,11 @@ func readMogoSlots(filePath string) (map[string]*MogoSlot, error) {
 				continue
 			}
 
+			slotType := getAdType(oriSlotType)
 			mogoSlot := &MogoSlot{
-				slotType: getAdType(slotType),
+				slotType: slotType,
 				appName:  appName,
+				slotName: os + "-" + appName + "-" + slotType,
 				os:       os,
 				pkgName:  pkgName,
 			}
@@ -152,7 +157,7 @@ func readTanxSlots(filePath string) (map[string]*TanxSlot, error) {
 				continue
 			}
 
-			publishName, _ := row.Cells[0].String()
+			appName, _ := row.Cells[0].String()
 			slotName, _ := row.Cells[1].String()
 			pid, _ := row.Cells[2].String()
 			domain, _ := row.Cells[4].String()
@@ -166,13 +171,13 @@ func readTanxSlots(filePath string) (map[string]*TanxSlot, error) {
 			}
 
 			tanxSlot := &TanxSlot{
-				publishName: publishName,
-				slotName:    slotName,
-				pid:         pid,
-				domain:      domain,
-				publishCat:  publishCat,
-				slotType:    getAdType(slotType),
-				devType:     devType,
+				appName:    appName,
+				slotName:   slotName,
+				pid:        pid,
+				domain:     domain,
+				publishCat: publishCat,
+				slotType:   getAdType(slotType),
+				devType:    devType,
 			}
 			tanxSlots[pid] = tanxSlot
 		}
@@ -188,13 +193,15 @@ func getAdType(slotType string) string {
 		strings.Contains(slotType, "固定"),
 		strings.Contains(slotType, "悬停"),
 		strings.Contains(slotType, "折叠"):
-		return "banner"
+		return "Banner"
 	case strings.Contains(slotType, "插屏"):
 		return "插屏"
+	case strings.Contains(slotType, "开屏"):
+		return "开屏"
 	case strings.Contains(slotType, "native"):
-		return "feeds"
+		return "普通信息流"
 	}
-	return "slotType"
+	return slotType
 }
 
 func failedNotice(err error) {
