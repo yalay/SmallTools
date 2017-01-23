@@ -6,8 +6,9 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
-	"path"
+	"path/filepath"
 	"strings"
+	"time"
 
 	"github.com/jhoonb/archivex"
 )
@@ -23,38 +24,45 @@ func init() {
 	flag.Parse()
 }
 
-// Example using only func zip
-func zip(srcFolder, dstFolder string) {
+func zipAd(srcFolder, dstFolder string) {
 	imgPaths := getAllImgPath(srcFolder)
 	if len(imgPaths) == 0 {
 		return
 	}
 
-	baseName := path.Base(srcFolder)
+	baseName := filepath.Base(srcFolder)
 	nameFields := strings.SplitN(baseName, " ", 3)
 	if len(nameFields) < 3 {
 		return
 	}
 
 	os.MkdirAll(dstFolder, 0755)
-	zip := new(archivex.ZipFile)
+	zipFile := &archivex.ZipFile{}
 	newName := fmt.Sprintf("%s%s[%dP].zip", nameFields[0], nameFields[1], len(imgPaths))
-	zip.Create(path.Join(dstFolder, newName))
+	err := zipFile.Create(filepath.Join(dstFolder, newName))
+	if err != nil {
+		log.Printf("create err:%v\n", err)
+		time.Sleep(5 * time.Second)
+		return
+	}
+
 	for _, imgPath := range imgPaths {
 		data, err := ioutil.ReadFile(imgPath)
 		if err != nil {
 			log.Printf("read img err:%v\n", err)
 			continue
 		}
-		zip.Add(path.Base(imgPath), data)
+		zipFile.Add(filepath.Base(imgPath), data)
+		time.Sleep(5 * time.Second)
 	}
-	zip.Add("tengmm.com.txt", nil)
-	zip.Close()
+	zipFile.Add("tengmm.com.txt", []byte("资源来自http://tengmm.com，欢迎回访。"))
+	zipFile.Close()
 }
 
 func getAllImgPath(folder string) []string {
 	files, err := ioutil.ReadDir(folder)
 	if err != nil {
+		time.Sleep(5 * time.Second)
 		return nil
 	}
 	paths := make([]string, 0, len(files))
@@ -66,10 +74,12 @@ func getAllImgPath(folder string) []string {
 			lowerFileName := strings.ToLower(fileName)
 			if !strings.HasSuffix(lowerFileName, ".jpg") &&
 				!strings.HasSuffix(lowerFileName, ".jpeg") &&
-				!strings.HasSuffix(lowerFileName, ".png") {
+				!strings.HasSuffix(lowerFileName, ".png") &&
+				!strings.HasSuffix(lowerFileName, ".gif") {
 				log.Printf("not img:%s\n", fileName)
+				continue
 			}
-			paths = append(paths, path.Join(folder, fileName))
+			paths = append(paths, filepath.Join(folder, fileName))
 		}
 	}
 	return paths
@@ -83,5 +93,5 @@ func main() {
 	if folderPath == "" {
 		folderPath = os.Args[1]
 	}
-	zip(folderPath, outputFolder)
+	zipAd(folderPath, outputFolder)
 }
