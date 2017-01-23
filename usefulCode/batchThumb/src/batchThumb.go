@@ -9,7 +9,7 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
-	"path"
+	"path/filepath"
 	"strings"
 
 	"github.com/nfnt/resize"
@@ -33,14 +33,14 @@ func batchThumbnail(srcFolder, dstFolder string) {
 		return
 	}
 
-	baseName := path.Base(srcFolder)
+	baseName := filepath.Base(srcFolder)
 	nameFields := strings.SplitN(baseName, " ", 3)
 	if len(nameFields) < 3 {
 		return
 	}
 
 	newName := fmt.Sprintf("%s%s[%dP]", nameFields[0], nameFields[1], len(imgPaths))
-	newFolder := path.Join(dstFolder, newName)
+	newFolder := filepath.Join(dstFolder, newName)
 	os.MkdirAll(newFolder, 0755)
 	for _, imgPath := range imgPaths {
 		img, err := loadImage(imgPath)
@@ -49,8 +49,8 @@ func batchThumbnail(srcFolder, dstFolder string) {
 			continue
 		}
 
-		imgName := path.Base(imgPath)
-		newFile, err := os.Create(path.Join(newFolder, imgName))
+		imgName := filepath.Base(imgPath)
+		newFile, err := os.Create(filepath.Join(newFolder, imgName))
 		if err != nil {
 			log.Printf("new file err:%v\n", err)
 			continue
@@ -106,8 +106,9 @@ func getAllImgPath(folder string) []string {
 				!strings.HasSuffix(lowerFileName, ".jpeg") &&
 				!strings.HasSuffix(lowerFileName, ".png") {
 				log.Printf("not img:%s\n", fileName)
+				continue
 			}
-			paths = append(paths, folder+"/"+fileName)
+			paths = append(paths, filepath.Join(folder, fileName))
 		}
 	}
 	return paths
