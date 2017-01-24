@@ -8,20 +8,36 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
+	"sync"
 	"time"
 
 	"github.com/jhoonb/archivex"
 )
 
 var (
-	folderPath   string
-	outputFolder string
+	folderPath       string
+	parentFolderPath string
+	outputFolder     string
 )
 
 func init() {
 	flag.StringVar(&folderPath, "f", "", "f=test")
+	flag.StringVar(&parentFolderPath, "p", "", "f=parent")
 	flag.StringVar(&outputFolder, "o", "zip", "o=zip")
 	flag.Parse()
+}
+
+func batchZipAd(srcFolders []string, dstFolder string) {
+	var wg sync.WaitGroup
+	for _, srcFolder := range srcFolders {
+		wg.Add(1)
+		go func(folder string) {
+			zipAd(folder, dstFolder)
+			log.Println("zip end:" + folder)
+			wg.Done()
+		}(srcFolder)
+	}
+	wg.Wait()
 }
 
 func zipAd(srcFolder, dstFolder string) {
@@ -85,6 +101,23 @@ func getAllImgPath(folder string) []string {
 	return paths
 }
 
+func getChildrenFolderPath(parentPath string) []string {
+	folders, err := ioutil.ReadDir(parentPath)
+	if err != nil {
+		time.Sleep(5 * time.Second)
+		return nil
+	}
+
+	rspFolders := make([]string, 0, len(folders))
+	for _, folder := range folders {
+		if !folder.IsDir() {
+			continue
+		}
+		rspFolders = append(rspFolders, filepath.Join(parentPath, folder.Name()))
+	}
+	return rspFolders
+}
+
 func main() {
 	if len(os.Args) < 2 {
 		return
@@ -93,5 +126,11 @@ func main() {
 	if folderPath == "" {
 		folderPath = os.Args[1]
 	}
-	zipAd(folderPath, outputFolder)
+
+	if parentFolderPath != "" {
+		foldersPath := getChildrenFolderPath(parentFolderPath)
+		batchZipAd(foldersPath, outputFolder)
+	} else {
+		zipAd(folderPath, outputFolder)
+	}
 }
