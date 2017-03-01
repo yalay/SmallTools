@@ -11,23 +11,40 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
+	"sync"
+	"time"
 
 	"github.com/nfnt/resize"
 )
 
 var (
-	folderPath   string
-	outputFolder string
+	folderPath       string
+	parentFolderPath string
+	outputFolder     string
 )
 
 func init() {
 	flag.StringVar(&folderPath, "f", "", "f=test")
 	flag.StringVar(&outputFolder, "o", "thumbnail", "o=thumbnail")
+	flag.StringVar(&parentFolderPath, "p", "", "p=parent")
 	flag.Parse()
 }
 
+func batchThumbnail(srcFolders []string, dstFolder string) {
+	var wg sync.WaitGroup
+	for _, srcFolder := range srcFolders {
+		wg.Add(1)
+		go func(folder string) {
+			thumbnail(folder, dstFolder)
+			log.Println("thumbnail end:" + folder)
+			wg.Done()
+		}(srcFolder)
+	}
+	wg.Wait()
+}
+
 // [LeYuan]Vol.003[50P] xxxx
-func batchThumbnail(srcFolder, dstFolder string) {
+func thumbnail(srcFolder, dstFolder string) {
 	imgPaths := getAllImgPath(srcFolder)
 	if len(imgPaths) == 0 {
 		return
@@ -39,7 +56,9 @@ func batchThumbnail(srcFolder, dstFolder string) {
 		return
 	}
 
-	newName := fmt.Sprintf("%s%s[%dP]", nameFields[0], nameFields[1], len(imgPaths))
+	catName := nameFields[0]
+	catName = strings.Trim(catName, "[]")
+	newName := fmt.Sprintf("%s-%s-%dP", catName, nameFields[1], len(imgPaths))
 	newFolder := filepath.Join(dstFolder, newName)
 	os.MkdirAll(newFolder, 0755)
 	for _, imgPath := range imgPaths {
@@ -114,6 +133,23 @@ func getAllImgPath(folder string) []string {
 	return paths
 }
 
+func getChildrenFolderPath(parentPath string) []string {
+	folders, err := ioutil.ReadDir(parentPath)
+	if err != nil {
+		time.Sleep(5 * time.Second)
+		return nil
+	}
+
+	rspFolders := make([]string, 0, len(folders))
+	for _, folder := range folders {
+		if !folder.IsDir() {
+			continue
+		}
+		rspFolders = append(rspFolders, filepath.Join(parentPath, folder.Name()))
+	}
+	return rspFolders
+}
+
 func main() {
 	if len(os.Args) < 2 {
 		return
@@ -122,5 +158,11 @@ func main() {
 	if folderPath == "" {
 		folderPath = os.Args[1]
 	}
-	batchThumbnail(folderPath, outputFolder)
+
+	if parentFolderPath != "" {
+		foldersPath := getChildrenFolderPath(parentFolderPath)
+		batchThumbnail(foldersPath, outputFolder)
+	} else {
+		thumbnail(folderPath, outputFolder)
+	}
 }
