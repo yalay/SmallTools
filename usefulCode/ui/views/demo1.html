@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<style>
+		table {
+			width: 100%;
+			border-collapse: collapse;
+		}
+
+		table td {
+			padding: 10px;
+		}
+
+		table td:first-child {
+			white-space:nowrap;
+		}
+	</style>
+</head>
+<body>
+<form action="">
+	<table>
+		<tr>
+			<td>源文件夹:</td>
+			<td>
+				<input id="srcdir" type="text">
+			</td>
+		</tr>
+		<tr>
+			<td>目标文件夹:</td>
+			<td>
+				<input id="dstdir" type="text">
+			</td>
+		</tr>
+		<tr>
+			<td>包含当前文件夹:</td>
+			<td>
+				<input id="includecur" type="checkbox" value="0">
+			</td>
+		</tr>
+
+
+		<tr>
+			<td></td>
+			<td><button id="btn1">启动</button></td>
+		</tr>
+	</table>
+</form>
+</body>
+</html>

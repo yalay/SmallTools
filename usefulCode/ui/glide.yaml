@@ -1,0 +1,5 @@
+package: .
+import:
+- package: github.com/sciter-sdk/go-sciter
+  subpackages:
+  - window
