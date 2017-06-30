@@ -22,7 +22,7 @@ var (
 
 func init() {
 	flag.StringVar(&folderPath, "f", "", "f=test")
-	flag.StringVar(&parentFolderPath, "p", "", "f=parent")
+	flag.StringVar(&parentFolderPath, "p", "", "p=parent")
 	flag.StringVar(&outputFolder, "o", "zip", "o=zip")
 	flag.Parse()
 }
@@ -69,7 +69,6 @@ func zipAd(srcFolder, dstFolder string) {
 			continue
 		}
 		zipFile.Add(filepath.Base(imgPath), data)
-		time.Sleep(5 * time.Second)
 	}
 	zipFile.Add("tengmm.com.txt", []byte("资源来自http://tengmm.com，欢迎回访。"))
 	zipFile.Close()
