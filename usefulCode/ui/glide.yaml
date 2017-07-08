@@ -3,3 +3,7 @@ import:
 - package: github.com/sciter-sdk/go-sciter
   subpackages:
   - window
+- package: golang.org/x/image
+  repo: https://github.com/golang/image.git
+  subpackages:
+  - bmp

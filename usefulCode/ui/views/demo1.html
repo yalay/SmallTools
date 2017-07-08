@@ -3,48 +3,190 @@
 <head>
 	<meta charset="UTF-8">
 	<style>
-		table {
-			width: 100%;
-			border-collapse: collapse;
+		body {
+			margin:10px;
+			padding-left:24px;
+			padding-right:24px;
+			flow: grid(
+				1 1,
+				2 3,
+				2 4,
+			    2 5,
+			);
 		}
-
-		table td {
-			padding: 10px;
+		header{
+			font-size: 120%;
 		}
-
-		table td:first-child {
-			white-space:nowrap;
+		note {
+			display:block;
+			text-align: center;
+			background:#EEF;
+			border-radius:24px;
+			foreground: url(res:icon-information.png) no-repeat 4px 50%;
+			min-height: 44px;
+			vertical-align:middle;
 		}
+		.drop-zone {
+			prototype: DropZone;
+			margin-top: 10px;
+			margin-bottom: 10px;
+			width: 1*;
+			height: 1*;
+			color: gray;
+			border: 4px dashed;
+			vertical-align:middle;
+			text-align:center;
+		}
+		.drop-zone.active-target {
+			background:gold;
+		}
+		.table { display: block; margin: 10px; width: 1*; flow: row(label, select input div); border-spacing: 6px;}
+		.table label { width: 1*; white-space:nowrap; horizontal-align:right; vertical-align: middle}
+		.table input, .table select, .table div { width: 3*; horizontal-align:right; vertical-align: middle}
+		.rightlabel { width: 15%; float: right}
 	</style>
 </head>
 <body>
-<form action="">
-	<table>
-		<tr>
-			<td>源文件夹:</td>
-			<td>
-				<input id="srcdir" type="text">
-			</td>
-		</tr>
-		<tr>
-			<td>目标文件夹:</td>
-			<td>
-				<input id="dstdir" type="text">
-			</td>
-		</tr>
-		<tr>
-			<td>包含当前文件夹:</td>
-			<td>
-				<input id="includecur" type="checkbox" value="0">
-			</td>
-		</tr>
+<note>
+	图片批量压缩裁剪工具，可拖放图片文件或者文件夹到下面区域。
+</note>
+<div id="drop-zone" class="drop-zone">
+	拖放图片文件或文件夹到这里
+</div>
+<form class="table">
+	<header>设置</header>
+	<label>模式</label>
+	<select id="model">
+	<option value="0">等比例</option>
+	<option value="1">定宽高</option>
+	</select>
+	<label>单位</label>
+	<select id="unit">
+		<option value="0">像素值</option>
+		<option value="1">百分比</option>
+	</select>
+	<label>生成格式</label>
+	<select id="format">
+		<option value="0">原图格式</option>
+		<option value="1">jpg</option>
+		<option value="2">png</option>
+		<option value="3">gif</option>
+		<option value="4">webp</option>
+	</select>
 
-
-		<tr>
-			<td></td>
-			<td><button id="btn1">启动</button></td>
-		</tr>
-	</table>
+	<label>宽度</label>
+	<div>
+		<input style="width: 68%" id="width_text" type="text">
+		<label id="width_label">px</label>
+	</div>
+	<label>高度</label>
+	<div>
+		<input style="width: 68%" id="height_text" type="text">
+		<label id="height_label">px</label>
+	</div>
+	<label>源目录</label>
+	<div>
+		<input id="publish_src" style="width: 68%" type="text">
+		<button id="select_src" style="width: 15%">选择</button>
+	</div>
+	<label>生成目录</label>
+	<div>
+		<input id="publish_dst" style="width: 68%" type="text">
+		<button id="select_dst" style="width: 15%">选择</button>
+	</div>
 </form>
+<div style="height: 1*"></div>
+<div>
+	<button id="preview" style="width: 40%; float: left">预览</button>
+	<button id="exec" style="width: 40%; float: right">执行</button>
+</div>
+<script type="text/tiscript">
+	class DropZone :Behavior
+	{
+		function onExchange(evt)
+		{
+			if( evt.type == Event.X_DRAG_ENTER)
+			{
+			    this.attributes.addClass("active-target");
+			    var types = evt.exchangeData();
+			    this.html = types.join("<br>");
+			    return true;
+			}
+			else if( evt.type == Event.X_DRAG_LEAVE )
+			{
+			    this.attributes.removeClass("active-target");
+			    return true;
+			}
+			else if( evt.type == Event.X_DRAG)
+	        {
+		          return true;
+	        }
+			else if( evt.type == Event.X_DROP)
+			{
+			    this.attributes.removeClass("active-target");
+			    var rspVal = JSON.parse(this.showAttr(evt.dragging));
+			    $(#unit).value="0";
+			    unitChange("0");
+			    $(#width_text).text=rspVal.width;
+			    $(#height_text).text=rspVal.height;
+				$(#publish_src).text = rspVal.fullpath;
+			    return true;
+			}
+		}
+	}
+
+	function unitChange(curValue) {
+		if(curValue == "0") {
+			$(#width_label).text = "px";
+			$(#height_label).text = "px";
+			$(#width_text).text="";
+			$(#height_text).text="";
+		} else {
+			$(#width_label).text = "%";
+			$(#height_label).text = "%";
+			$(#width_text).text=100;
+			$(#height_text).text=100;
+		}
+	}
+
+	self.on("change", "#unit", function() {
+		unitChange(this.value);
+	});
+
+	self.on("click","#select_src",function(){
+        var selectDir = view.selectFolder("选择需要压缩的图片目录");
+        if(selectDir.trim() != "") {
+            $(#publish_src).text = selectDir;
+        }
+    });
+
+    self.on("click","#select_dst",function(){
+        var selectDir = view.selectFolder("选择缩略后图片生成目录");
+        if(selectDir.trim() != "") {
+            $(#publish_dst).text = selectDir;
+        }
+    });
+
+    self.on("click","#exec",function(){
+        var dragFile = $(#publish_src).text.trim();
+        if(dragFile == "") {
+            view.msgbox(#warning, "请先拖拽图片文件或文件夹");
+            return true;
+        }
+
+		var formData = {
+            "path": dragFile,
+            "unit": $(#unit).value,
+            "format": $(#format).value,
+            "width": $(#width_text).text.trim(),
+            "height": $(#height_text).text.trim(),
+            "publish": $(#publish_dst).text.trim(),
+        };
+        var rspMsg = JSON.parse(this.exec(JSON.stringify(formData)));
+        if(rspMsg.err != "") {
+            view.msgbox(#warning, rspMsg.err);
+        }
+    });
+</script>
 </body>
 </html>

@@ -9,7 +9,7 @@ import (
 func NewWindows(file, title string) *window.Window {
 	w, err := window.New(
 		sciter.SW_TITLEBAR | sciter.SW_MAIN | sciter.SW_CONTROLS | sciter.SW_ENABLE_DEBUG,
-		&sciter.Rect{200, 200, 600, 800})
+		&sciter.Rect{200, 100, 726, 600})
 	if err != nil {
 		log.Fatal(err)
 	}

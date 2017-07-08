@@ -1,12 +1,19 @@
-hash: ed8cbe379dd83896d7636ffb7a9526206e5cd07649cbed1074ef966b73888dfa
-updated: 2017-06-30T17:12:56.8735062+08:00
+hash: 385e0b30b173b6be36d232dc2b70d24f1411edc8e35dabef0f676e1f4b8afd1b
+updated: 2017-07-08T15:35:09.1334995+08:00
 imports:
-- name: github.com/jhoonb/archivex
-  version: be4efa7ec0c38ab76d56037014c90d48d6b13037
+- name: github.com/disintegration/imaging
+  version: ac27d1805a555e1754fa177216ee07f4e63c30b5
 - name: github.com/lxn/win
   version: cd28d435f783e79477f1ebbd983dd8dd72315064
 - name: github.com/sciter-sdk/go-sciter
   version: 6f2b5cf1d1b9e8689818488c19ce0a3dbfefff88
   subpackages:
   - window
+- name: golang.org/x/image
+  version: 426cfd8eeb6e08ab1932954e09e3c2cb2bc6e36d
+  repo: https://github.com/golang/image.git
+  subpackages:
+  - bmp
+  - tiff
+  - tiff/lzw
 testImports: []
