@@ -1,0 +1,6 @@
+hash: 1e2481c07c7e84427d217e7e8e80829f395eca90d66f792b7c112ca69e9da9af
+updated: 2017-07-28T14:43:50.8689019+08:00
+imports:
+- name: github.com/xuri/excelize
+  version: 961996a8132eda8671d2de45fe21bfeb43866752
+testImports: []
