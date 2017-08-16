@@ -6,6 +6,7 @@ import (
 	"os"
 	"strconv"
 	"flag"
+	"time"
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/xuri/excelize"
@@ -75,14 +76,14 @@ func init() {
 	flag.Parse()
 
 	var err error
-	db, err = sql.Open("mysql", "root:@10.8.54.136/app_news?charset=utf8")
+	db, err = sql.Open("mysql", "root:@10.8.54.136/app_news?charset=utf8&parseTime=true")
 	if err != nil {
 		panic(err)
 	}
 }
 
 func (n *NewsSource) Insert() {
-	webSql := fmt.Sprintf("select id from zyz_web_source where name like '%s' LIMIT 1", n.Name)
+	webSql := `select ID from zyz_web_source where name like "%`+ n.Name + `%"`
 	rows, err := db.Query(webSql)
 	if err != nil {
 		fmt.Println(err)
@@ -95,7 +96,7 @@ func (n *NewsSource) Insert() {
 	}
 	rows.Close()
 	if webId == 0 {
-		fmt.Println("not found. " + n.Website)
+		fmt.Println("not found. " + n.Name)
 		return
 	}
 
@@ -112,7 +113,8 @@ func (n *NewsSource) Insert() {
 		return
 	}
 
-	sourceInsertSql := fmt.Sprintf("INSERT zyz_article_source_grab (webid, website, channelid) VAlUES (%d, '%s', %d)", webId, n.Website, n.ChannelId)
+	sourceInsertSql := fmt.Sprintf("INSERT zyz_article_source_grab (webid, website, channelid, createtime, create_userid, update_userid) VAlUES (%d, '%s', %d, '%s', 10381, 10381)",
+		webId, n.Website, n.ChannelId, time.Now().Format("2006-01-02 15:04:05"))
 	if debug {
 		fmt.Println(sourceInsertSql)
 	} else {
@@ -170,7 +172,7 @@ func insertSource(websites []string) {
 			continue
 		}
 
-		sourceSql := fmt.Sprintf("select name from zyz_web_source where name like '%s'", website)
+		sourceSql := `select name from zyz_web_source where name like "%`+ website + `%"`
 		rows, err := db.Query(sourceSql)
 		if err != nil {
 			fmt.Println(err)
