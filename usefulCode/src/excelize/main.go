@@ -7,6 +7,9 @@ import (
 	"strconv"
 	"flag"
 	"time"
+	"net/url"
+	"net/http"
+	"io/ioutil"
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/xuri/excelize"
@@ -127,7 +130,7 @@ func (n *NewsSource) Insert() {
 
 }
 
-func main() {
+func insert() {
 	xlsx, err := excelize.OpenFile(fileName)
 	if err != nil {
 		fmt.Println(err)
@@ -164,6 +167,12 @@ func main() {
 	for _, news := range newss {
 		news.Insert()
 	}
+
+}
+
+func main() {
+	//insert()
+	translate()
 }
 
 func insertSource(websites []string) {
@@ -199,4 +208,61 @@ func insertSource(websites []string) {
 			}
 		}
 	}
+}
+
+func translate() {
+	webSql := `select ID, name from zyz_web_source where ID>5000`
+	rows, err := db.Query(webSql)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	var sourceId int
+	var sourceName string
+	var newNames = make(map[int]string)
+	for rows.Next() {
+		rows.Scan(&sourceId, &sourceName)
+		if sourceName != "" {
+			newName, err := TranslateToCht(sourceName)
+			if err != nil {
+				fmt.Println(err)
+				continue
+			}
+
+			if newName != sourceName {
+				newNames[sourceId] = newName
+			}
+		}
+	}
+	rows.Close()
+	for id, name := range newNames {
+		if debug {
+			fmt.Printf("%d %s\n", id, name)
+		} else {
+			_, err := db.Exec("UPDATE zyz_web_source SET name=? where ID=?", name, id)
+			if err != nil {
+				fmt.Println(err)
+			}
+		}
+	}
+}
+
+func TranslateToCht(text string) (string, error) {
+	baseUrl := "http://opencc.byvoid.com/convert"
+	queryParam := url.Values{}
+	queryParam.Set("text", text)
+	queryParam.Set("config", "hk.json")
+	queryParam.Set("precise", "0")
+	resp, err := http.PostForm(baseUrl, queryParam)
+	if err != nil {
+		return "", err
+	}
+
+	defer resp.Body.Close()
+	body, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		return "", err
+	}
+	return string(body), nil
 }
