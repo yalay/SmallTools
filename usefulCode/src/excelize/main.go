@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"strconv"
+	"flag"
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/xuri/excelize"
@@ -58,13 +59,21 @@ var catIds = map[string]int{
 var db *sql.DB
 
 type NewsSource struct {
-	Name      string
-	WebId     int
-	Website   string
-	ChannelId int
+	Name       string
+	WebId      int
+	Website    string
+	SourceName string
+	ChannelId  int
 }
 
+var debug bool
+var fileName string
+
 func init() {
+	flag.BoolVar(&debug, "d", false, "is debug")
+	flag.StringVar(&fileName, "f", "./test.xlsx", "excel file")
+	flag.Parse()
+
 	var err error
 	db, err = sql.Open("mysql", "root:@10.8.54.136/app_news?charset=utf8")
 	if err != nil {
@@ -103,17 +112,21 @@ func (n *NewsSource) Insert() {
 		return
 	}
 
-	sourceInsertSql := fmt.Sprintf("INSERT TABLE zyz_article_source_grab (webid, website, channelid) VAlUES (%d, '%s', %d)", webId, n.Website, n.ChannelId)
-	rows3, err := db.Query(sourceInsertSql)
-	if err != nil {
-		fmt.Println(err)
-		return
+	sourceInsertSql := fmt.Sprintf("INSERT zyz_article_source_grab (webid, website, channelid) VAlUES (%d, '%s', %d)", webId, n.Website, n.ChannelId)
+	if debug {
+		fmt.Println(sourceInsertSql)
+	} else {
+		_, err := db.Exec(sourceInsertSql)
+		if err != nil {
+			fmt.Println(err)
+			return
+		}
 	}
-	defer rows3.Close()
+
 }
 
 func main() {
-	xlsx, err := excelize.OpenFile("./test.xlsx")
+	xlsx, err := excelize.OpenFile(fileName)
 	if err != nil {
 		fmt.Println(err)
 		os.Exit(1)
@@ -145,12 +158,43 @@ func main() {
 		}
 	}
 
-	for _, website := range websites {
-		fmt.Printf("insert into zyz_web_source (name) VALUES ('%s') from zyz_web_source where not exists (select * from zyz_web_source where name like '%s');\n", website, website)
-	}
-
+	insertSource(websites)
 	for _, news := range newss {
-		fmt.Println(news)
+		news.Insert()
 	}
+}
 
+func insertSource(websites []string) {
+	for _, website := range websites {
+		if website == "" {
+			continue
+		}
+
+		sourceSql := fmt.Sprintf("select name from zyz_web_source where name like '%s'", website)
+		rows, err := db.Query(sourceSql)
+		if err != nil {
+			fmt.Println(err)
+			return
+		}
+		var sourceName string
+		for rows.Next() {
+			rows.Scan(&sourceName)
+		}
+		rows.Close()
+
+		if sourceName != "" {
+			fmt.Println(sourceName + " exist")
+			continue
+		}
+
+		sourceInsertSql := fmt.Sprintf("INSERT zyz_web_source (name) VAlUES ('%s')", website)
+		if debug {
+			fmt.Println(sourceInsertSql)
+		} else {
+			_, err := db.Exec(sourceInsertSql)
+			if err != nil {
+				fmt.Println(err)
+			}
+		}
+	}
 }
